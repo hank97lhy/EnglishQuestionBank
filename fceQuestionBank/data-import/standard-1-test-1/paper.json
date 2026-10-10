@@ -1,0 +1,2250 @@
+{
+  "catalog": {
+    "edition_code": "standard",
+    "edition_name": "标准版",
+    "edition_sort_order": 1,
+    "book_no": 1,
+    "book_title": "标准版 1",
+    "book_sort_order": 1,
+    "test_no": 1,
+    "slug": "standard-1-test-1"
+  },
+  "paper": {
+    "title": "FCE标准版真题1 Test 1 · 阅读与语用讲评",
+    "subtitle": "Reading and Use of English（1小时15分钟）· Part 1–Part 7",
+    "duration_minutes": 75,
+    "status": "published",
+    "edition_note": "",
+    "source_metadata": {
+      "exam_page": 2,
+      "publication_status": "用户提供的FCE标准版真题1 Test 1扫描原卷；阅读与语用为PDF第2–13页。",
+      "links": [],
+      "paper_file": "题目/FCE题目/标准版1/标1-T1.pdf",
+      "answer_file": "题目/FCE题目/FCE-ANSWERS/标准版/S01-T1.pdf",
+      "pdf_pages": [
+        2,
+        13
+      ],
+      "printed_pages": [
+        8,
+        19
+      ],
+      "supplement_file": "FCE网站最终版/standard-1-test-1/index.html"
+    }
+  },
+  "sections": [
+    {
+      "code": "P1",
+      "part_no": 1,
+      "title": "Part 1",
+      "question_format": "multiple_choice_cloze",
+      "paper_reference": "标1-T1.pdf · Part 1",
+      "expected_option_count": 4,
+      "sort_order": 1,
+      "source_groups": [],
+      "paragraphs": [
+        {
+          "source_key": "P1-h",
+          "role": "heading",
+          "text": "Why we need to play",
+          "translation": "",
+          "sort_order": 1
+        },
+        {
+          "source_key": "P1-p1",
+          "role": "paragraph",
+          "text": "Human beings are not the only creatures that like to (0) have fun. Many animals play, as do some birds. However, no other creatures spend so much time enjoying themselves as human beings do. Indeed, we {{1}} onto our sense of fun right into adulthood.",
+          "translation": "",
+          "sort_order": 2
+        },
+        {
+          "source_key": "P1-p2",
+          "role": "paragraph",
+          "text": "So why do human beings spend so much time playing? One reason is that we have time for leisure; animals have very little time to play as most of their life is spent sleeping and {{2}} food.",
+          "translation": "",
+          "sort_order": 3
+        },
+        {
+          "source_key": "P1-p3",
+          "role": "paragraph",
+          "text": "So, is play just an opportunity for us to {{3}} in enjoyable activities or does it have a more important {{4}}? According to scientists, {{5}} from being fun, play has several very real {{6}} for us - it helps our physical, intellectual and social development. It also helps to {{7}} us for what we have not yet experienced. With very {{8}} risk, we can act out what we would do in unexpected, or even dangerous, situations.",
+          "translation": "",
+          "sort_order": 4
+        }
+      ],
+      "option_sets": [
+        {
+          "code": "question-1",
+          "options": [
+            {
+              "label": "A",
+              "content": "hold",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "keep",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "save",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "stay",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-2",
+          "options": [
+            {
+              "label": "A",
+              "content": "searching",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "looking",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "seeking",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "gaining",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-3",
+          "options": [
+            {
+              "label": "A",
+              "content": "engage",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "combine",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "contribute",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "involve",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-4",
+          "options": [
+            {
+              "label": "A",
+              "content": "motive",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "purpose",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "intention",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "cause",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-5",
+          "options": [
+            {
+              "label": "A",
+              "content": "excluding",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "except",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "apart",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "away",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-6",
+          "options": [
+            {
+              "label": "A",
+              "content": "assets",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "profits",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "services",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "benefits",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-7",
+          "options": [
+            {
+              "label": "A",
+              "content": "plan",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "prepare",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "practise",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "provide",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-8",
+          "options": [
+            {
+              "label": "A",
+              "content": "brief",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "short",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "narrow",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "little",
+              "sort_order": 4
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "stem": "Indeed, we {{1}} onto our sense of fun right into adulthood.",
+          "analysis": "hold on to 是固定搭配，意为‘保留；不放弃’。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "hold on to 是固定搭配，意为‘保留；不放弃’。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 1,
+          "sort_order": 1,
+          "option_set_code": "question-1",
+          "question_type_label": "Part 1 · 词义与固定搭配",
+          "answer": {
+            "raw_answer": "A",
+            "display_text": "A",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P1; question 1"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P1-p1",
+              "quote": "onto our sense of fun right into adulthood"
+            }
+          ]
+        },
+        {
+          "stem": "One reason is that we have time for leisure; animals have very little time to play as most of their life is spent sleeping and {{2}} food.",
+          "analysis": "seek food 表示‘寻找食物’；spend time doing 决定用 -ing 形式。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "seek food 表示‘寻找食物’；spend time doing 决定用 -ing 形式。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 2,
+          "sort_order": 2,
+          "option_set_code": "question-2",
+          "question_type_label": "Part 1 · 词义与固定搭配",
+          "answer": {
+            "raw_answer": "C",
+            "display_text": "C",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P1; question 2"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P1-p2",
+              "quote": "sleeping and {{2}} food"
+            }
+          ]
+        },
+        {
+          "stem": "So, is play just an opportunity for us to {{3}} in enjoyable activities or does it have a more important {{4}}?",
+          "analysis": "engage in activities 是固定搭配，意为‘参加活动’。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "engage in activities 是固定搭配，意为‘参加活动’。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 3,
+          "sort_order": 3,
+          "option_set_code": "question-3",
+          "question_type_label": "Part 1 · 词义与固定搭配",
+          "answer": {
+            "raw_answer": "A",
+            "display_text": "A",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P1; question 3"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P1-p3",
+              "quote": "opportunity for us to {{3}} in enjoyable activities"
+            }
+          ]
+        },
+        {
+          "stem": "So, is play just an opportunity for us to {{3}} in enjoyable activities or does it have a more important {{4}}?",
+          "analysis": "purpose 表示游戏更重要的‘目的/作用’。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "purpose 表示游戏更重要的‘目的/作用’。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 4,
+          "sort_order": 4,
+          "option_set_code": "question-4",
+          "question_type_label": "Part 1 · 词义与固定搭配",
+          "answer": {
+            "raw_answer": "B",
+            "display_text": "B",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P1; question 4"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P1-p3",
+              "quote": "a more important {{4}}"
+            }
+          ]
+        },
+        {
+          "stem": "According to scientists, {{5}} from being fun, play has several very real {{6}} for us - it helps our physical, intellectual and social development.",
+          "analysis": "apart from 意为‘除了……之外’，与后文 benefits 呼应。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "apart from 意为‘除了……之外’，与后文 benefits 呼应。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 5,
+          "sort_order": 5,
+          "option_set_code": "question-5",
+          "question_type_label": "Part 1 · 词义与固定搭配",
+          "answer": {
+            "raw_answer": "C",
+            "display_text": "C",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P1; question 5"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P1-p3",
+              "quote": "{{5}} from being fun"
+            }
+          ]
+        },
+        {
+          "stem": "According to scientists, {{5}} from being fun, play has several very real {{6}} for us - it helps our physical, intellectual and social development.",
+          "analysis": "benefits 指游戏对身心和社交发展的益处。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "benefits 指游戏对身心和社交发展的益处。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 6,
+          "sort_order": 6,
+          "option_set_code": "question-6",
+          "question_type_label": "Part 1 · 词义与固定搭配",
+          "answer": {
+            "raw_answer": "D",
+            "display_text": "D",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P1; question 6"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P1-p3",
+              "quote": "several very real {{6}} for us"
+            }
+          ]
+        },
+        {
+          "stem": "It also helps to {{7}} us for what we have not yet experienced.",
+          "analysis": "prepare sb for sth 意为‘使某人为某事做好准备’。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "prepare sb for sth 意为‘使某人为某事做好准备’。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 7,
+          "sort_order": 7,
+          "option_set_code": "question-7",
+          "question_type_label": "Part 1 · 词义与固定搭配",
+          "answer": {
+            "raw_answer": "B",
+            "display_text": "B",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P1; question 7"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P1-p3",
+              "quote": "helps to {{7}} us"
+            }
+          ]
+        },
+        {
+          "stem": "With very {{8}} risk, we can act out what we would do in unexpected, or even dangerous, situations.",
+          "analysis": "little 修饰不可数名词 risk，表示‘几乎没有风险’。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "little 修饰不可数名词 risk，表示‘几乎没有风险’。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 8,
+          "sort_order": 8,
+          "option_set_code": "question-8",
+          "question_type_label": "Part 1 · 词义与固定搭配",
+          "answer": {
+            "raw_answer": "D",
+            "display_text": "D",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P1; question 8"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P1-p3",
+              "quote": "With very {{8}} risk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "P2",
+      "part_no": 2,
+      "title": "Part 2",
+      "question_format": "open_cloze",
+      "paper_reference": "标1-T1.pdf · Part 2",
+      "expected_option_count": 0,
+      "sort_order": 2,
+      "source_groups": [],
+      "paragraphs": [
+        {
+          "source_key": "P2-h",
+          "role": "heading",
+          "text": "A bicycle you can fold up",
+          "translation": "",
+          "sort_order": 1
+        },
+        {
+          "source_key": "P2-p1",
+          "role": "paragraph",
+          "text": "Folding bicycles have (0) been around for quite some time now. However, an amazing new Japanese version {{9}} be folded with a swiftness and efficiency never seen before. This bike is designed {{10}} that it is possible to fold it up quickly. Once folded, you pull the bike along {{11}} ease.",
+          "translation": "",
+          "sort_order": 2
+        },
+        {
+          "source_key": "P2-p2",
+          "role": "paragraph",
+          "text": "This remarkable bike has a half-folding frame with a hinge in the middle. And, although the basic idea is {{12}} original, its inventor has created an especially clever variation, combining compactness {{13}} convenience with smart design.",
+          "translation": "",
+          "sort_order": 3
+        },
+        {
+          "source_key": "P2-p3",
+          "role": "paragraph",
+          "text": "Recently, folding bicycles {{14}} become very popular in Japan, particularly in congested urban areas like Tokyo, a city {{15}} every square centimetre of space is in great demand. Japanese cyclists need to be able to store their bikes in tiny areas at home or the office. And {{16}} they should want to take their bicycle on the underground, a folding model is a big advantage.",
+          "translation": "",
+          "sort_order": 4
+        }
+      ],
+      "option_sets": [],
+      "questions": [
+        {
+          "stem": "However, an amazing new Japanese version {{9}} be folded with a swiftness and efficiency never seen before.",
+          "analysis": "情态动词 can/may 后接 be folded，构成被动。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "情态动词 can/may 后接 be folded，构成被动。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 9,
+          "sort_order": 1,
+          "option_set_code": null,
+          "question_type_label": "Part 2 · 开放式语法填空",
+          "answer": {
+            "raw_answer": "can/may",
+            "display_text": "can/may",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P2; question 9"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "This bike is designed {{10}} that it is possible to fold it up quickly.",
+          "analysis": "so that 引导目的/结果从句。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "so that 引导目的/结果从句。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 10,
+          "sort_order": 2,
+          "option_set_code": null,
+          "question_type_label": "Part 2 · 开放式语法填空",
+          "answer": {
+            "raw_answer": "so",
+            "display_text": "so",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P2; question 10"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "Once folded, you pull the bike along {{11}} ease.",
+          "analysis": "with ease 是固定搭配，意为‘轻松地’。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "with ease 是固定搭配，意为‘轻松地’。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 11,
+          "sort_order": 3,
+          "option_set_code": null,
+          "question_type_label": "Part 2 · 开放式语法填空",
+          "answer": {
+            "raw_answer": "with",
+            "display_text": "with",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P2; question 11"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "And, although the basic idea is {{12}} original, its inventor has created an especially clever variation, combining compactness {{13}} convenience with smart design.",
+          "analysis": "although 后表达让步：基本想法并不新颖，可填 not/hardly/scarcely。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "although 后表达让步：基本想法并不新颖，可填 not/hardly/scarcely。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 12,
+          "sort_order": 4,
+          "option_set_code": null,
+          "question_type_label": "Part 2 · 开放式语法填空",
+          "answer": {
+            "raw_answer": "not/hardly/scarcely",
+            "display_text": "not/hardly/scarcely",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P2; question 12"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "And, although the basic idea is {{12}} original, its inventor has created an especially clever variation, combining compactness {{13}} convenience with smart design.",
+          "analysis": "combine A and B：把紧凑、便利与巧妙设计结合。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "combine A and B：把紧凑、便利与巧妙设计结合。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 13,
+          "sort_order": 5,
+          "option_set_code": null,
+          "question_type_label": "Part 2 · 开放式语法填空",
+          "answer": {
+            "raw_answer": "and",
+            "display_text": "and",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P2; question 13"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "Recently, folding bicycles {{14}} become very popular in Japan, particularly in congested urban areas like Tokyo, a city {{15}} every square centimetre of space is in great demand.",
+          "analysis": "Recently 与现在完成时 have become 搭配。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "Recently 与现在完成时 have become 搭配。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 14,
+          "sort_order": 6,
+          "option_set_code": null,
+          "question_type_label": "Part 2 · 开放式语法填空",
+          "answer": {
+            "raw_answer": "have",
+            "display_text": "have",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P2; question 14"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "Recently, folding bicycles {{14}} become very popular in Japan, particularly in congested urban areas like Tokyo, a city {{15}} every square centimetre of space is in great demand.",
+          "analysis": "where 引导定语从句，在从句中作地点状语。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "where 引导定语从句，在从句中作地点状语。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 15,
+          "sort_order": 7,
+          "option_set_code": null,
+          "question_type_label": "Part 2 · 开放式语法填空",
+          "answer": {
+            "raw_answer": "where",
+            "display_text": "where",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P2; question 15"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "And {{16}} they should want to take their bicycle on the underground, a folding model is a big advantage.",
+          "analysis": "if 引导条件从句：如果想带车乘地铁。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "if 引导条件从句：如果想带车乘地铁。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 16,
+          "sort_order": 8,
+          "option_set_code": null,
+          "question_type_label": "Part 2 · 开放式语法填空",
+          "answer": {
+            "raw_answer": "if",
+            "display_text": "if",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P2; question 16"
+          },
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "code": "P3",
+      "part_no": 3,
+      "title": "Part 3",
+      "question_format": "word_formation",
+      "paper_reference": "标1-T1.pdf · Part 3",
+      "expected_option_count": 0,
+      "sort_order": 3,
+      "source_groups": [],
+      "paragraphs": [
+        {
+          "source_key": "P3-h",
+          "role": "heading",
+          "text": "Tea",
+          "translation": "",
+          "sort_order": 1
+        },
+        {
+          "source_key": "P3-p1",
+          "role": "paragraph",
+          "text": "Tea is an (0) extremely popular drink with many people. It is estimated that the consumption of tea in England alone exceeds 165 million cups daily. Despite this, the drink was virtually {{17}} in England until about 400 years ago. The first {{18}} to tea in England comes in a diary written in 1660. However, its {{19}} really took off after the {{20}} of King Charles II to Catherine of Braganza. It was her great love of tea that made it {{21}}.",
+          "translation": "",
+          "sort_order": 2
+        },
+        {
+          "source_key": "P3-p2",
+          "role": "paragraph",
+          "text": "It was believed that tea was good for people as it seemed to be capable of reviving the spirits and curing certain minor {{22}}. It has even been suggested by some historians that it played a significant part in the Industrial Revolution. Tea, they say, increased the number of hours that {{23}} could work in factories as the caffeine in tea made them more {{24}} and consequently able to work longer hours.",
+          "translation": "",
+          "sort_order": 3
+        }
+      ],
+      "option_sets": [],
+      "questions": [
+        {
+          "stem": "Despite this, the drink was virtually {{17}} in England until about 400 years ago.\nKNOW",
+          "analysis": "virtually 后需形容词；加否定前缀 un- 得 unknown。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "virtually 后需形容词；加否定前缀 un- 得 unknown。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 17,
+          "sort_order": 1,
+          "option_set_code": null,
+          "question_type_label": "Part 3 · 词形转换",
+          "answer": {
+            "raw_answer": "unknown",
+            "display_text": "unknown",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P3; question 17"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "The first {{18}} to tea in England comes in a diary written in 1660.\nREFER",
+          "analysis": "the first 后需名词，refer 变为 reference。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "the first 后需名词，refer 变为 reference。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 18,
+          "sort_order": 2,
+          "option_set_code": null,
+          "question_type_label": "Part 3 · 词形转换",
+          "answer": {
+            "raw_answer": "reference",
+            "display_text": "reference",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P3; question 18"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "However, its {{19}} really took off after the {{20}} of King Charles II to Catherine of Braganza.\nPOPULAR",
+          "analysis": "形容词性物主代词 its 后需名词 popularity。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "形容词性物主代词 its 后需名词 popularity。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 19,
+          "sort_order": 3,
+          "option_set_code": null,
+          "question_type_label": "Part 3 · 词形转换",
+          "answer": {
+            "raw_answer": "popularity",
+            "display_text": "popularity",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P3; question 19"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "However, its {{19}} really took off after the {{20}} of King Charles II to Catherine of Braganza.\nMARRY",
+          "analysis": "the 后需名词 marriage。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "the 后需名词 marriage。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 20,
+          "sort_order": 4,
+          "option_set_code": null,
+          "question_type_label": "Part 3 · 词形转换",
+          "answer": {
+            "raw_answer": "marriage",
+            "display_text": "marriage",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P3; question 20"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "It was her great love of tea that made it {{21}}.\nFASHION",
+          "analysis": "make it 后接形容词作宾补 fashionable。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "make it 后接形容词作宾补 fashionable。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 21,
+          "sort_order": 5,
+          "option_set_code": null,
+          "question_type_label": "Part 3 · 词形转换",
+          "answer": {
+            "raw_answer": "fashionable",
+            "display_text": "fashionable",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P3; question 21"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "It was believed that tea was good for people as it seemed to be capable of reviving the spirits and curing certain minor {{22}}.\nILL",
+          "analysis": "certain minor 后需复数名词 illnesses。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "certain minor 后需复数名词 illnesses。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 22,
+          "sort_order": 6,
+          "option_set_code": null,
+          "question_type_label": "Part 3 · 词形转换",
+          "answer": {
+            "raw_answer": "illnesses",
+            "display_text": "illnesses",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P3; question 22"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "Tea, they say, increased the number of hours that {{23}} could work in factories as the caffeine in tea made them more {{24}} and consequently able to work longer hours.\nLABOUR",
+          "analysis": "关系从句主语指工厂工人，填复数 labourers。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关系从句主语指工厂工人，填复数 labourers。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 23,
+          "sort_order": 7,
+          "option_set_code": null,
+          "question_type_label": "Part 3 · 词形转换",
+          "answer": {
+            "raw_answer": "labourers",
+            "display_text": "labourers",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P3; question 23"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "Tea, they say, increased the number of hours that {{23}} could work in factories as the caffeine in tea made them more {{24}} and consequently able to work longer hours.\nENERGY",
+          "analysis": "made them more 后接形容词 energetic。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "made them more 后接形容词 energetic。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 24,
+          "sort_order": 8,
+          "option_set_code": null,
+          "question_type_label": "Part 3 · 词形转换",
+          "answer": {
+            "raw_answer": "energetic",
+            "display_text": "energetic",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P3; question 24"
+          },
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "code": "P4",
+      "part_no": 4,
+      "title": "Part 4",
+      "question_format": "key_word_transformation",
+      "paper_reference": "标1-T1.pdf · Part 4",
+      "expected_option_count": 0,
+      "sort_order": 4,
+      "source_groups": [],
+      "paragraphs": [
+        {
+          "source_key": "P4-p0",
+          "role": "paragraph",
+          "text": "For questions 25–30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
+          "translation": "",
+          "sort_order": 1
+        }
+      ],
+      "option_sets": [],
+      "questions": [
+        {
+          "stem": "They didn't sell many programmes at the match.\nFEW\nVery {{25}} at the match last Saturday.",
+          "analysis": "few + 复数名词作主语，并用一般过去时被动 were sold。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "few + 复数名词作主语，并用一般过去时被动 were sold。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 25,
+          "sort_order": 1,
+          "option_set_code": null,
+          "question_type_label": "Part 4 · 关键词句型转换",
+          "answer": {
+            "raw_answer": "FEW programmes | were sold",
+            "display_text": "FEW programmes | were sold",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P4; question 25"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "We got to work late because we decided to drive rather than take the train.\nINSTEAD\nWe got to work late because we decided to drive {{26}} the train.",
+          "analysis": "instead of 后接动名词，替换 rather than take。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "instead of 后接动名词，替换 rather than take。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 26,
+          "sort_order": 2,
+          "option_set_code": null,
+          "question_type_label": "Part 4 · 关键词句型转换",
+          "answer": {
+            "raw_answer": "INSTEAD of | taking/catching/getting",
+            "display_text": "INSTEAD of | taking/catching/getting",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P4; question 26"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "Last Friday was the first time my car ever broke down, even though it is very old.\nNEVER\nUntil last Friday, my car {{27}} down, even though it is very old.",
+          "analysis": "Until last Friday 表示过去某时之前从未发生，用过去完成时。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "Until last Friday 表示过去某时之前从未发生，用过去完成时。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 27,
+          "sort_order": 3,
+          "option_set_code": null,
+          "question_type_label": "Part 4 · 关键词句型转换",
+          "answer": {
+            "raw_answer": "had/’d NEVER | broken",
+            "display_text": "had/’d NEVER | broken",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P4; question 27"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "‘All your complaints will be investigated by my staff tomorrow,’ said the bank manager.\nLOOK\nThe bank manager promised that his staff {{28}} all our complaints the next day.",
+          "analysis": "间接引语中 will 变 would；look into 表示调查。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "间接引语中 will 变 would；look into 表示调查。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 28,
+          "sort_order": 4,
+          "option_set_code": null,
+          "question_type_label": "Part 4 · 关键词句型转换",
+          "answer": {
+            "raw_answer": "would | LOOK into/at",
+            "display_text": "would | LOOK into/at",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P4; question 28"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "Last year the heavy rain caused the postponement of the tennis tournament.\nBECAUSE\nLast year the tennis tournament {{29}} so heavily.",
+          "analysis": "把名词短语 heavy rain 改为 because it rained，并使用被动 postponed。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "把名词短语 heavy rain 改为 because it rained，并使用被动 postponed。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 29,
+          "sort_order": 5,
+          "option_set_code": null,
+          "question_type_label": "Part 4 · 关键词句型转换",
+          "answer": {
+            "raw_answer": "was/got postponed | BECAUSE it rained",
+            "display_text": "was/got postponed | BECAUSE it rained",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P4; question 29"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "Jack does not want to work for his uncle any longer.\nCARRY\nJohn does not want {{30}} for his uncle.",
+          "analysis": "carry on doing 表示继续做；not ... any longer 转换为 not want to carry on。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "carry on doing 表示继续做；not ... any longer 转换为 not want to carry on。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 30,
+          "sort_order": 6,
+          "option_set_code": null,
+          "question_type_label": "Part 4 · 关键词句型转换",
+          "answer": {
+            "raw_answer": "to CARRY on | working",
+            "display_text": "to CARRY on | working",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P4; question 30"
+          },
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "code": "P5",
+      "part_no": 5,
+      "title": "Part 5",
+      "question_format": "reading_multiple_choice",
+      "paper_reference": "标1-T1.pdf · Part 5",
+      "expected_option_count": 4,
+      "sort_order": 5,
+      "source_groups": [],
+      "paragraphs": [
+        {
+          "source_key": "P5-h",
+          "role": "heading",
+          "text": "A musician and his pupil",
+          "translation": "",
+          "sort_order": 1
+        },
+        {
+          "source_key": "P5-caption",
+          "role": "caption",
+          "text": "Paul Williams interviews the famous pianist Alfred Brendel.",
+          "translation": "",
+          "sort_order": 2
+        },
+        {
+          "source_key": "P5-p1",
+          "role": "paragraph",
+          "text": "Over six decades the pianist Alfred Brendel gradually built up and maintained a dominant position in the world of classical music. He was an intellectual, sometimes austere, figure who explored and recorded the mainstream European works for the piano. He wrote and played a great deal, but taught very little. Those who knew him best glimpsed a playful side to his character, but that was seldom on display in his concerts. It was a disciplined, never-ending cycle of study, travel and performance.",
+          "translation": "",
+          "sort_order": 3
+        },
+        {
+          "source_key": "P5-p2",
+          "role": "paragraph",
+          "text": "And then, four or five years ago, a young boy, Kit Armstrong, appeared backstage at one of Brendel's concerts and asked for lessons. Initially, Brendel didn't take the suggestion very seriously. He had had very few pupils and he saw no reason to start now. He quotes from another famous pianist: ‘You don't employ a mountain guide to teach a child how to walk.’ But there was something that struck him about the young boy - then about 14. He listened to him play. Brendel explained, ‘He played remarkably well and by heart. Then he brought me a CD of a little recital he had given where he played so beautifully that I thought to myself, “I have to make time for him.” It was a performance that really led you from the first to the last note. It's very rare to find any musician with this kind of overview and the necessary subtlety.’",
+          "translation": "",
+          "sort_order": 4
+        },
+        {
+          "source_key": "P5-p3",
+          "role": "paragraph",
+          "text": "As Brendel is bowing out of the public eye, so Kit is nudging his way into it - restrained by Brendel, ever nervous about the young man burning out early. Kit, now 19, is a restless, impatient presence away from the lessons - always learning new languages; taking himself off to study maths, writing computer code or playing tennis. All under the watchful eye of his ever-present mother. On top of all this he composes. ‘This was very important,’ Brendel says. ‘If you want to learn to read music properly it is helped by the fact that you try to write something yourself. Then I noticed that Kit had a phenomenal memory and that he was a phenomenal sight reader. But more than this is his ability to listen to his own playing, his sensitivity to sound and his ability to listen to me when I try to explain something. He not only usually understands what I mean, but he can do it. And when I tell him one thing in a piece, he will do it everywhere in the piece where it comes in later.’",
+          "translation": "",
+          "sort_order": 5
+        },
+        {
+          "source_key": "P5-p4",
+          "role": "paragraph",
+          "text": "Brendel catches himself and looks at me severely. ‘Now I don't want to raise any expectations. I'm very cross if some newspapers try to do this. There was one article which named him as the future great pianist of the 21st century. I mean, really, it's the worst thing. One doesn't say that in a newspaper. And it has done a great deal of harm. As usual, with gifted young players, he can play certain things amazingly well, while others need more time and experience. It would be harmful if a critic was there expecting the greatest perfection.’",
+          "translation": "",
+          "sort_order": 6
+        },
+        {
+          "source_key": "P5-p5",
+          "role": "paragraph",
+          "text": "It is touching to see the mellowness of Brendel in his post-performing years. He explains, ‘When I was very young, I didn't have the urge to be famous in five years' time, but I had the idea I would like to have done certain things by the age of 50. And when I was 50, I thought that I had done most of those things, but there was still some leeway for more, so I went on. Although I do not have the physical power to play now, in my head, there are always things going on, all sorts of pieces that I've never played. I don't play now but it's a very nice new career.’",
+          "translation": "",
+          "sort_order": 7
+        }
+      ],
+      "option_sets": [
+        {
+          "code": "question-31",
+          "options": [
+            {
+              "label": "A",
+              "content": "the wide range of music that Brendel has played",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "the total dedication of Brendel to his art",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "the reluctance of Brendel to take on pupils",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "the light-hearted nature of Brendel's character",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-32",
+          "options": [
+            {
+              "label": "A",
+              "content": "it is not always easy to teach people the basics.",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "it is unwise to try to teach new skills before people are ready.",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "people can learn new skills without help from others.",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "it is unnecessary for an expert to teach people the basics.",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-33",
+          "options": [
+            {
+              "label": "A",
+              "content": "He seemed so young and serious.",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "He was so determined and persistent.",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "He could play without the music.",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "He had an extraordinary talent.",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-34",
+          "options": [
+            {
+              "label": "A",
+              "content": "He is able to write music himself.",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "He is able to understand and respond to advice.",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "He can play a piece of music the first time he sees it.",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "He is able to remember all the music he has ever played.",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-35",
+          "options": [
+            {
+              "label": "A",
+              "content": "He realises he has said too much to a journalist.",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "He doesn't enjoy giving interviews to journalists.",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "He wants to be careful he doesn't upset any music critics.",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "He resents the way that he has often been misquoted.",
+              "sort_order": 4
+            }
+          ]
+        },
+        {
+          "code": "question-36",
+          "options": [
+            {
+              "label": "A",
+              "content": "justifying his lack of ambition when he was young",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "expressing regret at the loss of his physical strength",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "describing his present state of mind",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "explaining which pieces he prefers to play now",
+              "sort_order": 4
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "stem": "What is the writer emphasising in the first paragraph?",
+          "analysis": "定位原文：a disciplined, never-ending cycle of study, travel and performance。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "定位原文：a disciplined, never-ending cycle of study, travel and performance。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 31,
+          "sort_order": 1,
+          "option_set_code": "question-31",
+          "question_type_label": "Part 5 · 阅读理解",
+          "answer": {
+            "raw_answer": "B",
+            "display_text": "B",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P5; question 31"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P5-p1",
+              "quote": "a disciplined, never-ending cycle of study, travel and performance"
+            }
+          ]
+        },
+        {
+          "stem": "Brendel uses the quotation about the mountain guide to illustrate that",
+          "analysis": "定位原文：You don't employ a mountain guide to teach a child how to walk.。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "定位原文：You don't employ a mountain guide to teach a child how to walk.。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 32,
+          "sort_order": 2,
+          "option_set_code": "question-32",
+          "question_type_label": "Part 5 · 阅读理解",
+          "answer": {
+            "raw_answer": "D",
+            "display_text": "D",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P5; question 32"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P5-p2",
+              "quote": "You don't employ a mountain guide to teach a child how to walk."
+            }
+          ]
+        },
+        {
+          "stem": "What made Brendel first decide to accept Kit as a pupil?",
+          "analysis": "定位原文：played so beautifully that I thought to myself。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "定位原文：played so beautifully that I thought to myself。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 33,
+          "sort_order": 3,
+          "option_set_code": "question-33",
+          "question_type_label": "Part 5 · 阅读理解",
+          "answer": {
+            "raw_answer": "D",
+            "display_text": "D",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P5; question 33"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P5-p2",
+              "quote": "played so beautifully that I thought to myself"
+            }
+          ]
+        },
+        {
+          "stem": "Which of Kit's musical abilities does Brendel admire the most?",
+          "analysis": "定位原文：more than this is his ability to listen to his own playing。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "定位原文：more than this is his ability to listen to his own playing。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 34,
+          "sort_order": 4,
+          "option_set_code": "question-34",
+          "question_type_label": "Part 5 · 阅读理解",
+          "answer": {
+            "raw_answer": "B",
+            "display_text": "B",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P5; question 34"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P5-p3",
+              "quote": "more than this is his ability to listen to his own playing"
+            }
+          ]
+        },
+        {
+          "stem": "Why does the writer use the phrase ‘catches himself’ in line 50?",
+          "analysis": "定位原文：Now I don't want to raise any expectations.。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "定位原文：Now I don't want to raise any expectations.。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 35,
+          "sort_order": 5,
+          "option_set_code": "question-35",
+          "question_type_label": "Part 5 · 阅读理解",
+          "answer": {
+            "raw_answer": "A",
+            "display_text": "A",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P5; question 35"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P5-p4",
+              "quote": "Now I don't want to raise any expectations."
+            }
+          ]
+        },
+        {
+          "stem": "What is Brendel doing in the final paragraph?",
+          "analysis": "定位原文：in my head, there are always things going on。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "定位原文：in my head, there are always things going on。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 36,
+          "sort_order": 6,
+          "option_set_code": "question-36",
+          "question_type_label": "Part 5 · 阅读理解",
+          "answer": {
+            "raw_answer": "C",
+            "display_text": "C",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P5; question 36"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P5-p5",
+              "quote": "in my head, there are always things going on"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "P6",
+      "part_no": 6,
+      "title": "Part 6",
+      "question_format": "gapped_text",
+      "paper_reference": "标1-T1.pdf · Part 6",
+      "expected_option_count": 7,
+      "sort_order": 6,
+      "source_groups": [],
+      "paragraphs": [
+        {
+          "source_key": "P6-h",
+          "role": "heading",
+          "text": "Blind Runner",
+          "translation": "",
+          "sort_order": 1
+        },
+        {
+          "source_key": "P6-caption",
+          "role": "caption",
+          "text": "Paul Hardy reports on a blind runner called Simon Wheatcroft who enjoys taking part in marathon and ultra-marathon races, running distances between 42 km and 160 km.",
+          "translation": "",
+          "sort_order": 2
+        },
+        {
+          "source_key": "P6-p1",
+          "role": "paragraph",
+          "text": "Running marathons, a race of 42 km, has become increasingly popular. This distance poses extreme physical and mental challenges for anyone, but for Simon Wheatcroft there is another hurdle; he has been blind since he was 18 years old.",
+          "translation": "",
+          "sort_order": 3
+        },
+        {
+          "source_key": "P6-p2",
+          "role": "paragraph",
+          "text": "For the past two years Simon, now 29, has been overcoming his disability to compete in marathons and ultra-marathons by training with runners who act as his guides, and also, rather uniquely, by teaching himself to run solo, out on the streets. ‘I got bored exercising indoors, so thought, “I'll have a go at running outside”,’ he explains. {{37}} Then he got bored again and wanted to try running on the roads.",
+          "translation": "",
+          "sort_order": 4
+        },
+        {
+          "source_key": "P6-p3",
+          "role": "paragraph",
+          "text": "Weeks of gradual exploration followed, walking a route alone. {{38}} It took him along little-used pavements alongside a busy main road. He also recruited technology to help him form his mental map of the area using a smartphone app, to provide feedback through headphones about his pace and distance. This information could then be cross-referenced with his knowledge of the route and any obstacles.",
+          "translation": "",
+          "sort_order": 5
+        },
+        {
+          "source_key": "P6-p4",
+          "role": "paragraph",
+          "text": "Now, having covered hundreds of km alone on the route, Simon has been able, gradually, to phase out the app. ‘When I first started I had to really concentrate to an unbelievable level to know where my feet were falling. Now it has become quite automated.’ {{39}} ‘I did make a few mistakes early on - like running into posts. But you only run into a post once before you think “Right. I'm going to remember where that is next time”,’ he laughs.",
+          "translation": "",
+          "sort_order": 6
+        },
+        {
+          "source_key": "P6-p5",
+          "role": "paragraph",
+          "text": "Joining Simon for a training session, it's striking how natural and fluid his movement is; he takes shorter, shallower, more gentle steps than most runners, using his feet to feel his way. His landmarks are minute changes in gradient and slight variations in the running surface. {{40}} ‘I have to believe this route is going to stay consistent, and there won't be things like roadwork signs or big rocks,’ he says.",
+          "translation": "",
+          "sort_order": 7
+        },
+        {
+          "source_key": "P6-p6",
+          "role": "paragraph",
+          "text": "{{41}} ‘I try to concentrate on the millions of footsteps that go right and think positively,’ he explains. When it comes to racing in ultra-distance events, Simon has to use guides to run sections of the course with him; after all, it would be almost impossible to memorise a 150 km stretch of countryside by heart. However, the physical and practical advantages of training in the fresh air, on his own terms, are vast and have boosted his confidence in his running ability as well as providing inspiration to others.",
+          "translation": "",
+          "sort_order": 8
+        },
+        {
+          "source_key": "P6-p7",
+          "role": "paragraph",
+          "text": "But for Simon the real thrill and motivation for training come from simply being able to compete on equal terms. {{42}} ‘I can't hide the fact I'm blind,’ he says, ‘but at the same time I would rather compete with everybody else and not be put into a special group. Being visually impaired doesn't mean you can't run.’",
+          "translation": "",
+          "sort_order": 9
+        }
+      ],
+      "option_sets": [
+        {
+          "code": "shared",
+          "options": [
+            {
+              "label": "A",
+              "content": "These provide the familiarity and consistency essential for the blind runner.",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "Their support gave him extra confidence regarding his changing surroundings.",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "Simon believes the feelings of liberation and independence he gets from running solo far outweigh any anxiety over such dangers.",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "He began by training on football pitches behind his house, running between the goalposts.",
+              "sort_order": 4
+            },
+            {
+              "label": "E",
+              "content": "It gives him a great opportunity to run with everyone.",
+              "sort_order": 5
+            },
+            {
+              "label": "F",
+              "content": "That's not to say the learning curve has been without incident.",
+              "sort_order": 6
+            },
+            {
+              "label": "G",
+              "content": "As a result of this slow experimentation, he was able to memorise a set five-kilometre course.",
+              "sort_order": 7
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "stem": "{{37}}",
+          "analysis": "前句说开始到户外跑，后句说后来又想上公路；D 的 football pitches 是中间的第一步。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "前句说开始到户外跑，后句说后来又想上公路；D 的 football pitches 是中间的第一步。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 37,
+          "sort_order": 1,
+          "option_set_code": "shared",
+          "question_type_label": "Part 6 · 篇章衔接",
+          "answer": {
+            "raw_answer": "D",
+            "display_text": "D",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P6; question 37"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "{{38}}",
+          "analysis": "前句是逐步探索，G 的 this slow experimentation 回指并引出五公里路线。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "前句是逐步探索，G 的 this slow experimentation 回指并引出五公里路线。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 38,
+          "sort_order": 2,
+          "option_set_code": "shared",
+          "question_type_label": "Part 6 · 篇章衔接",
+          "answer": {
+            "raw_answer": "G",
+            "display_text": "G",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P6; question 38"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "{{39}}",
+          "analysis": "前句说动作已自动化，后句举撞柱子的早期失误；F 用 incident 承上启下。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "前句说动作已自动化，后句举撞柱子的早期失误；F 用 incident 承上启下。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 39,
+          "sort_order": 3,
+          "option_set_code": "shared",
+          "question_type_label": "Part 6 · 篇章衔接",
+          "answer": {
+            "raw_answer": "F",
+            "display_text": "F",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P6; question 39"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "{{40}}",
+          "analysis": "前句列出地面细微变化这些 landmarks，A 的 These 正好回指它们。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "前句列出地面细微变化这些 landmarks，A 的 These 正好回指它们。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 40,
+          "sort_order": 4,
+          "option_set_code": "shared",
+          "question_type_label": "Part 6 · 篇章衔接",
+          "answer": {
+            "raw_answer": "A",
+            "display_text": "A",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P6; question 40"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "{{41}}",
+          "analysis": "后文说专注成功的脚步并积极思考，C 先概括独跑带来的自由大于焦虑。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "后文说专注成功的脚步并积极思考，C 先概括独跑带来的自由大于焦虑。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 41,
+          "sort_order": 5,
+          "option_set_code": "shared",
+          "question_type_label": "Part 6 · 篇章衔接",
+          "answer": {
+            "raw_answer": "C",
+            "display_text": "C",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P6; question 41"
+          },
+          "evidence": []
+        },
+        {
+          "stem": "{{42}}",
+          "analysis": "前句强调平等竞争，E 的 run with everyone 与后文 compete with everybody else 呼应。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "前句强调平等竞争，E 的 run with everyone 与后文 compete with everybody else 呼应。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 42,
+          "sort_order": 6,
+          "option_set_code": "shared",
+          "question_type_label": "Part 6 · 篇章衔接",
+          "answer": {
+            "raw_answer": "E",
+            "display_text": "E",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P6; question 42"
+          },
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "code": "P7",
+      "part_no": 7,
+      "title": "Part 7",
+      "question_format": "multiple_matching",
+      "paper_reference": "标1-T1.pdf · Part 7",
+      "expected_option_count": 4,
+      "sort_order": 7,
+      "source_groups": [
+        {
+          "title": "题目",
+          "paragraph_ids": [
+            "P7-h"
+          ]
+        },
+        {
+          "title": "A",
+          "paragraph_ids": [
+            "P7-A"
+          ]
+        },
+        {
+          "title": "B",
+          "paragraph_ids": [
+            "P7-B"
+          ]
+        },
+        {
+          "title": "C",
+          "paragraph_ids": [
+            "P7-C"
+          ]
+        },
+        {
+          "title": "D",
+          "paragraph_ids": [
+            "P7-D"
+          ]
+        }
+      ],
+      "paragraphs": [
+        {
+          "source_key": "P7-h",
+          "role": "heading",
+          "text": "Why go to university?",
+          "translation": "",
+          "sort_order": 1
+        },
+        {
+          "source_key": "P7-caption",
+          "role": "caption",
+          "text": "Four graduates talk about their experiences.",
+          "translation": "",
+          "sort_order": 2
+        },
+        {
+          "source_key": "P7-A",
+          "role": "paragraph",
+          "text": "A · Sonia\nWhile I was doing my physics degree people would often say I was acquiring skills I'd be able to use in my future career, even if I didn't become a physicist. It sounded like nonsense to me: if I did another job in the end, what could be relevant about knowing what's inside an atom or how to operate a laser? It turns out they were referring to the wealth of other skills you pick up along the way. Communication and problem-solving are just two of these. In contrast to the way you may have been taught before, university teaches you to be innovative and to think for yourself. Going to university is about more than just studying though! I got to make friends from all over the world and they have proved to be useful work contacts.",
+          "translation": "",
+          "sort_order": 3
+        },
+        {
+          "source_key": "P7-B",
+          "role": "paragraph",
+          "text": "B · Jane\nI went to university because it was the career path expected by school, parents and classmates (to an extent) and also because I didn't really have a clue about what other options were open to me. It's difficult to know how things would have turned out if I hadn't gone. I do know that the job I do ‘requires’ a degree to do it, though there must be alternative ways of developing these skills. The degree, like it or not, is the screening method used by large numbers of employers and as such, opens certain doors. It's certainly harder to get into all sorts of careers without a degree. The debates about university education typically revolve around routes into employment, yet for many the degree is barely relevant to the work we end up doing later on. It gives access to a certain type of career but the actual degree can often be of little practical value.",
+          "translation": "",
+          "sort_order": 4
+        },
+        {
+          "source_key": "P7-C",
+          "role": "paragraph",
+          "text": "C · Lydia\nThere is a lot of pressure on teenagers to know exactly what they want to do with their lives. As a high-achieving student at school, the alternatives to university didn't really appeal to me. So I took up a place at a good university but ended up studying something I wasn't sure I was interested in. Some people know what they want to do from a young age, and for those people, going to university straight out of school may be a great idea. However, many of us are very unsure of our future ambitions aged 18, and should therefore be given as many choices as possible, rather than being pushed into a degree course. Many of my friends went to university straight from school.",
+          "translation": "",
+          "sort_order": 5
+        },
+        {
+          "source_key": "P7-D",
+          "role": "paragraph",
+          "text": "D · Bethany\nI don't really remember making the decision to go to university. Everyone always assumed I would, even though I was never the most gifted academically. Someone asked me during my second year why I had gone, and I remember not being able to answer the question. Maybe it was the way I was raised? Maybe it was the school I went to? But university was the next step. I had a great time there, I must say. It's so much more than the place you go to get a degree. You learn so many life skills that I would urge anyone to give the idea some thought. Since graduation I've had a string of jobs. University is an excellent decision for some, and may provide the right qualifications to start a career. But for others, going straight into a job is just as appropriate.",
+          "translation": "",
+          "sort_order": 6
+        }
+      ],
+      "option_sets": [
+        {
+          "code": "shared",
+          "options": [
+            {
+              "label": "A",
+              "content": "Sonia",
+              "sort_order": 1
+            },
+            {
+              "label": "B",
+              "content": "Jane",
+              "sort_order": 2
+            },
+            {
+              "label": "C",
+              "content": "Lydia",
+              "sort_order": 3
+            },
+            {
+              "label": "D",
+              "content": "Bethany",
+              "sort_order": 4
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "stem": "Which graduate says people should be allowed to consider a range of options apart from university?",
+          "analysis": "关键同义线索：given as many choices as possible。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关键同义线索：given as many choices as possible。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 43,
+          "sort_order": 1,
+          "option_set_code": "shared",
+          "question_type_label": "Part 7 · 多项匹配",
+          "answer": {
+            "raw_answer": "C",
+            "display_text": "C",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P7; question 43"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P7-C",
+              "quote": "given as many choices as possible"
+            }
+          ]
+        },
+        {
+          "stem": "Which graduate says that some people are expected to make important decisions before they are ready?",
+          "analysis": "关键同义线索：pressure on teenagers to know exactly what they want。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关键同义线索：pressure on teenagers to know exactly what they want。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 44,
+          "sort_order": 2,
+          "option_set_code": "shared",
+          "question_type_label": "Part 7 · 多项匹配",
+          "answer": {
+            "raw_answer": "C",
+            "display_text": "C",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P7; question 44"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P7-C",
+              "quote": "pressure on teenagers to know exactly what they want"
+            }
+          ]
+        },
+        {
+          "stem": "Which graduate initially rejected something she was told?",
+          "analysis": "关键同义线索：It sounded like nonsense to me。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关键同义线索：It sounded like nonsense to me。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 45,
+          "sort_order": 3,
+          "option_set_code": "shared",
+          "question_type_label": "Part 7 · 多项匹配",
+          "answer": {
+            "raw_answer": "A",
+            "display_text": "A",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P7; question 45"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P7-A",
+              "quote": "It sounded like nonsense to me"
+            }
+          ]
+        },
+        {
+          "stem": "Which graduate was unaware of the alternatives to university?",
+          "analysis": "关键同义线索：didn't really have a clue about what other options were open to me。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关键同义线索：didn't really have a clue about what other options were open to me。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 46,
+          "sort_order": 4,
+          "option_set_code": "shared",
+          "question_type_label": "Part 7 · 多项匹配",
+          "answer": {
+            "raw_answer": "B",
+            "display_text": "B",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P7; question 46"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P7-B",
+              "quote": "didn't really have a clue about what other options were open to me"
+            }
+          ]
+        },
+        {
+          "stem": "Which graduate says that the type of learning at university is different from that at other institutions?",
+          "analysis": "关键同义线索：In contrast to the way you may have been taught before。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关键同义线索：In contrast to the way you may have been taught before。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 47,
+          "sort_order": 5,
+          "option_set_code": "shared",
+          "question_type_label": "Part 7 · 多项匹配",
+          "answer": {
+            "raw_answer": "A",
+            "display_text": "A",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P7; question 47"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P7-A",
+              "quote": "In contrast to the way you may have been taught before"
+            }
+          ]
+        },
+        {
+          "stem": "Which graduate felt when she was a student that she might not be doing the right course?",
+          "analysis": "关键同义线索：studying something I wasn't sure I was interested in。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关键同义线索：studying something I wasn't sure I was interested in。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 48,
+          "sort_order": 6,
+          "option_set_code": "shared",
+          "question_type_label": "Part 7 · 多项匹配",
+          "answer": {
+            "raw_answer": "C",
+            "display_text": "C",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P7; question 48"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P7-C",
+              "quote": "studying something I wasn't sure I was interested in"
+            }
+          ]
+        },
+        {
+          "stem": "Which graduate says that some people discover that what is studied at university is not useful in the workplace?",
+          "analysis": "关键同义线索：the actual degree can often be of little practical value。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关键同义线索：the actual degree can often be of little practical value。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 49,
+          "sort_order": 7,
+          "option_set_code": "shared",
+          "question_type_label": "Part 7 · 多项匹配",
+          "answer": {
+            "raw_answer": "B",
+            "display_text": "B",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P7; question 49"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P7-B",
+              "quote": "the actual degree can often be of little practical value"
+            }
+          ]
+        },
+        {
+          "stem": "Which graduate was uncertain about her reasons for going to university?",
+          "analysis": "关键同义线索：not being able to answer the question。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关键同义线索：not being able to answer the question。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 50,
+          "sort_order": 8,
+          "option_set_code": "shared",
+          "question_type_label": "Part 7 · 多项匹配",
+          "answer": {
+            "raw_answer": "D",
+            "display_text": "D",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P7; question 50"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P7-D",
+              "quote": "not being able to answer the question"
+            }
+          ]
+        },
+        {
+          "stem": "Which graduate says graduates have an advantage when applying for jobs?",
+          "analysis": "关键同义线索：is the screening method used by large numbers of employers。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关键同义线索：is the screening method used by large numbers of employers。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 51,
+          "sort_order": 9,
+          "option_set_code": "shared",
+          "question_type_label": "Part 7 · 多项匹配",
+          "answer": {
+            "raw_answer": "B",
+            "display_text": "B",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P7; question 51"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P7-B",
+              "quote": "is the screening method used by large numbers of employers"
+            }
+          ]
+        },
+        {
+          "stem": "Which graduate was expected to go to university despite being a fairly average student at school?",
+          "analysis": "关键同义线索：even though I was never the most gifted academically。",
+          "type_note": "先确认题干要求，再回到原文或句子结构核对。",
+          "strategy": "先定位决定性线索，再核对其他选项为什么不成立。",
+          "pitfall": "不要只凭单个词作答，要核对完整搭配、语法结构或上下文逻辑。",
+          "solve_steps": [
+            "关键同义线索：even though I was never the most gifted academically。"
+          ],
+          "distractors": {},
+          "knowledge": null,
+          "logic_links": [],
+          "question_no": 52,
+          "sort_order": 10,
+          "option_set_code": "shared",
+          "question_type_label": "Part 7 · 多项匹配",
+          "answer": {
+            "raw_answer": "D",
+            "display_text": "D",
+            "accepted_answers": null,
+            "answer_status": "official",
+            "answer_source": "S01-T1.pdf; PDF page 1; printed page 120; P7; question 52"
+          },
+          "evidence": [
+            {
+              "paragraph_id": "P7-D",
+              "quote": "even though I was never the most gifted academically"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

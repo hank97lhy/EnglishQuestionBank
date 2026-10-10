@@ -1,0 +1,1917 @@
+{
+  "scope": "Reading and Use of English only",
+  "sources": [
+    {
+      "path": "题目/FCE题目/校园版3/青3-T1.pdf",
+      "sha256": "48e24619858c97801809425f94adb73d03649c13795ec84f7331c3a73f812368"
+    },
+    {
+      "path": "题目/FCE题目/FCE-ANSWERS/校园版/F03-T1.pdf",
+      "sha256": "fc3492b3ea90d20bf0af6c77cdf2610b81517f9d9015b50c50fd5315eea1128b"
+    },
+    {
+      "path": "FCE网站最终版/campus-3-test-1/index.html",
+      "sha256": "f188efacc5b8d935308a58f39844476e5da56f7eb8ffe28f7589b8d9a6dcd508"
+    }
+  ],
+  "cover_pairing_verified": true,
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": 8,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": 9,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": 10,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": 11,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": 12,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": 13,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": 14,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": 15,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": 16,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": 17,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": 18,
+      "reading_method": "model_visual",
+      "verified": true
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": 19,
+      "reading_method": "model_visual",
+      "verified": true
+    }
+  ],
+  "answer_pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": 120,
+      "reading_method": "model_visual",
+      "verified": true,
+      "question_range": [
+        1,
+        52
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "P1",
+      "source_key": "P1-h",
+      "pdf_pages": [
+        2
+      ],
+      "printed_pages": [
+        8
+      ],
+      "region": "title",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[0].paragraphs[id=P1-h]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P1",
+      "source_key": "P1-p1",
+      "pdf_pages": [
+        2
+      ],
+      "printed_pages": [
+        8
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[0].paragraphs[id=P1-p1]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P1",
+      "source_key": "P1-p2",
+      "pdf_pages": [
+        2
+      ],
+      "printed_pages": [
+        8
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[0].paragraphs[id=P1-p2]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P1",
+      "source_key": "P1-p3",
+      "pdf_pages": [
+        2
+      ],
+      "printed_pages": [
+        8
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[0].paragraphs[id=P1-p3]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P2",
+      "source_key": "P2-h",
+      "pdf_pages": [
+        4
+      ],
+      "printed_pages": [
+        10
+      ],
+      "region": "title",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[1].paragraphs[id=P2-h]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P2",
+      "source_key": "P2-p1",
+      "pdf_pages": [
+        4
+      ],
+      "printed_pages": [
+        10
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[1].paragraphs[id=P2-p1]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P2",
+      "source_key": "P2-p2",
+      "pdf_pages": [
+        4
+      ],
+      "printed_pages": [
+        10
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[1].paragraphs[id=P2-p2]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P3",
+      "source_key": "P3-h",
+      "pdf_pages": [
+        5
+      ],
+      "printed_pages": [
+        11
+      ],
+      "region": "title",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[2].paragraphs[id=P3-h]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P3",
+      "source_key": "P3-p1",
+      "pdf_pages": [
+        5
+      ],
+      "printed_pages": [
+        11
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[2].paragraphs[id=P3-p1]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P3",
+      "source_key": "P3-p2",
+      "pdf_pages": [
+        5
+      ],
+      "printed_pages": [
+        11
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[2].paragraphs[id=P3-p2]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P3",
+      "source_key": "P3-p3",
+      "pdf_pages": [
+        5
+      ],
+      "printed_pages": [
+        11
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[2].paragraphs[id=P3-p3]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P4",
+      "source_key": "P4-p0",
+      "pdf_pages": [
+        6
+      ],
+      "printed_pages": [
+        12
+      ],
+      "region": "subtitle",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[3].paragraphs[id=P4-p0]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P5",
+      "source_key": "P5-h",
+      "pdf_pages": [
+        8
+      ],
+      "printed_pages": [
+        14
+      ],
+      "region": "title",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[4].paragraphs[id=P5-h]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P5",
+      "source_key": "P5-p1",
+      "pdf_pages": [
+        8
+      ],
+      "printed_pages": [
+        14
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[4].paragraphs[id=P5-p1]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P5",
+      "source_key": "P5-p2",
+      "pdf_pages": [
+        8
+      ],
+      "printed_pages": [
+        14
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[4].paragraphs[id=P5-p2]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P5",
+      "source_key": "P5-p3",
+      "pdf_pages": [
+        8
+      ],
+      "printed_pages": [
+        14
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[4].paragraphs[id=P5-p3]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P5",
+      "source_key": "P5-p4",
+      "pdf_pages": [
+        8
+      ],
+      "printed_pages": [
+        14
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[4].paragraphs[id=P5-p4]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P5",
+      "source_key": "P5-p5",
+      "pdf_pages": [
+        8
+      ],
+      "printed_pages": [
+        14
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[4].paragraphs[id=P5-p5]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P5",
+      "source_key": "P5-p6",
+      "pdf_pages": [
+        8
+      ],
+      "printed_pages": [
+        14
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[4].paragraphs[id=P5-p6]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P6",
+      "source_key": "P6-h",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        16
+      ],
+      "region": "title",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[5].paragraphs[id=P6-h]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P6",
+      "source_key": "P6-p1",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        16
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[5].paragraphs[id=P6-p1]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P6",
+      "source_key": "P6-p2",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        16
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[5].paragraphs[id=P6-p2]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P6",
+      "source_key": "P6-p3",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        16
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[5].paragraphs[id=P6-p3]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P6",
+      "source_key": "P6-p4",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        16
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[5].paragraphs[id=P6-p4]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P6",
+      "source_key": "P6-p5",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        16
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[5].paragraphs[id=P6-p5]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P6",
+      "source_key": "P6-p6",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        16
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[5].paragraphs[id=P6-p6]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P6",
+      "source_key": "P6-p7",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        16
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[5].paragraphs[id=P6-p7]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-h",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "title on PDF 13",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-h]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-Ah",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "title",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-Ah]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-A",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-A]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-Bh",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "title",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-Bh]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-B",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-B]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-Ch",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "title",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-Ch]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-C",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-C]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-Dh",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "title",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-Dh]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-D",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-D]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-Eh",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "title",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-Eh]",
+      "translation_source": "website"
+    },
+    {
+      "section": "P7",
+      "source_key": "P7-E",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        19
+      ],
+      "region": "body; left column then right column for P5–P7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "website_path": "sections[6].paragraphs[id=P7-E]",
+      "translation_source": "website"
+    }
+  ],
+  "questions": [
+    {
+      "section": "P1",
+      "question_no": 1,
+      "pdf_page": 3,
+      "printed_page": 9,
+      "region": "question 1; options 3",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "C",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "C",
+      "website_path": "sections[0].questions[0]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P1",
+      "question_no": 2,
+      "pdf_page": 3,
+      "printed_page": 9,
+      "region": "question 2; options 3",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "B",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "B",
+      "website_path": "sections[0].questions[1]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P1",
+      "question_no": 3,
+      "pdf_page": 3,
+      "printed_page": 9,
+      "region": "question 3; options 3",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "D",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "D",
+      "website_path": "sections[0].questions[2]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P1",
+      "question_no": 4,
+      "pdf_page": 3,
+      "printed_page": 9,
+      "region": "question 4; options 3",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "A",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "A",
+      "website_path": "sections[0].questions[3]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P1",
+      "question_no": 5,
+      "pdf_page": 3,
+      "printed_page": 9,
+      "region": "question 5; options 3",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "D",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "D",
+      "website_path": "sections[0].questions[4]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P1",
+      "question_no": 6,
+      "pdf_page": 3,
+      "printed_page": 9,
+      "region": "question 6; options 3",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "C",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "C",
+      "website_path": "sections[0].questions[5]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P1",
+      "question_no": 7,
+      "pdf_page": 3,
+      "printed_page": 9,
+      "region": "question 7; options 3",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "D",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "D",
+      "website_path": "sections[0].questions[6]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P1",
+      "question_no": 8,
+      "pdf_page": 3,
+      "printed_page": 9,
+      "region": "question 8; options 3",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "B",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "B",
+      "website_path": "sections[0].questions[7]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P2",
+      "question_no": 9,
+      "pdf_page": 4,
+      "printed_page": 10,
+      "region": "question 9; options 4",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "If",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "If",
+      "website_path": "sections[1].questions[0]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P2",
+      "question_no": 10,
+      "pdf_page": 4,
+      "printed_page": 10,
+      "region": "question 10; options 4",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "out",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "out",
+      "website_path": "sections[1].questions[1]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P2",
+      "question_no": 11,
+      "pdf_page": 4,
+      "printed_page": 10,
+      "region": "question 11; options 4",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "What",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "What",
+      "website_path": "sections[1].questions[2]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P2",
+      "question_no": 12,
+      "pdf_page": 4,
+      "printed_page": 10,
+      "region": "question 12; options 4",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "made",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "made",
+      "website_path": "sections[1].questions[3]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P2",
+      "question_no": 13,
+      "pdf_page": 4,
+      "printed_page": 10,
+      "region": "question 13; options 4",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "of",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "of",
+      "website_path": "sections[1].questions[4]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P2",
+      "question_no": 14,
+      "pdf_page": 4,
+      "printed_page": 10,
+      "region": "question 14; options 4",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "is",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "is",
+      "website_path": "sections[1].questions[5]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P2",
+      "question_no": 15,
+      "pdf_page": 4,
+      "printed_page": 10,
+      "region": "question 15; options 4",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "who/that",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "who/that",
+      "website_path": "sections[1].questions[6]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P2",
+      "question_no": 16,
+      "pdf_page": 4,
+      "printed_page": 10,
+      "region": "question 16; options 4",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "up",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "up",
+      "website_path": "sections[1].questions[7]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P3",
+      "question_no": 17,
+      "pdf_page": 5,
+      "printed_page": 11,
+      "region": "question 17; options 5",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "impressive",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "impressive",
+      "website_path": "sections[2].questions[0]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P3",
+      "question_no": 18,
+      "pdf_page": 5,
+      "printed_page": 11,
+      "region": "question 18; options 5",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "popularity",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "popularity",
+      "website_path": "sections[2].questions[1]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P3",
+      "question_no": 19,
+      "pdf_page": 5,
+      "printed_page": 11,
+      "region": "question 19; options 5",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "relief",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "relief",
+      "website_path": "sections[2].questions[2]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P3",
+      "question_no": 20,
+      "pdf_page": 5,
+      "printed_page": 11,
+      "region": "question 20; options 5",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "inexperienced",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "inexperienced",
+      "website_path": "sections[2].questions[3]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P3",
+      "question_no": 21,
+      "pdf_page": 5,
+      "printed_page": 11,
+      "region": "question 21; options 5",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "hopeless",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "hopeless",
+      "website_path": "sections[2].questions[4]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P3",
+      "question_no": 22,
+      "pdf_page": 5,
+      "printed_page": 11,
+      "region": "question 22; options 5",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "surroundings",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "surroundings",
+      "website_path": "sections[2].questions[5]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P3",
+      "question_no": 23,
+      "pdf_page": 5,
+      "printed_page": 11,
+      "region": "question 23; options 5",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "memorable",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "memorable",
+      "website_path": "sections[2].questions[6]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P3",
+      "question_no": 24,
+      "pdf_page": 5,
+      "printed_page": 11,
+      "region": "question 24; options 5",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "passionate",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "passionate",
+      "website_path": "sections[2].questions[7]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P4",
+      "question_no": 25,
+      "pdf_page": 6,
+      "printed_page": 12,
+      "region": "question 25; options 6",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "hadn’t / had not EXPECTED | to see",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "hadn't/had not EXPECTED to see",
+      "website_path": "sections[3].questions[0]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P4",
+      "question_no": 26,
+      "pdf_page": 6,
+      "printed_page": 12,
+      "region": "question 26; options 6",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "PUT us | up",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "put us up",
+      "website_path": "sections[3].questions[1]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P4",
+      "question_no": 27,
+      "pdf_page": 6,
+      "printed_page": 12,
+      "region": "question 27; options 6",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "cannot/can’t | be BOTHERED",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "cannot/can't be BOTHERED",
+      "website_path": "sections[3].questions[2]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P4",
+      "question_no": 28,
+      "pdf_page": 7,
+      "printed_page": 13,
+      "region": "question 28; options 7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "keep | an EYE on",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "keep an eye on",
+      "website_path": "sections[3].questions[3]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P4",
+      "question_no": 29,
+      "pdf_page": 7,
+      "printed_page": 13,
+      "region": "question 29; options 7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "to DISCOURAGE Jo/her | from eating/having",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "to DISCOURAGE Jo/her from eating/having",
+      "website_path": "sections[3].questions[4]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P4",
+      "question_no": 30,
+      "pdf_page": 7,
+      "printed_page": 13,
+      "region": "question 30; options 7",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "to take | ACCOUNT of/into ACCOUNT",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "to take ACCOUNT of/into ACCOUNT",
+      "website_path": "sections[3].questions[5]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P5",
+      "question_no": 31,
+      "pdf_page": 9,
+      "printed_page": 15,
+      "region": "question 31; options 9",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "B",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "B",
+      "website_path": "sections[4].questions[0]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P5",
+      "question_no": 32,
+      "pdf_page": 9,
+      "printed_page": 15,
+      "region": "question 32; options 9",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "B",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "B",
+      "website_path": "sections[4].questions[1]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P5",
+      "question_no": 33,
+      "pdf_page": 9,
+      "printed_page": 15,
+      "region": "question 33; options 9",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "A",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "A",
+      "website_path": "sections[4].questions[2]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P5",
+      "question_no": 34,
+      "pdf_page": 9,
+      "printed_page": 15,
+      "region": "question 34; options 9",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "D",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "D",
+      "website_path": "sections[4].questions[3]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P5",
+      "question_no": 35,
+      "pdf_page": 9,
+      "printed_page": 15,
+      "region": "question 35; options 9",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "C",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "C",
+      "website_path": "sections[4].questions[4]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P5",
+      "question_no": 36,
+      "pdf_page": 9,
+      "printed_page": 15,
+      "region": "question 36; options 9",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "C",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "C",
+      "website_path": "sections[4].questions[5]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P6",
+      "question_no": 37,
+      "pdf_page": 10,
+      "printed_page": 16,
+      "region": "question 37; options PDF 11",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "E",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "E",
+      "website_path": "sections[5].questions[0]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P6",
+      "question_no": 38,
+      "pdf_page": 10,
+      "printed_page": 16,
+      "region": "question 38; options PDF 11",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "C",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "C",
+      "website_path": "sections[5].questions[1]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P6",
+      "question_no": 39,
+      "pdf_page": 10,
+      "printed_page": 16,
+      "region": "question 39; options PDF 11",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "A",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "A",
+      "website_path": "sections[5].questions[2]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P6",
+      "question_no": 40,
+      "pdf_page": 10,
+      "printed_page": 16,
+      "region": "question 40; options PDF 11",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "F",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "F",
+      "website_path": "sections[5].questions[3]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P6",
+      "question_no": 41,
+      "pdf_page": 10,
+      "printed_page": 16,
+      "region": "question 41; options PDF 11",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "D",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "D",
+      "website_path": "sections[5].questions[4]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P6",
+      "question_no": 42,
+      "pdf_page": 10,
+      "printed_page": 16,
+      "region": "question 42; options PDF 11",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "G",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "G",
+      "website_path": "sections[5].questions[5]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P7",
+      "question_no": 43,
+      "pdf_page": 12,
+      "printed_page": 18,
+      "region": "question 43; options PDF 13 headings",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "C",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "C",
+      "website_path": "sections[6].questions[0]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P7",
+      "question_no": 44,
+      "pdf_page": 12,
+      "printed_page": 18,
+      "region": "question 44; options PDF 13 headings",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "A",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "A",
+      "website_path": "sections[6].questions[1]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P7",
+      "question_no": 45,
+      "pdf_page": 12,
+      "printed_page": 18,
+      "region": "question 45; options PDF 13 headings",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "E",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "E",
+      "website_path": "sections[6].questions[2]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P7",
+      "question_no": 46,
+      "pdf_page": 12,
+      "printed_page": 18,
+      "region": "question 46; options PDF 13 headings",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "D",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "D",
+      "website_path": "sections[6].questions[3]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P7",
+      "question_no": 47,
+      "pdf_page": 12,
+      "printed_page": 18,
+      "region": "question 47; options PDF 13 headings",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "B",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "B",
+      "website_path": "sections[6].questions[4]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P7",
+      "question_no": 48,
+      "pdf_page": 12,
+      "printed_page": 18,
+      "region": "question 48; options PDF 13 headings",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "C",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "C",
+      "website_path": "sections[6].questions[5]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P7",
+      "question_no": 49,
+      "pdf_page": 12,
+      "printed_page": 18,
+      "region": "question 49; options PDF 13 headings",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "A",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "A",
+      "website_path": "sections[6].questions[6]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P7",
+      "question_no": 50,
+      "pdf_page": 12,
+      "printed_page": 18,
+      "region": "question 50; options PDF 13 headings",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "B",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "B",
+      "website_path": "sections[6].questions[7]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P7",
+      "question_no": 51,
+      "pdf_page": 12,
+      "printed_page": 18,
+      "region": "question 51; options PDF 13 headings",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "D",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "D",
+      "website_path": "sections[6].questions[8]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    },
+    {
+      "section": "P7",
+      "question_no": 52,
+      "pdf_page": 12,
+      "printed_page": 18,
+      "region": "question 52; options PDF 13 headings",
+      "reading_method": "model_visual",
+      "verified": true,
+      "raw_answer_transcription": "E",
+      "answer_pdf_page": 1,
+      "answer_printed_page": 120,
+      "answer_verified": true,
+      "website_answer": "E",
+      "website_path": "sections[6].questions[9]",
+      "analysis_source": "website",
+      "analysis_reviewed_against_pdf_answer": true
+    }
+  ],
+  "differences": [
+    {
+      "path": "P3.P3-p1.text",
+      "website_value": "I've discovered an (0) amazing sport: kayaking. It looks very {{17}} (IMPRESS) when you see it on TV, and apparently it's been increasing in {{18}} (POPULAR) over the past few years. I'm not actually a very sporty person but when my sister, a keen kayaker herself, bought me a lesson for my birthday that was my opportunity to have a go.",
+      "adopted_value": "I've discovered an (0) amazing sport: kayaking. It looks very {{17}} when you see it on TV, and apparently it's been increasing in {{18}} over the past few years. I'm not actually a very sporty person but when my sister, a keen kayaker herself, bought me a lesson for my birthday that was my opportunity to have a go.",
+      "reason": "提示词在 PDF 行末独立列；从正文移到题干末行"
+    },
+    {
+      "path": "P3.P3-p2.text",
+      "website_value": "It was a {{19}} (RELIEVE) to discover I wasn't the only beginner – everyone else was also very {{20}} (EXPERIENCE) like me. At first we were all pretty {{21}} (HOPE), and some of us even fell in the water, but we learnt quickly and our confidence began to grow.",
+      "adopted_value": "It was a {{19}} to discover I wasn't the only beginner – everyone else was also very {{20}} like me. At first we were all pretty {{21}}, and some of us even fell in the water, but we learnt quickly and our confidence began to grow.",
+      "reason": "提示词在 PDF 行末独立列；从正文移到题干末行"
+    },
+    {
+      "path": "P3.P3-p3.text",
+      "website_value": "I loved being on the river. The {{22}} (SURROUND) were so beautiful and relaxing that I was really reluctant to get out of the kayak when the lesson finished! It was a truly {{23}} (MEMORY) day. I signed up for a one-week course without a moment's hesitation. Now I'm just as {{24}} (PASSION) about kayaking as my sister.",
+      "adopted_value": "I loved being on the river. The {{22}} were so beautiful and relaxing that I was really reluctant to get out of the kayak when the lesson finished! It was a truly {{23}} day. I signed up for a one-week course without a moment's hesitation. Now I'm just as {{24}} about kayaking as my sister.",
+      "reason": "提示词在 PDF 行末独立列；从正文移到题干末行"
+    },
+    {
+      "path": "P7.P7-C.text",
+      "website_value": "Though Dealt got together to compete with other popular boy bands, their first single, What I Lost, had few of the elements that defined boy band music at the time: none of the sophisticated disco beats that might have been expected. Instead, it's understated rhythm and blues with a trace of folk, and accented by that least cool of instruments, the accordion. It was a fantastic debut; four years later, it's still unique, as different from the usual boy-band style as accordions are from electronic synthesizers, though both were used on the song. And although the subject matter, romance, is familiar, there's a clever twist. What I Lost is set in a courtroom. It was a track that was hard to improve on, and they never did.",
+      "adopted_value": "Though Dealt got together to compete with other popular boy bands, their first single, What I Lost, had few of the elements that defined boy band music at the time: none of the sophisticated disco beats that might have been expected. Instead, it's understated rhythm and blues with a trace of folk, and accented by that least cool of instruments, the accordion. It was a fantastic debut; four years later, it's still unique, as different from the usual boy-band style as accordions are from electronic synthesizers, though both were used on the song. And although the subject matter, romance, is familiar, there's a clever twist: What I Lost is set in a courtroom. It was a track that was hard to improve on, and they never did.",
+      "reason": "PDF 第 13 页原文使用冒号"
+    },
+    {
+      "path": "P2.P2-p1.text",
+      "website_value": "(0) have you ever tried a new sport or learnt to play a musical instrument? {{9}} so, you'll know that once you figure {{10}} how to do it and get good at it, you won't lose your skills, even when you haven't practised for a long time. Most experts put this down to 'muscle memory', which means the brain remembers an action and can recall it when needed. Now some researchers believe there's another important factor: errors that occur while learning a task.",
+      "adopted_value": "(0) Have you ever tried a new sport or learnt to play a musical instrument? {{9}} so, you'll know that once you figure {{10}} how to do it and get good at it, you won't lose your skills, even when you haven't practised for a long time. Most experts put this down to 'muscle memory', which means the brain remembers an action and can recall it when needed. Now some researchers believe there's another important factor: errors that occur while learning a task.",
+      "reason": "例题 HAVE 填入句首，采用句首大写"
+    },
+    {
+      "path": "P6.P6-p4.text",
+      "website_value": "The school is the first to use this simple technique to try to improve students' performance. Light tells the brain to halt production of melatonin – the hormone that makes you sleepy. {{39}} Researcher Dr Mariana Figueiro believes that, during the winter, the effects of the lack of light can slowly build up and make your 'body clock' confused. Exposure to light of the correct wavelength and intensity helps the body to know when to switch off in the evening. So you sleep more and feel better the next morning.",
+      "adopted_value": "The school is the first to use this simple technique to improve students' performance. Light tells the brain to halt production of melatonin – the hormone that makes you sleepy. {{39}} Researcher Dr Mariana Figueiro believes that, during the winter, the effects of the lack of light can slowly build up and make your 'body clock' confused. Exposure to light of the correct wavelength and intensity helps the body to know when to switch off in the evening. So you sleep more and feel better the next morning.",
+      "reason": "PDF 第 10 页没有网站补入的 try to"
+    },
+    {
+      "path": "P6.P6-p7.text",
+      "website_value": "For all these reasons, it's not surprising that only a few head teachers have experimented with the lighting in their schools. At Dragonskolan, head teacher Stellan Andersson initially understood this reluctance. After all, some studies suggested that although people claimed the brighter lights were having a positive effect on them, there was no measurable evidence to support this. Equally though, there was no evidence that they actually caused any harm. {{42}} So, Anderson decided to go ahead with installing them hoping for better academic performance. But, whether this happens or not, the students are certainly enjoying the bright new teaching environment.",
+      "adopted_value": "For all these reasons, it's not surprising that only a few head teachers have experimented with the lighting in their schools. At Dragonskolan, head teacher Stellan Andersson initially understood this reluctance. After all, some studies suggested that although people claimed the brighter lights were having a positive effect on them, there was no measurable evidence to support this. Equally though, there was no evidence that they actually caused any harm. {{42}} So Andersson decided to go ahead with installing them hoping for better academic performance. But, whether this happens or not, the students are certainly enjoying the bright new teaching environment.",
+      "reason": "PDF 第 10 页后文为 So Andersson，无逗号；按扫描原卷修正"
+    },
+    {
+      "path": "P6.Q42.analysis",
+      "website_value": "no evidence of harm（前提）→ Therefore nothing to lose（结论）→ So Anderson decided to go ahead（行动）：三个环节层层递进，G 是唯一能同时衔接前后因果的选项。",
+      "adopted_value": "no evidence of harm（前提）→ Therefore nothing to lose（结论）→ So Andersson decided to go ahead（行动）：三个环节层层递进，G 是唯一能同时衔接前后因果的选项。",
+      "reason": "原文人名与标点修正后同步更新引用及解析，避免保留旧引用"
+    },
+    {
+      "path": "P6.Q42.solve_steps",
+      "website_value": [
+        "看空前：'同样地，没有证据表明这些灯造成了任何伤害。'——好处待证实，坏处无证据。",
+        "锁定 G：'Therefore, it seemed on the face of it that there was nothing to lose.'（因此，表面上看来装它们并无损失。）——Therefore 承接'无害'，nothing to lose 推出'可以装'。",
+        "看空后：'So, Anderson decided to go ahead...'——So 与 Therefore 构成'无害→无损失→决定装'的双重因果链，逻辑闭合。选 G。"
+      ],
+      "adopted_value": [
+        "看空前：'同样地，没有证据表明这些灯造成了任何伤害。'——好处待证实，坏处无证据。",
+        "锁定 G：'Therefore, it seemed on the face of it that there was nothing to lose.'（因此，表面上看来装它们并无损失。）——Therefore 承接'无害'，nothing to lose 推出'可以装'。",
+        "看空后：'So Andersson decided to go ahead...'——So 与 Therefore 构成'无害→无损失→决定装'的双重因果链，逻辑闭合。选 G。"
+      ],
+      "reason": "原文人名与标点修正后同步更新引用及解析，避免保留旧引用"
+    },
+    {
+      "path": "P6.Q42.evidence",
+      "website_value": [
+        {
+          "paragraph_id": "P6-p7",
+          "quote": "there was no evidence that they actually caused any harm"
+        },
+        {
+          "paragraph_id": "P6-p7",
+          "quote": "So, Anderson decided to go ahead with installing them hoping for better academic performance"
+        }
+      ],
+      "adopted_value": [
+        {
+          "paragraph_id": "P6-p7",
+          "quote": "there was no evidence that they actually caused any harm"
+        },
+        {
+          "paragraph_id": "P6-p7",
+          "quote": "So Andersson decided to go ahead with installing them hoping for better academic performance"
+        }
+      ],
+      "reason": "原文人名与标点修正后同步更新引用及解析，避免保留旧引用"
+    },
+    {
+      "path": "P1.Q1.stem",
+      "website_value": "They've created a chocolate teapot that can be filled with boiling water and left to ______ for two minutes, after which the tea is ready to be served.",
+      "adopted_value": "They've created a chocolate teapot that can be filled with boiling water and left to {{1}} for two minutes, after which the tea is ready to be served.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P1.Q2.stem",
+      "website_value": "After ______ a range of experiments, the scientists came to the conclusion that the secret to making a teapot that wouldn't melt was to use dark chocolate with 65% chocolate solids.",
+      "adopted_value": "After {{2}} a range of experiments, the scientists {{3}} to the conclusion that the {{4}} to making a teapot that wouldn't melt was to use dark chocolate with 65% chocolate solids and build up a series of layers to strengthen it.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P1.Q3.stem",
+      "website_value": "After conducting a range of experiments, the scientists ______ to the conclusion that the secret to making a teapot that wouldn't melt was to use dark chocolate with 65% chocolate solids.",
+      "adopted_value": "After {{2}} a range of experiments, the scientists {{3}} to the conclusion that the {{4}} to making a teapot that wouldn't melt was to use dark chocolate with 65% chocolate solids and build up a series of layers to strengthen it.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P1.Q4.stem",
+      "website_value": "The ______ to making a teapot that wouldn't melt was to use dark chocolate with 65% chocolate solids and build up a series of layers to strengthen it.",
+      "adopted_value": "After {{2}} a range of experiments, the scientists {{3}} to the conclusion that the {{4}} to making a teapot that wouldn't melt was to use dark chocolate with 65% chocolate solids and build up a series of layers to strengthen it.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P1.Q5.stem",
+      "website_value": "At first the scientists wondered whether they might ______ end up with chocolate tea.",
+      "adopted_value": "At first the scientists wondered whether they might {{5}} end up with chocolate tea.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P1.Q6.stem",
+      "website_value": "They discovered some of the chocolate on the inside of the pot would melt, but ______ that the water was poured in carefully, the vast majority of it wouldn't be affected.",
+      "adopted_value": "They discovered some of the chocolate on the inside of the pot would melt, but {{6}} that the water was poured in carefully, the {{7}} majority of it wouldn't be affected.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P1.Q7.stem",
+      "website_value": "They discovered some of the chocolate on the inside of the pot would melt, but provided that the water was poured in carefully, the ______ majority of it wouldn't be affected.",
+      "adopted_value": "They discovered some of the chocolate on the inside of the pot would melt, but {{6}} that the water was poured in carefully, the {{7}} majority of it wouldn't be affected.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P1.Q8.stem",
+      "website_value": "When they tried the tea, the team agreed it was lovely with a ______ taste of chocolate.",
+      "adopted_value": "When they tried the tea, the team agreed it was lovely with a {{8}} taste of chocolate.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P2.Q9.stem",
+      "website_value": "______ so, you'll know that once you figure out how to do it and get good at it, you won't lose your skills, even when you haven't practised for a long time.",
+      "adopted_value": "{{9}} so, you'll know that once you figure {{10}} how to do it and get good at it, you won't lose your skills, even when you haven't practised for a long time.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P2.Q10.stem",
+      "website_value": "If so, you'll know that once you figure ______ how to do it and get good at it, you won't lose your skills, even when you haven't practised for a long time.",
+      "adopted_value": "{{9}} so, you'll know that once you figure {{10}} how to do it and get good at it, you won't lose your skills, even when you haven't practised for a long time.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P2.Q11.stem",
+      "website_value": "______ surprised the researchers is that getting things wrong not only trains the brain to perform better at a specific task, but also helps it to learn faster.",
+      "adopted_value": "{{11}} surprised the researchers is that getting things wrong not only trains the brain to perform better at a specific task, but also helps it to learn faster.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P2.Q12.stem",
+      "website_value": "This is true even when mistakes are ______ while learning a completely new task.",
+      "adopted_value": "This is true even when mistakes are {{12}} while learning a completely new task.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P2.Q13.stem",
+      "website_value": "The researchers believe that the brain keeps a record ______ errors and draws on them whenever a new skill is being learnt.",
+      "adopted_value": "The researchers believe that the brain keeps a record {{13}} errors and draws on them whenever a new skill {{14}} being learnt.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P2.Q14.stem",
+      "website_value": "The researchers believe that the brain keeps a record of errors and draws on them whenever a new skill ______ being learnt.",
+      "adopted_value": "The researchers believe that the brain keeps a record {{13}} errors and draws on them whenever a new skill {{14}} being learnt.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P2.Q15.stem",
+      "website_value": "This ensures that mistakes aren't repeated, and probably explains why people ______ master one sport or instrument can pick up others with relative ease.",
+      "adopted_value": "This ensures that mistakes aren't repeated, and probably explains why people {{15}} master one sport or instrument can pick {{16}} others with relative ease.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P2.Q16.stem",
+      "website_value": "This ensures that mistakes aren't repeated, and probably explains why people who master one sport or instrument can pick ______ others with relative ease.",
+      "adopted_value": "This ensures that mistakes aren't repeated, and probably explains why people {{15}} master one sport or instrument can pick {{16}} others with relative ease.",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P3.Q17.stem",
+      "website_value": "It looks very ______ when you see it on TV, and apparently it's been increasing in popularity over the past few years. (IMPRESS)",
+      "adopted_value": "It looks very {{17}} when you see it on TV, and apparently it's been increasing in {{18}} over the past few years.\nIMPRESS",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P3.Q18.stem",
+      "website_value": "It looks very impressive when you see it on TV, and apparently it's been increasing in ______ over the past few years. (POPULAR)",
+      "adopted_value": "It looks very {{17}} when you see it on TV, and apparently it's been increasing in {{18}} over the past few years.\nPOPULAR",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P3.Q19.stem",
+      "website_value": "It was a ______ to discover I wasn't the only beginner – everyone else was also very inexperienced like me. (RELIEVE)",
+      "adopted_value": "It was a {{19}} to discover I wasn't the only beginner – everyone else was also very {{20}} like me.\nRELIEVE",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P3.Q20.stem",
+      "website_value": "It was a relief to discover I wasn't the only beginner – everyone else was also very ______ like me. (EXPERIENCE)",
+      "adopted_value": "It was a {{19}} to discover I wasn't the only beginner – everyone else was also very {{20}} like me.\nEXPERIENCE",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P3.Q21.stem",
+      "website_value": "At first we were all pretty ______, and some of us even fell in the water, but we learnt quickly and our confidence began to grow. (HOPE)",
+      "adopted_value": "At first we were all pretty {{21}}, and some of us even fell in the water, but we learnt quickly and our confidence began to grow.\nHOPE",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P3.Q22.stem",
+      "website_value": "I loved being on the river. The ______ were so beautiful and relaxing that I was really reluctant to get out of the kayak when the lesson finished! (SURROUND)",
+      "adopted_value": "The {{22}} were so beautiful and relaxing that I was really reluctant to get out of the kayak when the lesson finished!\nSURROUND",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P3.Q23.stem",
+      "website_value": "It was a truly ______ day. I signed up for a one-week course without a moment's hesitation. (MEMORY)",
+      "adopted_value": "It was a truly {{23}} day.\nMEMORY",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P3.Q24.stem",
+      "website_value": "Now I'm just as ______ about kayaking as my sister. (PASSION)",
+      "adopted_value": "Now I'm just as {{24}} about kayaking as my sister.\nPASSION",
+      "reason": "PDF 正文原句投影；保留邻近空格，Part 3 提示词另起一行"
+    },
+    {
+      "path": "P4.Q25.stem",
+      "website_value": "Seeing Pete sitting in the café was a real surprise.\nEXPECTED\nI really ______________ Pete sitting in the café.",
+      "adopted_value": "Seeing Pete sitting in the café was a real surprise.\nEXPECTED\nI really {{25}} Pete sitting in the café.",
+      "reason": "PDF 空格统一为 {{题号}}；保留原句、关键词和改写句三行"
+    },
+    {
+      "path": "P4.Q25.answer",
+      "website_value": "hadn't/had not EXPECTED to see",
+      "adopted_value": "hadn’t / had not EXPECTED | to see",
+      "reason": "对应答案 PDF 第 1 页逐题视觉转录；保留大小写、斜杠及评分竖线"
+    },
+    {
+      "path": "P4.Q26.stem",
+      "website_value": "My aunt said we could stay at her house for a few nights during the holidays.\nPUT\nMy aunt said she could ______________ at her house for a few nights during the holidays.",
+      "adopted_value": "My aunt said we could stay at her house for a few nights during the holidays.\nPUT\nMy aunt said she could {{26}} at her house for a few nights during the holidays.",
+      "reason": "PDF 空格统一为 {{题号}}；保留原句、关键词和改写句三行"
+    },
+    {
+      "path": "P4.Q26.answer",
+      "website_value": "put us up",
+      "adopted_value": "PUT us | up",
+      "reason": "对应答案 PDF 第 1 页逐题视觉转录；保留大小写、斜杠及评分竖线"
+    },
+    {
+      "path": "P4.Q27.stem",
+      "website_value": "Anne says she doesn't want to make the effort to tidy her room, even though it's a mess!\nBOTHERED\nAnne says she ______________ to tidy her room, even though it's a mess!",
+      "adopted_value": "Anne says she doesn't want to make the effort to tidy her room, even though it's a mess!\nBOTHERED\nAnne says she {{27}} to tidy her room, even though it's a mess!",
+      "reason": "PDF 空格统一为 {{题号}}；保留原句、关键词和改写句三行"
+    },
+    {
+      "path": "P4.Q27.answer",
+      "website_value": "cannot/can't be BOTHERED",
+      "adopted_value": "cannot/can’t | be BOTHERED",
+      "reason": "对应答案 PDF 第 1 页逐题视觉转录；保留大小写、斜杠及评分竖线"
+    },
+    {
+      "path": "P4.Q28.stem",
+      "website_value": "Could you look after my little brother for a minute, please?\nEYE\nCould you ______________ my little brother for a minute, please?",
+      "adopted_value": "Could you look after my little brother for a minute, please?\nEYE\nCould you {{28}} my little brother for a minute, please?",
+      "reason": "PDF 空格统一为 {{题号}}；保留原句、关键词和改写句三行"
+    },
+    {
+      "path": "P4.Q28.answer",
+      "website_value": "keep an eye on",
+      "adopted_value": "keep | an EYE on",
+      "reason": "对应答案 PDF 第 1 页逐题视觉转录；保留大小写、斜杠及评分竖线"
+    },
+    {
+      "path": "P4.Q29.stem",
+      "website_value": "Jo's mother told her that it wasn't a good idea to eat so many biscuits before lunch!\nDISCOURAGE\nJo's mother tried ______________ so many biscuits before lunch!",
+      "adopted_value": "Jo's mother told her that it wasn't a good idea to eat so many biscuits before lunch!\nDISCOURAGE\nJo's mother tried {{29}} so many biscuits before lunch!",
+      "reason": "PDF 空格统一为 {{题号}}；保留原句、关键词和改写句三行"
+    },
+    {
+      "path": "P4.Q29.answer",
+      "website_value": "to DISCOURAGE Jo/her from eating/having",
+      "adopted_value": "to DISCOURAGE Jo/her | from eating/having",
+      "reason": "对应答案 PDF 第 1 页逐题视觉转录；保留大小写、斜杠及评分竖线"
+    },
+    {
+      "path": "P4.Q30.stem",
+      "website_value": "The teacher didn't think about the fact that it might rain when she planned the school trip.\nACCOUNT\nThe teacher failed ______________ the fact that it might rain when she planned the school trip.",
+      "adopted_value": "The teacher didn't think about the fact that it might rain when she planned the school trip.\nACCOUNT\nThe teacher failed {{30}} the fact that it might rain when she planned the school trip.",
+      "reason": "PDF 空格统一为 {{题号}}；保留原句、关键词和改写句三行"
+    },
+    {
+      "path": "P4.Q30.answer",
+      "website_value": "to take ACCOUNT of/into ACCOUNT",
+      "adopted_value": "to take | ACCOUNT of/into ACCOUNT",
+      "reason": "对应答案 PDF 第 1 页逐题视觉转录；保留大小写、斜杠及评分竖线"
+    },
+    {
+      "path": "P6.Q37.stem",
+      "website_value": "These symptoms can develop when sleep patterns are disturbed by the very long nights. ______ It is not unusual, for example, for some students to fall asleep on the journey to school.",
+      "adopted_value": "{{37}}",
+      "reason": "原卷仅在文章中给空格，无独立题干；用空格编号投影"
+    },
+    {
+      "path": "P6.Q38.stem",
+      "website_value": "Students even find themselves glancing out of the window, surprised to see that the sun hasn't come up yet. ______",
+      "adopted_value": "{{38}}",
+      "reason": "原卷仅在文章中给空格，无独立题干；用空格编号投影"
+    },
+    {
+      "path": "P6.Q39.stem",
+      "website_value": "Light tells the brain to halt production of melatonin – the hormone that makes you sleepy. ______ Researcher Dr Mariana Figueiro believes that, during the winter, the effects of the lack of light can slowly build up and make your 'body clock' confused.",
+      "adopted_value": "{{39}}",
+      "reason": "原卷仅在文章中给空格，无独立题干；用空格编号投影"
+    },
+    {
+      "path": "P6.Q40.stem",
+      "website_value": "______ When a sleep researcher at Stockholm told a conference of head teachers about the benefits of installing full-spectrum lights, they objected, saying that pupils would become restless and be unable to concentrate on their work.",
+      "adopted_value": "{{40}}",
+      "reason": "原卷仅在文章中给空格，无独立题干；用空格编号投影"
+    },
+    {
+      "path": "P6.Q41.stem",
+      "website_value": "But those like Figueiro, who are arguing for change, point to other evidence to support their case. ______ Designers may have ignored the significance of this, as giving any consideration to light in their designs seems to have become too low a priority.",
+      "adopted_value": "{{41}}",
+      "reason": "原卷仅在文章中给空格，无独立题干；用空格编号投影"
+    },
+    {
+      "path": "P6.Q42.stem",
+      "website_value": "Equally though, there was no evidence that they actually caused any harm. ______ So, Anderson decided to go ahead with installing them hoping for better academic performance.",
+      "adopted_value": "{{42}}",
+      "reason": "原卷仅在文章中给空格，无独立题干；用空格编号投影"
+    }
+  ],
+  "transformations": [
+    "PDF scan line wraps merged within paragraphs; double columns read left then right; website source_keys retained as stable paragraph identifiers after visual correspondence review.",
+    "Straight/curly apostrophe glyph differences and typesetting hyphens retained using existing website transcription except official answer strings; printed line/page markers excluded.",
+    "Examples 0 filled using PDF supplied example answers; no question 0 record.",
+    "Cloze stems are projections of the exact original sentence, not separate printed questions; P6 stem is gap marker; P7 combines common question lead-in with each prompt.",
+    "Website paragraph translations and question analyses retained; missing translations remain empty.",
+    "Pending placeholders are treated conservatively as conflicts; no unapproved catalogue title overwrite."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,160 @@
+{
+  "source": "E:\\PersonalDocument\\project\\questionBankWebsite\\题目\\FCE题目\\校园版3\\青3-T1.pdf",
+  "sha256": "48e24619858c97801809425f94adb73d03649c13795ec84f7331c3a73f812368",
+  "role": "paper",
+  "total_pages": 21,
+  "selected_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-001.png"
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-002.png"
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-003.png"
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-004.png"
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-005.png"
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-006.png"
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-007.png"
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-008.png"
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-009.png"
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-010.png"
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-011.png"
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-012.png"
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "paper-pages/page-013.png"
+    }
+  ],
+  "notes": [
+    "Page numbers are 1-based PDF indices, not printed page numbers.",
+    "Short/empty text must be read visually or with OCR; it does not mean no questions.",
+    "The scan heuristic is not OCR quality validation; all imported text needs verification.",
+    "Rendering does not mark a page verified or transcribe answers.",
+    "Only explicitly selected files are read; no sibling PDFs are opened."
+  ]
+}
