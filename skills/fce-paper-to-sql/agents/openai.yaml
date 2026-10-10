@@ -1,0 +1,4 @@
+interface:
+  display_name: "FCE PDF 试卷转数据库脚本"
+  short_description: "读取 FCE 试卷与答案 PDF，核验扫描页并按现有十表设计生成 PostgreSQL 插入脚本"
+  default_prompt: "使用 $fce-paper-to-sql 将指定 FCE 试卷 PDF 和对应答案 PDF 按当前数据库设计生成插入 SQL、来源记录和校验报告。"
