@@ -2,7 +2,7 @@
 
 ## 内容与执行
 
-`src/main/resources/db/migration` 中的 001—010 文件按依赖顺序创建数据库设计文档中的 10 张业务表，包括约束、索引和中文注释，不包含业务数据。
+`src/main/resources/db/migration` 中的 001—010 文件按依赖顺序创建数据库设计文档中的 10 张业务表，包括约束、索引和中文注释，不包含业务数据。011—012 为两套试卷的数据迁移。
 
 项目使用 Spring Boot Flyway starter 与 PostgreSQL 专用模块。启动应用时 Flyway 从 `classpath:db/migration` 读取脚本，通过应用配置中的 DataSource 连接数据库。数据库应事先存在；迁移账号需要目标 schema 的建表权限。SQL 使用 PostgreSQL identity、JSONB 和 JSONPath 功能（语法要求 PostgreSQL 12 或以上，实际服务器版本还须与项目 Flyway 版本兼容）。
 
@@ -23,6 +23,17 @@ spring:
 使用独立 Flyway CLI 时也需要提供等价的 prefix、separator、suffixes 设置；Spring Boot 的 YAML 不会自动成为 CLI 配置。
 
 每个文件由 Flyway 管理事务与历史。已执行版本不会因再次启动而重复执行。后续修改使用 011 及之后的新迁移，不修改已经应用的文件。Hibernate 继续使用 `ddl-auto: none`，不启用 `baseline-on-migrate`。
+
+## 试卷数据迁移 011—012
+
+- `011_import_standard_1_test_1.sql`：标准版 1 Test 1，7 Part、52 题及对应答案与解析。
+- `012_import_campus_3_test_1.sql`：校园版 3 Test 1，7 Part、52 题及对应答案、已有译文与解析。
+
+两份脚本遵循空前缀、单下划线命名规则，事务与版本历史由 Flyway 管理，脚本不含顶层 BEGIN/COMMIT。原卷核验记录、中间数据、独立插入脚本和只读回读脚本保留在 `data-import/<slug>/`。
+
+应用下次启动时会自动执行尚未应用的数据迁移。脚本使用 public schema，按固定顺序锁定十张业务表，完整比较现有数据；相同内容无更新，内容冲突或不完整旧卷报错回滚。每卷核验完成后目标状态为 published。已有 pending 占位卷保守拒绝，不能自动覆盖。
+
+本次仅生成迁移文件并检查命名和 SQL 分句，未启动应用或执行数据库迁移；此前 001—010 的运行验证不涵盖这两份数据迁移。标准卷网站段落译文为空，因此仍为空；校园卷保留已有 38 段译文。
 
 ## IF NOT EXISTS 的边界
 

@@ -1,0 +1,9 @@
+{
+  "static_checks": "passed",
+  "database_executed": false,
+  "ddl_columns": "all business columns on all ten tables",
+  "payload_roundtrip": "exact",
+  "question_count": 52,
+  "answer_count": 52,
+  "evidence_count": 73
+}

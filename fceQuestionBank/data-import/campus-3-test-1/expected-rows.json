@@ -1,0 +1,5659 @@
+[
+  {
+    "table_name": "edition",
+    "row_key": {
+      "code": "campus"
+    },
+    "data": {
+      "code": "campus",
+      "name": "校园版",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "book",
+    "row_key": {
+      "edition_code": "campus",
+      "book_no": 3
+    },
+    "data": {
+      "edition_code": "campus",
+      "book_no": 3,
+      "title": "校园版 3",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "exam_paper",
+    "row_key": {
+      "slug": "campus-3-test-1"
+    },
+    "data": {
+      "edition_code": "campus",
+      "book_no": 3,
+      "test_no": 1,
+      "slug": "campus-3-test-1",
+      "title": "FCE青少版真题3 Test 1 · 阅读与语用讲评",
+      "subtitle": "Reading and Use of English（1小时15分钟）· Part 1–Part 7",
+      "duration_minutes": 75,
+      "status": "published",
+      "edition_note": "更新版 · 仅阅读与语用",
+      "source_metadata": {
+        "exam_page": 2,
+        "publication_status": "用户提供的FCE青少版真题3 Test 1扫描原卷；阅读与语用为PDF第2–13页。",
+        "links": [],
+        "paper_file": "题目/FCE题目/校园版3/青3-T1.pdf",
+        "answer_file": "题目/FCE题目/FCE-ANSWERS/校园版/F03-T1.pdf",
+        "pdf_pages": [
+          2,
+          13
+        ],
+        "printed_pages": [
+          8,
+          19
+        ],
+        "supplement_file": "FCE网站最终版/campus-3-test-1/index.html"
+      }
+    }
+  },
+  {
+    "table_name": "exam_section",
+    "row_key": {
+      "code": "P1"
+    },
+    "data": {
+      "code": "P1",
+      "part_no": 1,
+      "title": "Part 1",
+      "question_format": "multiple_choice_cloze",
+      "paper_reference": "青3-T1.pdf 第2–3页",
+      "expected_option_count": 4,
+      "sort_order": 1,
+      "source_groups": []
+    }
+  },
+  {
+    "table_name": "exam_section",
+    "row_key": {
+      "code": "P2"
+    },
+    "data": {
+      "code": "P2",
+      "part_no": 2,
+      "title": "Part 2",
+      "question_format": "open_cloze",
+      "paper_reference": "青3-T1.pdf 第4页",
+      "expected_option_count": 0,
+      "sort_order": 2,
+      "source_groups": []
+    }
+  },
+  {
+    "table_name": "exam_section",
+    "row_key": {
+      "code": "P3"
+    },
+    "data": {
+      "code": "P3",
+      "part_no": 3,
+      "title": "Part 3",
+      "question_format": "word_formation",
+      "paper_reference": "青3-T1.pdf 第5页",
+      "expected_option_count": 0,
+      "sort_order": 3,
+      "source_groups": []
+    }
+  },
+  {
+    "table_name": "exam_section",
+    "row_key": {
+      "code": "P4"
+    },
+    "data": {
+      "code": "P4",
+      "part_no": 4,
+      "title": "Part 4",
+      "question_format": "key_word_transformation",
+      "paper_reference": "青3-T1.pdf 第6–7页",
+      "expected_option_count": 0,
+      "sort_order": 4,
+      "source_groups": []
+    }
+  },
+  {
+    "table_name": "exam_section",
+    "row_key": {
+      "code": "P5"
+    },
+    "data": {
+      "code": "P5",
+      "part_no": 5,
+      "title": "Part 5",
+      "question_format": "reading_multiple_choice",
+      "paper_reference": "青3-T1.pdf 第8–9页",
+      "expected_option_count": 4,
+      "sort_order": 5,
+      "source_groups": []
+    }
+  },
+  {
+    "table_name": "exam_section",
+    "row_key": {
+      "code": "P6"
+    },
+    "data": {
+      "code": "P6",
+      "part_no": 6,
+      "title": "Part 6",
+      "question_format": "gapped_text",
+      "paper_reference": "青3-T1.pdf 第10–11页",
+      "expected_option_count": 7,
+      "sort_order": 6,
+      "source_groups": []
+    }
+  },
+  {
+    "table_name": "exam_section",
+    "row_key": {
+      "code": "P7"
+    },
+    "data": {
+      "code": "P7",
+      "part_no": 7,
+      "title": "Part 7",
+      "question_format": "multiple_matching",
+      "paper_reference": "青3-T1.pdf 第12–13页",
+      "expected_option_count": 5,
+      "sort_order": 7,
+      "source_groups": [
+        {
+          "title": "A",
+          "paragraph_ids": [
+            "P7-h",
+            "P7-Ah",
+            "P7-A"
+          ]
+        },
+        {
+          "title": "B",
+          "paragraph_ids": [
+            "P7-Bh",
+            "P7-B"
+          ]
+        },
+        {
+          "title": "C",
+          "paragraph_ids": [
+            "P7-Ch",
+            "P7-C"
+          ]
+        },
+        {
+          "title": "D",
+          "paragraph_ids": [
+            "P7-Dh",
+            "P7-D"
+          ]
+        },
+        {
+          "title": "E",
+          "paragraph_ids": [
+            "P7-Eh",
+            "P7-E"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P1",
+      "source_key": "P1-h"
+    },
+    "data": {
+      "section_code": "P1",
+      "source_key": "P1-h",
+      "role": "heading",
+      "text": "Chocolate teapots really are useful",
+      "translation": "巧克力茶壶真的有用",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P1",
+      "source_key": "P1-p1"
+    },
+    "data": {
+      "section_code": "P1",
+      "source_key": "P1-p1",
+      "role": "paragraph",
+      "text": "A chocolate teapot is not as useless as the old British saying (0) suggests. Scientists have shown it's possible to use one to make tea. They've created a chocolate teapot that can be filled with boiling water and left to {{1}} for two minutes, after which the tea is ready to be served.",
+      "translation": "巧克力茶壶并不像英国那句老话所暗示的那样毫无用处。科学家已经证明，用它来泡茶是可能的。他们制成了一个可以注入沸水并静置{{1}}两分钟的巧克力茶壶，两分钟之后茶就可以倒出来享用了。",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P1",
+      "source_key": "P1-p2"
+    },
+    "data": {
+      "section_code": "P1",
+      "source_key": "P1-p2",
+      "role": "paragraph",
+      "text": "After {{2}} a range of experiments, the scientists {{3}} to the conclusion that the {{4}} to making a teapot that wouldn't melt was to use dark chocolate with 65% chocolate solids and build up a series of layers to strengthen it. This whole process took around two-and-a-half hours.",
+      "translation": "在{{2}}一系列实验之后，科学家们{{3}}结论：做出一个不会融化的茶壶的{{4}}在于使用含65%可可固形物的黑巧克力，并一层层堆叠加固。整个过程花了大约两个半小时。",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P1",
+      "source_key": "P1-p3"
+    },
+    "data": {
+      "section_code": "P1",
+      "source_key": "P1-p3",
+      "role": "paragraph",
+      "text": "At first the scientists wondered whether they might {{5}} end up with chocolate tea. They discovered some of the chocolate on the inside of the pot would melt, but {{6}} that the water was poured in carefully, the {{7}} majority of it wouldn't be affected. When they tried the tea, the team agreed it was lovely with a {{8}} taste of chocolate.",
+      "translation": "起初，科学家们担心他们到头来{{5}}只会得到一杯巧克力味的茶。他们发现壶内壁的一些巧克力会融化，但{{6}}只要小心注水，{{7}}绝大部分巧克力并不会受到影响。品尝时，团队一致认为这茶带着{{8}}淡淡的巧克力味，非常好喝。",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P2",
+      "source_key": "P2-h"
+    },
+    "data": {
+      "section_code": "P2",
+      "source_key": "P2-h",
+      "role": "heading",
+      "text": "Making mistakes helps you to succeed",
+      "translation": "犯错帮助你成功",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P2",
+      "source_key": "P2-p1"
+    },
+    "data": {
+      "section_code": "P2",
+      "source_key": "P2-p1",
+      "role": "paragraph",
+      "text": "(0) Have you ever tried a new sport or learnt to play a musical instrument? {{9}} so, you'll know that once you figure {{10}} how to do it and get good at it, you won't lose your skills, even when you haven't practised for a long time. Most experts put this down to 'muscle memory', which means the brain remembers an action and can recall it when needed. Now some researchers believe there's another important factor: errors that occur while learning a task.",
+      "translation": "（例0）你是否尝试过一项新运动，或学过一种乐器？{{9}}如果是的话，你就会知道：一旦你{{10}}弄明白怎么做并且练得熟练了，即使很久不练，你也不会丢掉这项技能。大多数专家把这归因于'肌肉记忆'——大脑记住了一个动作，需要时就能调用它。而如今一些研究人员认为还有一个重要因素：学习任务过程中出现的错误。",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P2",
+      "source_key": "P2-p2"
+    },
+    "data": {
+      "section_code": "P2",
+      "source_key": "P2-p2",
+      "role": "paragraph",
+      "text": "{{11}} surprised the researchers is that getting things wrong not only trains the brain to perform better at a specific task, but also helps it to learn faster. This is true even when mistakes are {{12}} while learning a completely new task. The researchers believe that the brain keeps a record {{13}} errors and draws on them whenever a new skill {{14}} being learnt. This ensures that mistakes aren't repeated, and probably explains why people {{15}} master one sport or instrument can pick {{16}} others with relative ease.",
+      "translation": "{{11}}让研究人员感到惊讶的是，出错不仅能训练大脑在特定任务上表现得更好，还能帮助它学得更快。即使在学习一个全新任务时{{12}}犯了错，这一点同样成立。研究人员认为，大脑会{{13}}记录错误，并且每当学习一项新技能{{14}}时都会调用这些记录。这保证了错误不会重复出现，或许也解释了为什么{{15}}精通一项运动或乐器的人能相对轻松地{{16}}学会其他运动或乐器。",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P3",
+      "source_key": "P3-h"
+    },
+    "data": {
+      "section_code": "P3",
+      "source_key": "P3-h",
+      "role": "heading",
+      "text": "Have a go at kayaking",
+      "translation": "试试皮划艇吧",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P3",
+      "source_key": "P3-p1"
+    },
+    "data": {
+      "section_code": "P3",
+      "source_key": "P3-p1",
+      "role": "paragraph",
+      "text": "I've discovered an (0) amazing sport: kayaking. It looks very {{17}} when you see it on TV, and apparently it's been increasing in {{18}} over the past few years. I'm not actually a very sporty person but when my sister, a keen kayaker herself, bought me a lesson for my birthday that was my opportunity to have a go.",
+      "translation": "我发现了一项（例0）了不起的运动：皮划艇。在电视上看到它时，它看起来非常{{17}}，而且显然这几年它越来越{{18}}了。其实我并不是个特别爱运动的人，但当我那本身就热衷皮划艇的姐姐送我一节课作为生日礼物时，那就成了我尝试一次的机会。",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P3",
+      "source_key": "P3-p2"
+    },
+    "data": {
+      "section_code": "P3",
+      "source_key": "P3-p2",
+      "role": "paragraph",
+      "text": "It was a {{19}} to discover I wasn't the only beginner – everyone else was also very {{20}} like me. At first we were all pretty {{21}}, and some of us even fell in the water, but we learnt quickly and our confidence began to grow.",
+      "translation": "发现我不是唯一的初学者真是让人{{19}}——其他人和我一样都非常{{20}}。起初我们都相当{{21}}，有的人甚至还掉进了水里，但我们学得很快，信心也开始增长。",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P3",
+      "source_key": "P3-p3"
+    },
+    "data": {
+      "section_code": "P3",
+      "source_key": "P3-p3",
+      "role": "paragraph",
+      "text": "I loved being on the river. The {{22}} were so beautiful and relaxing that I was really reluctant to get out of the kayak when the lesson finished! It was a truly {{23}} day. I signed up for a one-week course without a moment's hesitation. Now I'm just as {{24}} about kayaking as my sister.",
+      "translation": "我喜欢待在河上。四周的{{22}}如此美丽、令人放松，以至于课程结束时我真的很不情愿从皮划艇里出来！那真是{{23}}的一天。我毫不犹豫地报名了一个为期一周的课程。现在我对皮划艇和姐姐一样{{24}}了。",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P4",
+      "source_key": "P4-p0"
+    },
+    "data": {
+      "section_code": "P4",
+      "source_key": "P4-p0",
+      "role": "caption",
+      "text": "For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.",
+      "translation": "第25-30题：用所给单词完成第二个句子，使其与第一个句子意思相近。不得改变所给单词的形式。所填部分（含所给单词在内）必须为两到五个单词。",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P5",
+      "source_key": "P5-h"
+    },
+    "data": {
+      "section_code": "P5",
+      "source_key": "P5-h",
+      "role": "heading",
+      "text": "Young writer",
+      "translation": "少年作家",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P5",
+      "source_key": "P5-p1"
+    },
+    "data": {
+      "section_code": "P5",
+      "source_key": "P5-p1",
+      "role": "paragraph",
+      "text": "Charlotte Grainger explains that it was her primary school teacher who first speculated that she might write a novel. 'I thought the height of achievement would be to write a book because it seemed such a challenge and anyway I didn't know what other teenagers were doing, like being in the Olympics, for example. When I turned 13 I thought: \"I may as well attempt this now\".' The novel Charlotte started then is, remarkably, about to be published. 'Recently I told my ex-teacher about it and she was astonished. She told me she'd meant I'd probably do it when I was 30 or 40. That had never occurred to me – I couldn't understand why I'd be expected to put something on hold that I had a chance of being good at.'",
+      "translation": "夏洛特·格雷杰解释说，最先猜测她可能写小说的，是她的小学老师。'我当时认为，人生成就的顶点就是写一本书，因为那看起来极具挑战；而且我也不知道别的青少年都在做什么，比如参加奥运会之类的。13岁那年我心想：\"我不妨现在就试试。\"'夏洛特当时动笔的那部小说，令人惊讶地即将出版。'最近我告诉了以前的那位老师，她非常吃惊。她说她的意思是我大概要到三四十岁才会去写。我从来没这么想过——我不明白，为什么明明有把握做好的事，却要被要求搁置。'",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P5",
+      "source_key": "P5-p2"
+    },
+    "data": {
+      "section_code": "P5",
+      "source_key": "P5-p2",
+      "role": "paragraph",
+      "text": "It's a winter afternoon, in the offices of Charlotte's publishers. Even though I knew that I was going to interview a 15-year-old girl about her book, I was still momentarily thrown by seeing a teenager sitting there. The book is a huge achievement: the narrative is assured and action packed. Nothing about it, except the age of its heroine, suggests that it was written by a teenager. The public relations representative for the book is keeping us company in case Charlotte might need defending. But she needs neither parental nor professional support. She's her own person: spirited, with an alert face and a lively intelligence, but also a steadiness that prevents any overconfidence she could be forgiven for feeling.",
+      "translation": "那是一个冬日的下午，地点在夏洛特出版社的办公室。尽管我早知道要采访一位15岁的少女、聊她的书，但看到一个少年坐在那里，我仍有一瞬间的错愕。这本书是一项巨大的成就：叙事沉稳自信、情节紧凑。除了女主角的年龄，这本书没有任何地方显示出它出自少年之手。出版社的公关代表全程陪同，以防夏洛特需要'被保护'。但她既不需要父母撑腰，也不需要专业人士护航。她完全是个有主见的人：朝气蓬勃，神情机敏，头脑灵活，同时又有一份沉稳，压住了任何她'情有可原'的自负。",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P5",
+      "source_key": "P5-p3"
+    },
+    "data": {
+      "section_code": "P5",
+      "source_key": "P5-p3",
+      "role": "paragraph",
+      "text": "I ask her about the sophisticated moral issues she raises. 'I was trying to ask big questions, not answer them. There aren't many life lessons I can pass on to my readers,' she responds, laughing. 'I don't think my understanding of the world is limited by my age, but neither do I believe I'm particularly wise. I was just interested in exploring the theme of taking responsibility.'",
+      "translation": "我问她书中探讨的那些复杂的道德问题。'我是想提出大问题，而不是回答它们。能传递给读者的人生道理并不多，'她笑着回答。'我不认为我对世界的理解受年龄限制，但我也不觉得自己特别睿智。我只是对探索'承担责任'这个主题感兴趣。'",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P5",
+      "source_key": "P5-p4"
+    },
+    "data": {
+      "section_code": "P5",
+      "source_key": "P5-p4",
+      "role": "paragraph",
+      "text": "She has a theory about teenagers and the way they are 'betrayed' by the fiction that is specifically aimed at them. There are, she maintains, three types of teenager depicted in novels. 'There's the outsider who becomes acceptable to society, the naive teenager who knows nothing about the big wide world, and the awkward teenager character who isn't socially skilled.' Repeatedly reading about these character types irritated her. 'What if you're basically fine? There aren't many stories out there about characters who aren't inadequate in some way. The overall impression teenagers can get from some writers – and I don't think it's intentional – is teenagers can't possibly know who they are because they're not experienced enough to know the truth. And when that is being pushed on them by writers, it can undermine their self-belief.'",
+      "translation": "她对青少年如何被'专门写给他们的小说''辜负'有一套自己的理论。她认为，小说里的青少年有三类：'融入社会而变得合群的局外人；对广阔世界一无所知的天真少年；以及不善社交的笨拙少年。'反复读到这些人物类型让她很恼火。'可如果你本来好好的呢？市面上写'各方面都不欠缺'的人物的故事并不多。青少年从某些作家那里得到的整体印象（我认为作家并非有意如此）是：青少年不可能知道自己是谁，因为他们的阅历不足以认识真相。而当作家们把这种想法不断灌输给他们时，就会削弱他们的自信。'",
+      "sort_order": 5
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P5",
+      "source_key": "P5-p5"
+    },
+    "data": {
+      "section_code": "P5",
+      "source_key": "P5-p5",
+      "role": "paragraph",
+      "text": "Charlotte has always been a keen reader of famous fantasy writers, some of whom you might suppose she'd be indebted to, but in fact they almost put her off writing entirely. 'Books by my favourite fantasy writers explore deep things about psychology and about life. I was asking myself: is this seriously what I have to be doing to write a good book and am I really up to it?' She does, however, praise the influence of a book called How Not to Write a Novel. 'It tells you that if the reader starts to guess what's going to happen, the suspense has probably gone.'",
+      "translation": "夏洛特一直是著名奇幻作家们的忠实读者——你可能以为她从他们那里受益匪浅，但实际上，这些作家几乎让她彻底放弃了写作。'我最喜欢的奇幻作家们的书探索的是心理与人生这些深刻的东西。我当时问自己：要写出一本好书，真的得做到这种程度吗？我真的够格吗？'不过，有一本名为《如何不要写小说》的书，她确实称赞它影响了自己。'它告诉你：一旦读者开始猜到接下来会发生什么，悬念多半就没了。'",
+      "sort_order": 6
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P5",
+      "source_key": "P5-p6"
+    },
+    "data": {
+      "section_code": "P5",
+      "source_key": "P5-p6",
+      "role": "paragraph",
+      "text": "It would be easy to argue that Charlotte's parents both being journalists was the decisive factor in getting her novel published. Indeed, her father's acquaintance with someone in publishing was what got her book read initially. She acknowledges her good fortune, because getting anyone to read a first novel is hard, whatever the age of the author. 'Every aspiring writer needs support and a lucky break, but after that you're on your own. Ultimately writers sink or swim according to their talents so I don't take things for granted,' Charlotte concludes.",
+      "translation": "人们很容易认为，夏洛特父母都是记者，这是她的小说得以出版的决定性因素。的确，父亲在出版界的人脉最初让她的书得到了被阅读的机会。她承认这份幸运，因为无论作者多大年纪，让一个'新人'愿意读你的第一部小说都很难。'每个怀抱雄心的作家都需要支持和一次运气，但那之后，路就要靠自己走了。说到底，作家凭才华决定沉浮，所以我不把任何事视作理所当然，'夏洛特总结道。",
+      "sort_order": 7
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P6",
+      "source_key": "P6-h"
+    },
+    "data": {
+      "section_code": "P6",
+      "source_key": "P6-h",
+      "role": "heading",
+      "text": "Lighting up the winter darkness",
+      "translation": "点亮冬日的黑暗",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P6",
+      "source_key": "P6-p1"
+    },
+    "data": {
+      "section_code": "P6",
+      "source_key": "P6-p1",
+      "role": "paragraph",
+      "text": "In northern Scandinavia the long dark winters can be difficult. The students in Dragonskolan, a secondary school in Umeå, in Sweden's far north, are taking part in an experiment to see whether using intense electric light, known as 'full-spectrum' light, can help with this problem. This light is much brighter than the lighting currently used in most schools and homes.",
+      "translation": "在斯堪的纳维亚北部，漫长黑暗的冬天会很不好过。瑞典最北部城市于默奥的中学 Dragonskolan 的学生们正在参与一项实验，检验使用被称为'全光谱'光的强电灯光是否能缓解这一问题。这种光比目前大多数学校和家里使用的照明要亮得多。",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P6",
+      "source_key": "P6-p2"
+    },
+    "data": {
+      "section_code": "P6",
+      "source_key": "P6-p2",
+      "role": "paragraph",
+      "text": "This experiment is also part of a bigger debate about using full-spectrum light in schools to relieve tiredness and lack of energy. These symptoms can develop when sleep patterns are disturbed by the very long nights. {{37}} It is not unusual, for example, for some students to fall asleep on the journey to school.",
+      "translation": "这项实验也是一场更大辩论的一部分：学校是否应使用全光谱光来缓解疲倦与精力不足。当睡眠规律被漫长的黑夜打乱时，这些症状就可能出现。{{37}}比如说，一些学生在上学路上睡着，这并不罕见。",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P6",
+      "source_key": "P6-p3"
+    },
+    "data": {
+      "section_code": "P6",
+      "source_key": "P6-p3",
+      "role": "paragraph",
+      "text": "But last month Dragonskolan school installed 140 full-spectrum lamps in several classrooms. Now, stepping through the door in the morning is like walking into bright sunshine. Students even find themselves glancing out of the window, surprised to see that the sun hasn't come up yet. {{38}}",
+      "translation": "但上个月，Dragonskolan 学校在几间教室里安装了140盏全光谱灯。如今，早晨走进教室的门，就像走进明媚的阳光里。学生们甚至会不由自主地望向窗外，惊讶地发现太阳其实还没升起来。{{38}}",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P6",
+      "source_key": "P6-p4"
+    },
+    "data": {
+      "section_code": "P6",
+      "source_key": "P6-p4",
+      "role": "paragraph",
+      "text": "The school is the first to use this simple technique to improve students' performance. Light tells the brain to halt production of melatonin – the hormone that makes you sleepy. {{39}} Researcher Dr Mariana Figueiro believes that, during the winter, the effects of the lack of light can slowly build up and make your 'body clock' confused. Exposure to light of the correct wavelength and intensity helps the body to know when to switch off in the evening. So you sleep more and feel better the next morning.",
+      "translation": "这所学校是第一个用这种简单方法尝试提升学生表现的。光照会告诉大脑停止分泌褪黑素——那种让你昏昏欲睡的激素。{{39}}研究员玛丽安娜·菲格罗博士认为，冬季里光照不足的影响会慢慢累积，打乱你的'生物钟'。接触波长与强度合适的光线，能帮助身体知道晚上何时该'关机'。这样一来，你睡得更好，第二天早上感觉更棒。",
+      "sort_order": 5
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P6",
+      "source_key": "P6-p5"
+    },
+    "data": {
+      "section_code": "P6",
+      "source_key": "P6-p5",
+      "role": "paragraph",
+      "text": "{{40}} When a sleep researcher at Stockholm told a conference of head teachers about the benefits of installing full-spectrum lights, they objected, saying that pupils would become restless and be unable to concentrate on their work. Money was also a concern for them because some schools didn't have the budget for these lights.",
+      "translation": "{{40}}当斯德哥尔摩的一位睡眠研究员在校长会议上介绍安装全光谱灯的好处时，校长们表示反对，说学生反而会躁动不安、无法专心学习。经费也是他们担心的问题，因为一些学校没有预算购置这些灯具。",
+      "sort_order": 6
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P6",
+      "source_key": "P6-p6"
+    },
+    "data": {
+      "section_code": "P6",
+      "source_key": "P6-p6",
+      "role": "paragraph",
+      "text": "But those like Figueiro, who are arguing for change, point to other evidence to support their case. {{41}} Designers may have ignored the significance of this, as giving any consideration to light in their designs seems to have become too low a priority.",
+      "translation": "但像菲格罗这样主张变革的人，引用了其他证据来支持自己的观点。{{41}}设计师们可能忽视了这一点的重要意义，因为在建筑设计中考虑采光似乎早已排不上优先级。",
+      "sort_order": 7
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P6",
+      "source_key": "P6-p7"
+    },
+    "data": {
+      "section_code": "P6",
+      "source_key": "P6-p7",
+      "role": "paragraph",
+      "text": "For all these reasons, it's not surprising that only a few head teachers have experimented with the lighting in their schools. At Dragonskolan, head teacher Stellan Andersson initially understood this reluctance. After all, some studies suggested that although people claimed the brighter lights were having a positive effect on them, there was no measurable evidence to support this. Equally though, there was no evidence that they actually caused any harm. {{42}} So Andersson decided to go ahead with installing them hoping for better academic performance. But, whether this happens or not, the students are certainly enjoying the bright new teaching environment.",
+      "translation": "出于所有这些原因，只有少数校长尝试过改造学校照明，这并不奇怪。在 Dragonskolan，校长斯特兰·安德松起初也理解这种顾虑。毕竟，有研究表明：尽管人们声称更亮的灯光带来了积极效果，却没有可测量的证据支持；不过同样地，也没有证据表明它造成了任何伤害。{{42}}于是，安德松决定放手安装，希望能提升学习成绩。但无论成绩是否提升，学生们确实都在享受这个明亮的新教学环境。",
+      "sort_order": 8
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-h"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-h",
+      "role": "heading",
+      "text": "Reviews of songs by teenage boy bands",
+      "translation": "少年男团歌曲乐评五则",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-Ah"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-Ah",
+      "role": "heading",
+      "text": "A · Fran, by The Warts",
+      "translation": "A ·《Fran》——The Warts 乐队",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-A"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-A",
+      "role": "paragraph",
+      "text": "A significant problem faced by boy bands is the narrow musical range expected of them. On the one hand, there's pop-rock; on the other, a dull version of rhythm and blues. Anything that differs from those styles sounds wildly creative, which may explain the phenomenal success of The Wart's hit song Fran in the music charts. The keyboard plays a central role on this track, giving it a sad feel. The lyrics are cleverly written, with each song-line starting with the last word of the previous line. This is more impressive than you might think just reading about it, because each band member takes a line in turn. It's a showcase for The Warts' excellent voices, and lead singer Mike Royce is outstanding.",
+      "translation": "男团面临的一大难题，是人们对他们音乐风格的刻板预期：一边是流行摇滚，另一边是乏味的节奏布鲁斯。任何跳出这两种风格的东西听起来都极具创意——这或许能解释 The Warts 的热门歌曲《Fran》在音乐排行榜上的惊人成功。键盘在这首歌中扮演核心角色，赋予它一种忧伤的气质。歌词写得十分巧妙：每一行都用上一行的末词开头。这比你在纸面上读起来要有感染力得多，因为每位成员轮流接唱。这首歌是 The Warts 出众唱功的展示台，主唱 Mike Royce 尤为出色。",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-Bh"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-Bh",
+      "role": "heading",
+      "text": "B · Hard Shell, by Loud",
+      "translation": "B ·《Hard Shell》——Loud 乐队",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-B"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-B",
+      "role": "paragraph",
+      "text": "Loud specialised in disco music until three years ago, when a new producer was brought in who gave them a completely different sound. This has resulted in a string of recent hits although their latest song, Hard Shell, is heavy with electronic synthesizers, string instruments and horns. Ned Laing leads on vocals, guitarist Grant Berry manages a creditable solo, and the band's rhythm section is faultless. But at just two-and-a-half minutes long, it's over before you know it. And sadly, the song lacks the memorable lyrics of their earlier successes. In the end, it seems to have proved too polished for their younger fans, and too lightweight for the older ones. It hasn't been a hit, though many in the industry feel it should have been.",
+      "translation": "Loud 乐队三年前专攻迪斯科；后来请来一位新制作人，给他们带来了完全不同的声音。此后他们接连推出热单，尽管最新的这首《Hard Shell》充满电子合成器、弦乐和铜管。Ned Laing 领衔主唱，吉他手 Grant Berry 献上了一段可圈可点的独奏，乐队的节奏组也无懈可击。但整首歌只有两分半钟，还没回过神就结束了。可惜的是，它缺少早期热门作品那种令人难忘的歌词。最终，这首歌对年轻歌迷来说似乎'太精致'，对年长歌迷来说又'太轻飘'。它没能成为热单，尽管业内许多人觉得它本应如此。",
+      "sort_order": 5
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-Ch"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-Ch",
+      "role": "heading",
+      "text": "C · What I Lost, by Dealt",
+      "translation": "C ·《What I Lost》——Dealt 乐队",
+      "sort_order": 6
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-C"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-C",
+      "role": "paragraph",
+      "text": "Though Dealt got together to compete with other popular boy bands, their first single, What I Lost, had few of the elements that defined boy band music at the time: none of the sophisticated disco beats that might have been expected. Instead, it's understated rhythm and blues with a trace of folk, and accented by that least cool of instruments, the accordion. It was a fantastic debut; four years later, it's still unique, as different from the usual boy-band style as accordions are from electronic synthesizers, though both were used on the song. And although the subject matter, romance, is familiar, there's a clever twist: What I Lost is set in a courtroom. It was a track that was hard to improve on, and they never did.",
+      "translation": "虽然 Dealt 乐队组建的初衷就是与其他人气男团竞争，但他们的首支单曲《What I Lost》几乎没有当时男团音乐的典型元素：预料之中那些复杂的迪斯科节拍一概没有。相反，这是一首低调内敛的节奏布鲁斯，带一丝民谣味，还用上了'最不酷'的乐器——手风琴——来点睛。这是一次惊艳的出道；四年过去了，它依然独一无二，与常规男团风格的距离，就像手风琴之于电子合成器——尽管这两种乐器在歌里都用到了。虽然题材是常见的爱情，却有巧妙的转折：《What I Lost》的故事发生在法庭上。这首歌好到难以超越——而他们后来确实也没能超越它。",
+      "sort_order": 7
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-Dh"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-Dh",
+      "role": "heading",
+      "text": "D · No Grace, by the Bowls",
+      "translation": "D ·《No Grace》——the Bowls 乐队",
+      "sort_order": 8
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-D"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-D",
+      "role": "paragraph",
+      "text": "Boy band The Bowls' hit song No Grace features Len Blane's gentle lead vocals and flowing harmonies from some of the other band members. Say what you like about Blane, but there's no doubt that he has a gift for writing poetic love songs and arranging them to music. No Grace, which he claims to have written in an afternoon, is one of his finest songs. It's become a classic guilty pleasure for many people who wouldn't normally admit to liking a soft-pop love song – but why feel guilty? There's something touching about the lyrics and they deal with themes that everyone will have experienced at some time in their lives.",
+      "translation": "男团 the Bowls 的热门歌曲《No Grace》以 Len Blane 温柔的领唱和部分成员流动的和声为特色。对 Blane 你想怎么说都行，但毫无疑问，他有写诗意情歌并为它们编曲的天赋。《No Grace》——他自称一个下午就写完——是他最好的作品之一。对许多平日不肯承认喜欢软绵绵流行情歌的人来说，它成了一种'经典的负罪快感'——可这有什么可愧疚的？歌词动人，而且写的主题是每个人生命中都曾经历过的。",
+      "sort_order": 9
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-Eh"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-Eh",
+      "role": "heading",
+      "text": "E · Floss, by Slog",
+      "translation": "E ·《Floss》——Slog 乐队",
+      "sort_order": 10
+    }
+  },
+  {
+    "table_name": "passage_paragraph",
+    "row_key": {
+      "section_code": "P7",
+      "source_key": "P7-E"
+    },
+    "data": {
+      "section_code": "P7",
+      "source_key": "P7-E",
+      "role": "paragraph",
+      "text": "Released while Slog were at their short-lived peak, their hit song Floss is a splendid example of attitude plus technology. It opens with a drum solo, which gives way to three minutes of keyboard craziness that sounds like something a far more experimental band might have come up with. The three Slog members play conventional guitars and drums, but it's virtually impossible to detect them over the unusual electronic sounds of the backing track. Then there's lead singer Mo Aramba's remarkable vocals – more those of a thirty-year-old, than of a boy of seventeen. Floss is a marvellous track, and an inspiration for boy bands everywhere.",
+      "translation": "《Floss》发行于 Slog 乐队短暂的巅峰期，是'态度+技术'的绝佳样本。歌曲以一段鼓独奏开场，随后让位于三分钟的键盘'狂想'，听上去像一支远为实验性的乐队才写得出来的东西。Slog 的三名成员弹的是常规吉他、打的是常规鼓，但在伴奏音轨那些奇特的电子音效之下，几乎完全听不出来。主唱 Mo Aramba 的嗓音同样惊人——更像一个三十岁的人，而不是十七岁的男孩。《Floss》是一首了不起的歌，对所有男团都是一种启发。",
+      "sort_order": 11
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P1",
+      "code": "question-1"
+    },
+    "data": {
+      "section_code": "P1",
+      "code": "question-1"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P1",
+      "code": "question-2"
+    },
+    "data": {
+      "section_code": "P1",
+      "code": "question-2"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P1",
+      "code": "question-3"
+    },
+    "data": {
+      "section_code": "P1",
+      "code": "question-3"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P1",
+      "code": "question-4"
+    },
+    "data": {
+      "section_code": "P1",
+      "code": "question-4"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P1",
+      "code": "question-5"
+    },
+    "data": {
+      "section_code": "P1",
+      "code": "question-5"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P1",
+      "code": "question-6"
+    },
+    "data": {
+      "section_code": "P1",
+      "code": "question-6"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P1",
+      "code": "question-7"
+    },
+    "data": {
+      "section_code": "P1",
+      "code": "question-7"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P1",
+      "code": "question-8"
+    },
+    "data": {
+      "section_code": "P1",
+      "code": "question-8"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P5",
+      "code": "question-31"
+    },
+    "data": {
+      "section_code": "P5",
+      "code": "question-31"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P5",
+      "code": "question-32"
+    },
+    "data": {
+      "section_code": "P5",
+      "code": "question-32"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P5",
+      "code": "question-33"
+    },
+    "data": {
+      "section_code": "P5",
+      "code": "question-33"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P5",
+      "code": "question-34"
+    },
+    "data": {
+      "section_code": "P5",
+      "code": "question-34"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P5",
+      "code": "question-35"
+    },
+    "data": {
+      "section_code": "P5",
+      "code": "question-35"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P5",
+      "code": "question-36"
+    },
+    "data": {
+      "section_code": "P5",
+      "code": "question-36"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P6",
+      "code": "shared"
+    },
+    "data": {
+      "section_code": "P6",
+      "code": "shared"
+    }
+  },
+  {
+    "table_name": "option_set",
+    "row_key": {
+      "section_code": "P7",
+      "code": "shared"
+    },
+    "data": {
+      "section_code": "P7",
+      "code": "shared"
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-1",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-1",
+      "label": "A",
+      "content": "hold",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-1",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-1",
+      "label": "B",
+      "content": "keep",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-1",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-1",
+      "label": "C",
+      "content": "stand",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-1",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-1",
+      "label": "D",
+      "content": "wait",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-2",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-2",
+      "label": "A",
+      "content": "investigating",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-2",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-2",
+      "label": "B",
+      "content": "conducting",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-2",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-2",
+      "label": "C",
+      "content": "researching",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-2",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-2",
+      "label": "D",
+      "content": "exploring",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-3",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-3",
+      "label": "A",
+      "content": "arrived",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-3",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-3",
+      "label": "B",
+      "content": "reached",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-3",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-3",
+      "label": "C",
+      "content": "drew",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-3",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-3",
+      "label": "D",
+      "content": "came",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-4",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-4",
+      "label": "A",
+      "content": "secret",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-4",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-4",
+      "label": "B",
+      "content": "clue",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-4",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-4",
+      "label": "C",
+      "content": "method",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-4",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-4",
+      "label": "D",
+      "content": "formula",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-5",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-5",
+      "label": "A",
+      "content": "again",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-5",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-5",
+      "label": "B",
+      "content": "still",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-5",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-5",
+      "label": "C",
+      "content": "clearly",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-5",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-5",
+      "label": "D",
+      "content": "simply",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-6",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-6",
+      "label": "A",
+      "content": "allowed",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-6",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-6",
+      "label": "B",
+      "content": "considered",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-6",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-6",
+      "label": "C",
+      "content": "provided",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-6",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-6",
+      "label": "D",
+      "content": "assumed",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-7",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-7",
+      "label": "A",
+      "content": "huge",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-7",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-7",
+      "label": "B",
+      "content": "broad",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-7",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-7",
+      "label": "C",
+      "content": "high",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-7",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-7",
+      "label": "D",
+      "content": "vast",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-8",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-8",
+      "label": "A",
+      "content": "modest",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-8",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-8",
+      "label": "B",
+      "content": "slight",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-8",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-8",
+      "label": "C",
+      "content": "soft",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P1",
+      "option_set_code": "question-8",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P1",
+      "option_set_code": "question-8",
+      "label": "D",
+      "content": "gentle",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-31",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-31",
+      "label": "A",
+      "content": "she thought it was the easiest way to achieve something great.",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-31",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-31",
+      "label": "B",
+      "content": "she found it impossible to imagine that delaying was an option.",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-31",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-31",
+      "label": "C",
+      "content": "she was determined to prove that age was no barrier to success.",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-31",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-31",
+      "label": "D",
+      "content": "she wanted to live up to her teacher's high expectations of her.",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-32",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-32",
+      "label": "A",
+      "content": "She should take more advice from others.",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-32",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-32",
+      "label": "B",
+      "content": "She is more modest than might be expected.",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-32",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-32",
+      "label": "C",
+      "content": "She is more confident in her abilities than she should be.",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-32",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-32",
+      "label": "D",
+      "content": "She should be allowed more independence.",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-33",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-33",
+      "label": "A",
+      "content": "They are people who lack confidence or self-awareness.",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-33",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-33",
+      "label": "B",
+      "content": "They are people with qualities that aren't believable.",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-33",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-33",
+      "label": "C",
+      "content": "They are created by writers with no interest in young people.",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-33",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-33",
+      "label": "D",
+      "content": "They are people that readers can identify with easily.",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-34",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-34",
+      "label": "A",
+      "content": "a criticism of how teenagers behave",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-34",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-34",
+      "label": "B",
+      "content": "the harsh reality of everyday life for teenagers",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-34",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-34",
+      "label": "C",
+      "content": "an alternative viewpoint for teenagers to consider",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-34",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-34",
+      "label": "D",
+      "content": "an assumption about the nature of teenagers",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-35",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-35",
+      "label": "A",
+      "content": "She was pleased that they dealt with topics she was interested in.",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-35",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-35",
+      "label": "B",
+      "content": "She was disappointed by the predictable nature of some stories.",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-35",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-35",
+      "label": "C",
+      "content": "She became aware of how challenging it would be to write in a similar way.",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-35",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-35",
+      "label": "D",
+      "content": "She became conscious of the way they had stimulated her imagination.",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-36",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-36",
+      "label": "A",
+      "content": "She is annoyed that people focus on how fortunate she has been.",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-36",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-36",
+      "label": "B",
+      "content": "She regrets that she may have to depend on others.",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-36",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-36",
+      "label": "C",
+      "content": "She accepts that her early success may not continue.",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P5",
+      "option_set_code": "question-36",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P5",
+      "option_set_code": "question-36",
+      "label": "D",
+      "content": "She doubts that people fully appreciate her talent.",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "A",
+      "content": "Without that stimulus, the body delays, by a few minutes every day, the signal that it's time to wake up.",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "B",
+      "content": "What's more, it seems that sitting in a brightly lit room could help people cope with this.",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "C",
+      "content": "In fact, there's a much more positive atmosphere there these days.",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "D",
+      "content": "Light was once a vital consideration in the planning of school buildings, with books written as far back as the late 19th century focusing on the importance of daylight in the classroom.",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "E"
+    },
+    "data": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "E",
+      "content": "Many in this part of the country freely admit how difficult it is to get ready for the day ahead, several hours before the sun comes up.",
+      "sort_order": 5
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "F"
+    },
+    "data": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "F",
+      "content": "However, despite the apparent simplicity of the theory, little research has been done on the effects of light in schools, so not all of them are keen to change their lighting systems.",
+      "sort_order": 6
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "G"
+    },
+    "data": {
+      "section_code": "P6",
+      "option_set_code": "shared",
+      "label": "G",
+      "content": "Therefore, it seemed on the face of it that there was nothing to lose.",
+      "sort_order": 7
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P7",
+      "option_set_code": "shared",
+      "label": "A"
+    },
+    "data": {
+      "section_code": "P7",
+      "option_set_code": "shared",
+      "label": "A",
+      "content": "Fran, by The Warts",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P7",
+      "option_set_code": "shared",
+      "label": "B"
+    },
+    "data": {
+      "section_code": "P7",
+      "option_set_code": "shared",
+      "label": "B",
+      "content": "Hard Shell, by Loud",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P7",
+      "option_set_code": "shared",
+      "label": "C"
+    },
+    "data": {
+      "section_code": "P7",
+      "option_set_code": "shared",
+      "label": "C",
+      "content": "What I Lost, by Dealt",
+      "sort_order": 3
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P7",
+      "option_set_code": "shared",
+      "label": "D"
+    },
+    "data": {
+      "section_code": "P7",
+      "option_set_code": "shared",
+      "label": "D",
+      "content": "No Grace, by the Bowls",
+      "sort_order": 4
+    }
+  },
+  {
+    "table_name": "question_option",
+    "row_key": {
+      "section_code": "P7",
+      "option_set_code": "shared",
+      "label": "E"
+    },
+    "data": {
+      "section_code": "P7",
+      "option_set_code": "shared",
+      "label": "E",
+      "content": "Floss, by Slog",
+      "sort_order": 5
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 1
+    },
+    "data": {
+      "section_code": "P1",
+      "stem": "They've created a chocolate teapot that can be filled with boiling water and left to {{1}} for two minutes, after which the tea is ready to be served.",
+      "analysis": "left to stand for two minutes＝'静置两分钟'，与 after which the tea is ready 呼应：放置的目的是让茶泡好。",
+      "type_note": "空格处于 be left to ______ 结构中，四个选项都是动词，需按主语逻辑与搭配确定词义。",
+      "strategy": "Part 1动词题先看主语和搭配逻辑，再核对词义；遇'熟词'要主动想它的生僻义。",
+      "pitfall": "只记得 stand 的'站立'义而把它排除。leave sth to stand（让……静置）是泡茶、烹饪场景的常见表达。",
+      "solve_steps": [
+        "看空格前后的结构：be filled with boiling water and left to ______ for two minutes，主语是巧克力茶壶。",
+        "壶里倒了开水后要'放置'两分钟，茶才能泡好；stand 在此处是熟词生义：'静置；搁着不动'（leave the tea to stand）。",
+        "hold（握住/容纳）、keep（保持）、wait（等待）都无法表达'静置'，且 wait 的主语应是人，据此排除，选 C。"
+      ],
+      "distractors": {
+        "A": "hold 意为'握住；容纳'，与'放置两分钟'的语境无关。",
+        "B": "keep 意为'保持'，leave to keep 不构成合理搭配。",
+        "D": "wait 意为'等待'，但主语是茶壶而非人，物不能'等待'。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 1,
+      "sort_order": 1,
+      "option_set_code": "question-1",
+      "question_type_label": "Part 1 · 动词词义辨析（熟词生义）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 2
+    },
+    "data": {
+      "section_code": "P1",
+      "stem": "After {{2}} a range of experiments, the scientists {{3}} to the conclusion that the {{4}} to making a teapot that wouldn't melt was to use dark chocolate with 65% chocolate solids and build up a series of layers to strengthen it.",
+      "analysis": "conduct experiments 是科研语境高频搭配；After conducting... 在句中作时间状语，说明'做实验'发生在'得出结论'之前。",
+      "type_note": "空格后是宾语 a range of experiments，考查与 experiments 搭配的动词。",
+      "strategy": "动宾搭配是Part 1第一优先线索：先看空格后接什么宾语，再选习惯搭配的动词。",
+      "pitfall": "investigating 和 researching 语义与'实验'接近而误选。判断依据是搭配习惯：experiments 的常规动词是 conduct，不是 investigate。",
+      "solve_steps": [
+        "锁定动宾结构：______ a range of experiments（一系列实验）。",
+        "'做实验'的固定动词是 conduct（＝do / carry out）：conduct experiments。",
+        "investigate / research 直接接宾语时意为'调查研究某课题'，explore 意为'探究；勘探'，都不与 experiments 构成'做实验'搭配，故选 B。"
+      ],
+      "distractors": {
+        "A": "investigating 调查，宾语通常是事件、事故、问题。",
+        "C": "researching 研究，宾语通常是课题、领域（research a topic）。",
+        "D": "exploring 探究；勘探，宾语通常是可能性、地区、想法。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 2,
+      "sort_order": 2,
+      "option_set_code": "question-2",
+      "question_type_label": "Part 1 · 动宾搭配"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 3
+    },
+    "data": {
+      "section_code": "P1",
+      "stem": "After {{2}} a range of experiments, the scientists {{3}} to the conclusion that the {{4}} to making a teapot that wouldn't melt was to use dark chocolate with 65% chocolate solids and build up a series of layers to strengthen it.",
+      "analysis": "come to the conclusion that...＝'得出……的结论'，that 引导同位语从句，说明结论的内容。",
+      "type_note": "空格后是 to the conclusion，介词 to 是本题决定性线索。",
+      "strategy": "见 conclusion 先回忆四组搭配，再核对空格后的介词；介词常常是唯一判据。",
+      "pitfall": "reached 和 drew 与 conclusion 搭配成立，但它们的结构是 reach/draw the conclusion，不带 to；被'词义对、结构错'迷惑是本题典型错误。",
+      "solve_steps": [
+        "锁定结构：______ to the conclusion that...，空格后已经有介词 to。",
+        "'得出结论'四种常见搭配：come to the conclusion / reach the conclusion / draw the conclusion / arrive at the conclusion。",
+        "能接 to 的只有 come to（arrive 须接 at；reach 和 draw 是直接接宾语），故选 D。"
+      ],
+      "distractors": {
+        "A": "arrived 须接 at the conclusion，介词不符。",
+        "B": "reached 直接接 the conclusion，不能带 to。",
+        "C": "drew 直接接 the conclusion（draw a conclusion），不能带 to。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 3,
+      "sort_order": 3,
+      "option_set_code": "question-3",
+      "question_type_label": "Part 1 · 固定搭配（动词+介词+名词）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 4
+    },
+    "data": {
+      "section_code": "P1",
+      "stem": "After {{2}} a range of experiments, the scientists {{3}} to the conclusion that the {{4}} to making a teapot that wouldn't melt was to use dark chocolate with 65% chocolate solids and build up a series of layers to strengthen it.",
+      "analysis": "the secret to making... was to use...：主语是'秘诀'，表语是不定式 to use...，说明秘诀的具体内容。",
+      "type_note": "空格前是定冠词 the，空格后是 to making...（动名词），考查'名词 to doing'的搭配与语义。",
+      "strategy": "名词题看两个方向：介词搭配（to doing）＋语义（诀窍还是配方）。",
+      "pitfall": "formula 有'配方'义，看似与巧克力相关，但 formula 的搭配是 formula for sth；the secret to 才是'……的秘诀'。",
+      "solve_steps": [
+        "锁定结构：the ______ to making a teapot that wouldn't melt（做出不融化茶壶的______）。",
+        "the secret to (doing) sth 是固定搭配，意为'做某事的秘诀'，与后文'用65%可可固形物的黑巧克力'这一'诀窍'语义吻合。",
+        "clue（线索）、method（方法）、formula（配方）均不以 to doing 为常规搭配，且 method/formula 语义上也偏'程序、配方'，与文中的'诀窍'不同，选 A。"
+      ],
+      "distractors": {
+        "B": "clue 意为'线索'，指解题、破案的提示，与'成功的做法'语义不符。",
+        "C": "method 常与 of/for doing 搭配，不接 to doing。",
+        "D": "formula 常与 for 搭配（formula for...），不接 to doing。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 4,
+      "sort_order": 4,
+      "option_set_code": "question-4",
+      "question_type_label": "Part 1 · 名词词义与介词搭配"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 5
+    },
+    "data": {
+      "section_code": "P1",
+      "stem": "At first the scientists wondered whether they might {{5}} end up with chocolate tea.",
+      "analysis": "simply 在此弱化结果：付出了整套实验，怕的只是得到'一杯巧克力茶'这种最简单、最令人失望的结果。",
+      "type_note": "空格位于情态动词 might 与动词短语 end up with 之间，考查副词对句子的逻辑修饰。",
+      "strategy": "副词题把候选词代入后读语气：不确定的担忧里放不进'显然'，也放不进'再次'。",
+      "pitfall": "still 看似通顺，但'仍然最终得到'逻辑别扭；simply 强调'不过是'，才是担心白忙一场的语气。",
+      "solve_steps": [
+        "理解语境：科学家担心 experiment 白做，might ______ end up with chocolate tea（到头来______只得到巧克力茶）。",
+        "simply 意为'只不过；仅仅'（＝only / just），might simply end up with... 表达'到头来只不过得到一杯巧克力茶'，与 wondered whether 的担忧语气吻合。",
+        "again（再次）、still（仍然）缺少相应的语境，clearly（显然）与 wondered whether 的不确定语气冲突，选 D。"
+      ],
+      "distractors": {
+        "A": "again 意为'再次'，文中没有'之前已得到过巧克力茶'的语境。",
+        "B": "still 意为'仍然'，强调状态延续，与'担忧的结果'逻辑不搭。",
+        "C": "clearly 意为'显然'，与 wondered whether（不确定）的语气直接冲突。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 5,
+      "sort_order": 5,
+      "option_set_code": "question-5",
+      "question_type_label": "Part 1 · 副词逻辑辨析"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 6
+    },
+    "data": {
+      "section_code": "P1",
+      "stem": "They discovered some of the chocolate on the inside of the pot would melt, but {{6}} that the water was poured in carefully, the {{7}} majority of it wouldn't be affected.",
+      "analysis": "but provided that... wouldn't be affected：前半句承认'有些巧克力会融化'，后半句给出不受影响的前提条件，转折＋条件。",
+      "type_note": "空格后直接跟 that 从句，且该从句与主句之间是条件关系，考查 provided (that) 作连词的用法。",
+      "strategy": "空格后直接接 that 从句、而主句又不缺谓语时，优先考虑连接词（连词/介词短语），而不是实义动词。",
+      "pitfall": "provided 最常见的意思是'提供'（provide 的过去式/过去分词），考生容易在词义层面把它排除。此处是高考Part 1高频熟词生义：连词'只要'。",
+      "solve_steps": [
+        "分析结构：but ______ that the water was poured in carefully, the vast majority of it wouldn't be affected。空格后的 that 从句说明条件：'只要水是小心倒入的'。",
+        "provided (that)＝on the condition that，引导条件状语从句，意为'只要；如果'，语义和结构都成立。",
+        "allowed / considered / assumed 都是实义动词过去式，只能作谓语，不能引导从句，且主句前也没有它们的主语，排除，选 C。"
+      ],
+      "distractors": {
+        "A": "allowed 意为'被允许'，无法引导条件从句。",
+        "B": "considered 意为'认为'，无法引导条件从句。",
+        "D": "assumed 意为'假定'，无法引导条件从句。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 6,
+      "sort_order": 6,
+      "option_set_code": "question-6",
+      "question_type_label": "Part 1 · 熟词生义（连词）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 7
+    },
+    "data": {
+      "section_code": "P1",
+      "stem": "They discovered some of the chocolate on the inside of the pot would melt, but {{6}} that the water was poured in carefully, the {{7}} majority of it wouldn't be affected.",
+      "analysis": "the vast majority of it＝'其中绝大部分'，与前面 some of the chocolate... would melt 形成对比：一小部分融化，绝大部分完好。",
+      "type_note": "空格修饰 majority，四个形容词词义各不相同，考查 the vast majority 这一高频固定短语。",
+      "strategy": "记住高频搭配：the vast majority of...；Part 1选择时'固定搭配＞语义相近'。",
+      "pitfall": "huge 语义上说得通，容易误选。Part 1中'语义都通'时优先选固定搭配。",
+      "solve_steps": [
+        "锁定名词：the ______ majority of it（它的______大部分）。",
+        "the vast majority（绝大多数）是英语中的固定高频搭配，vast 在此指'程度上的绝大多数'，不只是'面积大'。",
+        "huge 虽然词义接近，但不与 majority 构成习惯搭配；broad（宽阔的）、high（高的）语义不合，选 D。"
+      ],
+      "distractors": {
+        "A": "huge 形容体积、规模大，不与 majority 构成固定搭配。",
+        "B": "broad 意为'宽阔的'（shoulders, streets），语义不合。",
+        "C": "high 意为'高的'，与 majority 搭配不当。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 7,
+      "sort_order": 7,
+      "option_set_code": "question-7",
+      "question_type_label": "Part 1 · 固定搭配（形容词+名词）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 8
+    },
+    "data": {
+      "section_code": "P1",
+      "stem": "When they tried the tea, the team agreed it was lovely with a {{8}} taste of chocolate.",
+      "analysis": "a slight taste of chocolate 说明巧克力的味道轻淡，'可爱地带着一点巧克力味'，与 lovely 的好评呼应。",
+      "type_note": "空格修饰 taste（味道），考查形容词与'味道'搭配时的语境义。",
+      "strategy": "形容词题先确定被修饰名词，再逐一验证'形容词+名词'是否为英语中真实存在的搭配。",
+      "pitfall": "soft taste、gentle taste 是中式思维陷阱：中文说'口感柔和'，但英语形容味道淡用 slight（或 mild），soft 不与 taste 连用。",
+      "solve_steps": [
+        "锁定被修饰词：a ______ taste of chocolate（______的巧克力味）。",
+        "slight 意为'轻微的；淡淡的'，a slight taste＝'淡淡的巧克力味'，与'茶好喝'的评价一致：巧克力味不抢戏，恰到好处。",
+        "modest（不多的；谦虚的）多修饰数量或人；soft（柔和的）修饰声音、光线、质地；gentle（温和的）修饰性格、动作，都不与 taste 搭配，选 B。"
+      ],
+      "distractors": {
+        "A": "modest 修饰数量（a modest income）或形容人谦虚，不修饰味道。",
+        "C": "soft 修饰声音、质地，不与 taste 搭配。",
+        "D": "gentle 修饰性格、动作、风，不与 taste 搭配。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 8,
+      "sort_order": 8,
+      "option_set_code": "question-8",
+      "question_type_label": "Part 1 · 形容词与名词搭配"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 9
+    },
+    "data": {
+      "section_code": "P2",
+      "stem": "{{9}} so, you'll know that once you figure {{10}} how to do it and get good at it, you won't lose your skills, even when you haven't practised for a long time.",
+      "analysis": "If so 是 if it is so 的省略，用来承接前一句问句并给出肯定假设；下文 you'll know 是主句结果。",
+      "type_note": "空格位于句首并直接接 so，构成固定表达'______ so'，需联系上一句的一般疑问句判断逻辑。",
+      "strategy": "句首空＋so/then 等副词时，先回看上一句的句子类型（问句？祈使句？陈述句？），再选连接词。",
+      "pitfall": "只盯本句、不回看上文的问句，会找不到'so'指代的内容。Part 2必须句句联系上下文。",
+      "solve_steps": [
+        "看上文：Have you ever tried a new sport or learnt to play a musical instrument? 是一个 yes/no 问句。",
+        "本句以'______ so'开头承接问句：如果答案是 yes——即'如果是这样的话'——固定表达为 If so。",
+        "验证：If so, you'll know...＝'如果是这样，你就会知道……'，逻辑通顺；其他词（When/Though so 等）不构成这一惯用省略句。填 If。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "If so 承接问句",
+        "rule": "If so＝'如果是这样'，是 if it is so 的省略，用来承接上一句的一般疑问句。",
+        "explanation": "上文问'你试过新运动/乐器吗？'，本句 If so 假设答案是 yes，再引出结果 you'll know...",
+        "example": "'Have you got a pen?' 'If so, could I borrow it?'"
+      },
+      "logic_links": [],
+      "question_no": 9,
+      "sort_order": 1,
+      "option_set_code": null,
+      "question_type_label": "Part 2 · 连词（省略句）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 10
+    },
+    "data": {
+      "section_code": "P2",
+      "stem": "{{9}} so, you'll know that once you figure {{10}} how to do it and get good at it, you won't lose your skills, even when you haven't practised for a long time.",
+      "analysis": "figure out 是高频短语动词，宾语常为 how/what/why 从句；本题考的就是这个固定组合。",
+      "type_note": "空格在动词 figure 与宾语从句 how to do it 之间，考查 figure ______ (how to do) 的固定搭配。",
+      "strategy": "动词空后接 how/what to do 时，优先想短语动词：figure out / work out / find out。",
+      "pitfall": "figure 与 out 之间可隔宾语（figure it out），但宾语是 how to do it 从句时 out 紧跟 figure；不要填其他介词。",
+      "solve_steps": [
+        "看结构：figure ______ how to do it，空格后是'疑问词+不定式'作宾语。",
+        "'弄明白；想清楚'的短语动词是 figure out；out 补足'由不懂到懂'的结果义。",
+        "验证句意：一旦你弄明白怎么做并练熟，就不会丢技能，通顺。填 out。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "figure out 短语动词",
+        "rule": "figure out＝弄明白；out 补足'由不懂到懂'的结果义，宾语常为 how/what/why 从句。",
+        "explanation": "本句 figure out how to do it＝弄清楚怎么做；代词作宾语时放中间（figure it out）。",
+        "example": "I can't figure out how to open this file."
+      },
+      "logic_links": [],
+      "question_no": 10,
+      "sort_order": 2,
+      "option_set_code": null,
+      "question_type_label": "Part 2 · 短语动词"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 11
+    },
+    "data": {
+      "section_code": "P2",
+      "stem": "{{11}} surprised the researchers is that getting things wrong not only trains the brain to perform better at a specific task, but also helps it to learn faster.",
+      "analysis": "What surprised the researchers is that...：主语从句＋系动词＋表语从句，是英语'强调惊讶内容'的经典句型。",
+      "type_note": "空格引导的从句'______ surprised the researchers'整体作主语，后接 is that... 表语从句，考查主语从句引导词。",
+      "strategy": "看到'______ + 动词 + is that...'结构，先数从句里缺不缺主语或宾语：缺则 what，不缺则 that。",
+      "pitfall": "习惯 What's more / That is 的固定印象，没分析从句内缺不缺成分。判断口诀：缺成分用 what，不缺成分用 that。",
+      "solve_steps": [
+        "划分结构：'______ surprised the researchers' + is + that 从句。前面是主语从句，缺引导词。",
+        "从句内 surprised 前缺主语——引导词必须兼任从句主语，只有 what 具备这个功能（What surprised the researchers＝'让研究者惊讶的事情'）。",
+        "that 引导名词性从句时不作句子成分，此处从句缺主语，不能用；It 放入后 It surprised... is that 结构混乱。填 What。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "What 引导主语从句",
+        "rule": "名词性从句缺主语或宾语时用 what；that 引导名词性从句时不作任何成分。",
+        "explanation": "'______ surprised the researchers'缺主语 → What；谓语 is 后接 that 表语从句。",
+        "example": "What matters most is effort, not talent."
+      },
+      "logic_links": [],
+      "question_no": 11,
+      "sort_order": 3,
+      "option_set_code": null,
+      "question_type_label": "Part 2 · 主语从句引导词"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 12
+    },
+    "data": {
+      "section_code": "P2",
+      "stem": "This is true even when mistakes are {{12}} while learning a completely new task.",
+      "analysis": "even when mistakes are made while learning...：即使在学习全新任务的过程中犯错，结论依然成立——强调错误的普遍性。",
+      "type_note": "主语 mistakes 与空格动词是被动关系（错误'被犯'），考查 make mistakes 的被动式。",
+      "strategy": "被动语态题先还原主动搭配：______ mistakes → make mistakes → are made。",
+      "pitfall": "想到了 mistakes 却想不起 make mistakes 的搭配，或填 done（do mistakes 不成立）。'犯错'只能是 make mistakes。",
+      "solve_steps": [
+        "识别主谓关系：mistakes（错误）与'犯错'动词之间是被动：错误是被'犯'出来的。",
+        "固定搭配 make mistakes（犯错），被动式为 mistakes are made。",
+        "时态呼应从句一般现在时 even when... are ______，填 made。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "make mistakes 的被动式",
+        "rule": "'犯错'是 make mistakes，被动为 mistakes are made。",
+        "explanation": "本题 even when mistakes are ______：错误是'被犯'的，还原主动搭配即得 made。",
+        "example": "Mistakes are made when we rush."
+      },
+      "logic_links": [],
+      "question_no": 12,
+      "sort_order": 4,
+      "option_set_code": null,
+      "question_type_label": "Part 2 · 被动语态固定搭配"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 13
+    },
+    "data": {
+      "section_code": "P2",
+      "stem": "The researchers believe that the brain keeps a record {{13}} errors and draws on them whenever a new skill {{14}} being learnt.",
+      "analysis": "keeps a record of errors and draws on them：先记录（of），后调用（draw on），前后呼应。",
+      "type_note": "空格连接 a record 与 errors，考查 keep a record ______ (错误记录) 的介词搭配。",
+      "strategy": "抽象名词（record / copy / example / photo）后的'的'，基本都填 of。",
+      "pitfall": "record 常与 on（record on file）混淆；'……的记录'只用 a record of。",
+      "solve_steps": [
+        "锁定名词短语：keeps a record ______ errors（______错误做记录）。",
+        "固定搭配 keep a record of sth＝'记录；把……记录下来'。",
+        "验证：大脑把错误'记录下来'，之后调用（draws on them），them 指 errors，逻辑闭合。填 of。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "a record of 固定搭配",
+        "rule": "'……的记录'用 a record of sth；类似的还有 a copy of / an example of。",
+        "explanation": "keeps a record ______ errors → of，后文 draws on them 的 them 复指 errors。",
+        "example": "Keep a record of your daily spending."
+      },
+      "logic_links": [],
+      "question_no": 13,
+      "sort_order": 5,
+      "option_set_code": null,
+      "question_type_label": "Part 2 · 介词固定搭配"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 14
+    },
+    "data": {
+      "section_code": "P2",
+      "stem": "The researchers believe that the brain keeps a record {{13}} errors and draws on them whenever a new skill {{14}} being learnt.",
+      "analysis": "whenever a new skill is being learnt＝'每当一项新技能正被学习时'，强调学习进行的过程中大脑调用错误记录。",
+      "type_note": "空格后是 being learnt（现在分词被动形式），需要补出 be 动词构成进行时被动语态。",
+      "strategy": "空格后若出现 being done，八成考'进行时被动'：主语定 be（is/are），时态看从句。",
+      "pitfall": "看到 being learnt 只想到被动，漏掉'进行'含义而填 gets/has；be being done（正在进行时被动）是固定结构。",
+      "solve_steps": [
+        "识别结构：a new skill ______ being learnt——being learnt 是'正在被学会'的分词形式，前面缺 be 动词。",
+        "主语 a new skill 是单数，whenever 从句用一般现在时。",
+        "单数＋现在时＋被动进行 → is being learnt。填 is。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "现在进行时的被动语态",
+        "rule": "is/are being done 表示'正在被……'。",
+        "explanation": "a new skill ______ being learnt：单数主语＋一般现在时 → is being learnt（每当技能正被学习时）。",
+        "example": "The bridge is being repaired right now."
+      },
+      "logic_links": [],
+      "question_no": 14,
+      "sort_order": 6,
+      "option_set_code": null,
+      "question_type_label": "Part 2 · 现在进行时被动语态"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 15
+    },
+    "data": {
+      "section_code": "P2",
+      "stem": "This ensures that mistakes aren't repeated, and probably explains why people {{15}} master one sport or instrument can pick {{16}} others with relative ease.",
+      "analysis": "people who master one sport or instrument can pick up others：定语从句限定'什么样的人'，主句谓语是 can pick up。",
+      "type_note": "people ______ master one sport or instrument can pick up others 中，people 后的从句缺主语，考查限制性定语从句关系代词。",
+      "strategy": "名词后出现第二个谓语时，先找定语从句边界；指人缺主语用 who/that，缺宾语用 whom/who/that。",
+      "pitfall": "误把 master 当作主句谓语、把 can pick up 当成从句，导致填 whom 或 whose；关键是找到主句真正的谓语 can pick up。",
+      "solve_steps": [
+        "判断从句性质：people 后的'master one sport or instrument'是从句（主语 people 之后再出现谓语 can pick up，说明中间嵌入了一个从句）。",
+        "从句内 master 前缺主语，先行词 people 指人 → 关系代词 who 或 that（在限制性定语从句中均可作主语指人）。",
+        "验证：'精通一项运动或乐器的人'→ people who/that master one sport。填 who/that。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "指人定语从句 who/that",
+        "rule": "先行词为人、从句缺主语时用 who 或 that。",
+        "explanation": "people ______ master one sport：定语从句缺主语，主句谓语是 can pick up。",
+        "example": "Students who practise daily improve fastest."
+      },
+      "logic_links": [],
+      "question_no": 15,
+      "sort_order": 7,
+      "option_set_code": null,
+      "question_type_label": "Part 2 · 定语从句引导词"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 16
+    },
+    "data": {
+      "section_code": "P2",
+      "stem": "This ensures that mistakes aren't repeated, and probably explains why people {{15}} master one sport or instrument can pick {{16}} others with relative ease.",
+      "analysis": "can pick up others with relative ease：呼应段首'学会新技能更快'的主题——大脑能举一反三。",
+      "type_note": "空格在 pick 与宾语 others 之间，考查 pick ______ (学会) 的短语动词搭配。",
+      "strategy": "pick 后接宾语再接 with ease 之类的'轻松'状语，优先想 pick up（学会）。",
+      "pitfall": "pick up 的'学会'义是熟词生义高频点，别只想'捡起'。",
+      "solve_steps": [
+        "语境：精通一项运动/乐器的人能轻松地'______学会'其他的。",
+        "pick up 意为'（不经意地、较快地）学会；上手'，正合'with relative ease（相对轻松）'。",
+        "pick out（挑出）、pick on（捉弄）语义不合。填 up。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "pick up 表'学会'",
+        "rule": "pick up＝（较快地、自然而然地）学会；口语高频熟词生义。",
+        "explanation": "can pick ______ others with relative ease → up：'轻松学会其他的'。",
+        "example": "She picked up French while living in Paris."
+      },
+      "logic_links": [],
+      "question_no": 16,
+      "sort_order": 8,
+      "option_set_code": null,
+      "question_type_label": "Part 2 · 短语动词"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 17
+    },
+    "data": {
+      "section_code": "P3",
+      "stem": "It looks very {{17}} when you see it on TV, and apparently it's been increasing in {{18}} over the past few years.\nIMPRESS",
+      "analysis": "It looks very impressive：电视上皮划艇显得很了不起，为下文'越来越流行'作铺垫。",
+      "type_note": "空格前是系动词 looks 与程度副词 very，需填形容词作表语；括号词 IMPRESS 为动词。",
+      "strategy": "词形转换第一步永远是定位词性；动词变形容词先想 -ing/-ed 双向形容词，再看主语是人还是物。",
+      "pitfall": "填 impressed。-ing 性质的 impressive 修饰事物本身的特质，-ed 的 impressed 修饰人的感受。",
+      "solve_steps": [
+        "判断词性：looks very ______——系动词 look 后接形容词作表语，very 进一步确认需要形容词。",
+        "impress（使印象深刻）的形容词有两个方向：impressive（令人赞叹的，主动影响别人）与 impressed（被打动的，指人的感受）。",
+        "主语 it（皮划艇）是'令人赞叹'的一方，不是'被打动'的人 → impressive。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "-ing/-ed 形容词辨析",
+        "rule": "impressive（令人赞叹的）修饰事物；impressed（被打动的）修饰人。",
+        "explanation": "主语 it（皮划艇）是给人印象的一方 → impressive。",
+        "example": "The view from the top is really impressive."
+      },
+      "logic_links": [],
+      "question_no": 17,
+      "sort_order": 1,
+      "option_set_code": null,
+      "question_type_label": "Part 3 · 动词转形容词"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 18
+    },
+    "data": {
+      "section_code": "P3",
+      "stem": "It looks very {{17}} when you see it on TV, and apparently it's been increasing in {{18}} over the past few years.\nPOPULAR",
+      "analysis": "it's been increasing in popularity over the past few years：现在完成进行时＋in popularity，说明'这几年来持续走红'。",
+      "type_note": "空格在介词 in 之后作宾语，需把形容词 POPULAR 转为名词。",
+      "strategy": "介词（in/of/with）后的空格默认填名词；-ar 结尾的形容词变名词常加 -ity（popular→popularity, similar→similarity）。",
+      "pitfall": "误填 popularly（副词）或 popular（形容词）。介词后的空基本要名词，先定词性再变词形。",
+      "solve_steps": [
+        "判断词性：increasing in ______——介词 in 后面必须接名词（或名词短语）。",
+        "popular（受欢迎的）的名词是 popularity（流行度；受欢迎程度）。",
+        "搭配验证：increase in popularity＝'受欢迎程度上升'，是固定表达。填 popularity。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "-ity 名词后缀",
+        "rule": "popular→popularity，similar→similarity；形容词转名词的常见路径。",
+        "explanation": "介词 in 后须接名词：increase in popularity（受欢迎度上升）。",
+        "example": "Cycling has grown in popularity."
+      },
+      "logic_links": [],
+      "question_no": 18,
+      "sort_order": 2,
+      "option_set_code": null,
+      "question_type_label": "Part 3 · 形容词转名词"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 19
+    },
+    "data": {
+      "section_code": "P3",
+      "stem": "It was a {{19}} to discover I wasn't the only beginner – everyone else was also very {{20}} like me.\nRELIEVE",
+      "analysis": "It was a relief to discover...：发现'大家都不是老手'让作者如释重负，破折号后补充说明原因。",
+      "type_note": "空格前是不定冠词 a，需填单数可数名词；括号词 RELIEVE 为动词。",
+      "strategy": "a/an 后的空填名词；-ieve/-ief 这对拼写（believe/belief, relieve/relief）值得专门记忆。",
+      "pitfall": "拼成 releif / reliefly。ie/ei 规则：动词 relieve、名词 relief、形容词来的时候 belief/believe 同理。",
+      "solve_steps": [
+        "判断词性：It was a ______ to discover...——a 后接单数名词，不定式 to discover 说明是'一件让人……的事'。",
+        "relieve（缓解；使宽慰）的名词是 relief（宽慰；松一口气），a relief 是惯用表达'真是让人松了口气'。",
+        "拼写注意：relieve 变 relief 时 ie→ei 互换。填 relief。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "relieve→relief 拼写",
+        "rule": "动词 -ieve，名词 -ief：believe/belief, relieve/relief。",
+        "explanation": "a ______ to discover → 名词 relief；It's a relief to do 是惯用句式。",
+        "example": "It was a relief to pass the exam."
+      },
+      "logic_links": [],
+      "question_no": 19,
+      "sort_order": 3,
+      "option_set_code": null,
+      "question_type_label": "Part 3 · 动词转名词（易错拼写）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 20
+    },
+    "data": {
+      "section_code": "P3",
+      "stem": "It was a {{19}} to discover I wasn't the only beginner – everyone else was also very {{20}} like me.\nEXPERIENCE",
+      "analysis": "everyone else was also very inexperienced like me：破折号前后互为因果——因为大家都没经验，所以作者松了口气。",
+      "type_note": "空格在 very 之后作表语，需填形容词；语义要求'没有经验'，要加否定前缀。",
+      "strategy": "词形转换不仅要变词性，还要按上下文决定正负意义：前文 beginner 提示这里要'否定'。",
+      "pitfall": "只填 experienced 而忽略语义方向；或误用 unexperienced（不存在的词）。experience 的否定形容词前缀是 in-。",
+      "solve_steps": [
+        "判断词性：was also very ______——very 后接形容词作表语。",
+        "语义判断：和'我也只是初学者'对应，其他人'同样没有经验'——不能直接用 experienced（有经验的），需加否定前缀。",
+        "构词：in + experienced → inexperienced（缺乏经验的）。填 inexperienced。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "in- 否定前缀",
+        "rule": "experience→experienced→inexperienced（缺乏经验的）。",
+        "explanation": "由上文 beginner 可知语义方向为'没经验'，须加否定前缀 in-。",
+        "example": "He's inexperienced in dealing with children."
+      },
+      "logic_links": [],
+      "question_no": 20,
+      "sort_order": 4,
+      "option_set_code": null,
+      "question_type_label": "Part 3 · 名词转形容词（加否定前缀）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 21
+    },
+    "data": {
+      "section_code": "P3",
+      "stem": "At first we were all pretty {{21}}, and some of us even fell in the water, but we learnt quickly and our confidence began to grow.\nHOPE",
+      "analysis": "we were all pretty hopeless → but we learnt quickly：先抑后扬，与后文信心增长形成对照。",
+      "type_note": "空格在 pretty（很）之后作表语，需形容词；语境是'很差劲'，用否定后缀 -less。",
+      "strategy": "-less 与 -ful 是一对方向开关：hopeless 差劲 / hopeful 有希望；由上下文的转折词决定。",
+      "pitfall": "误填 hopeful（充满希望的）——方向正好相反；hopeless 在口语里是自嘲'太菜了'，不是'没有希望的事'。",
+      "solve_steps": [
+        "判断词性：were all pretty ______——pretty 此处是副词'相当'，后接形容词。",
+        "语义判断：'有人掉进水里'、后文 but we learnt quickly 反衬起初很差 → hopeless（差劲的；无可救药的）。",
+        "构词：hope + -less → hopeless（口语中常指'很不擅长'）。填 hopeless。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "-less 否定后缀",
+        "rule": "hope→hopeless；口语里 be hopeless at sth＝很不擅长。",
+        "explanation": "'有人落水'与'but we learnt quickly'的反差提示起初很差 → hopeless。",
+        "example": "I'm hopeless at singing."
+      },
+      "logic_links": [],
+      "question_no": 21,
+      "sort_order": 5,
+      "option_set_code": null,
+      "question_type_label": "Part 3 · 名词转形容词（否定后缀）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 22
+    },
+    "data": {
+      "section_code": "P3",
+      "stem": "The {{22}} were so beautiful and relaxing that I was really reluctant to get out of the kayak when the lesson finished!\nSURROUND",
+      "analysis": "The surroundings were so beautiful and relaxing that...：so...that 结果状语从句，说明景色美到让人不想上岸。",
+      "type_note": "空格是主语，谓语 were 为复数，需填复数名词；括号词 SURROUND 为动词。",
+      "strategy": "看到 The ______ were，先把空当复数名词处理；surroundings / belongings / findings 都是恒复数名词。",
+      "pitfall": "填单数 surrounding（此时是形容词'周围的'）或 surround；'环境、周围事物'这个名词只有复数形式。",
+      "solve_steps": [
+        "判断词性：The ______ were so beautiful——空格是主语，后接复数谓语 were，需填复数名词。",
+        "构词：surround（围绕）→ surroundings（周围的环境；景物），恒用复数。",
+        "验证：'周围的景色如此美丽'→ The surroundings were so beautiful。填 surroundings。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "surroundings 恒复数",
+        "rule": "surroundings（周围环境）只有复数形式，谓语用 were。",
+        "explanation": "The ______ were so beautiful：复数谓语锁定复数名词 surroundings。",
+        "example": "The school is in pleasant surroundings."
+      },
+      "logic_links": [],
+      "question_no": 22,
+      "sort_order": 6,
+      "option_set_code": null,
+      "question_type_label": "Part 3 · 动词转名词（复数形式）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 23
+    },
+    "data": {
+      "section_code": "P3",
+      "stem": "It was a truly {{23}} day.\nMEMORY",
+      "analysis": "It was a truly memorable day：本段小结句，解释下文立即报名的冲动。",
+      "type_note": "空格在 a truly ______ day 中修饰名词 day，需填形容词。",
+      "strategy": "修饰'日子、经历、场合'的形容词常考 -able 类：memorable / enjoyable / unforgettable。",
+      "pitfall": "拼成 memoriable / memoryful；memory→memorable 的构词不规则，需专门记。",
+      "solve_steps": [
+        "判断词性：a truly ______ day——副词 truly 修饰空格，空格修饰名词 day，填形容词。",
+        "构词：memory（记忆）→ memorable（值得纪念的；难忘的），注意不是 memoriable。",
+        "语义验证：那天难忘，所以'毫不犹豫报名一周课程'，逻辑连贯。填 memorable。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "memory→memorable",
+        "rule": "memorable＝难忘的；拼写不是 memoriable。",
+        "explanation": "a truly ______ day → memorable：值得记住的一天。",
+        "example": "a memorable trip to Yunnan"
+      },
+      "logic_links": [],
+      "question_no": 23,
+      "sort_order": 7,
+      "option_set_code": null,
+      "question_type_label": "Part 3 · 名词转形容词"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 24
+    },
+    "data": {
+      "section_code": "P3",
+      "stem": "Now I'm just as {{24}} about kayaking as my sister.\nPASSION",
+      "analysis": "just as passionate about kayaking as my sister：首尾呼应——开头姐姐送课，结尾'我'和姐姐一样热爱，情感线闭合。",
+      "type_note": "as...as 比较结构中缺表语形容词；括号词 PASSION 为名词。",
+      "strategy": "as...as 中间必填原级形容词/副词；看到空后的 about，联想 be passionate / be enthusiastic / be crazy about。",
+      "pitfall": "误填 passion（名词）造成 as passion about 结构错误；as...as 结构锁定形容词。",
+      "solve_steps": [
+        "判断词性：I'm just as ______ about kayaking as my sister——as...as 之间填形容词原级。",
+        "构词：passion（热情）→ passionate（充满热情的）；拼写：passion + ate。",
+        "搭配验证：be passionate about sth＝'对……充满热情'，正好搭配空后的 about kayaking。填 passionate。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "be passionate about",
+        "rule": "be passionate about sth＝对……充满热情；as...as 中间填形容词原级。",
+        "explanation": "just as ______ about kayaking as my sister → passionate。",
+        "example": "He's passionate about astronomy."
+      },
+      "logic_links": [],
+      "question_no": 24,
+      "sort_order": 8,
+      "option_set_code": null,
+      "question_type_label": "Part 3 · 名词转形容词（固定搭配）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 25
+    },
+    "data": {
+      "section_code": "P4",
+      "stem": "Seeing Pete sitting in the café was a real surprise.\nEXPECTED\nI really {{25}} Pete sitting in the café.",
+      "analysis": "I really hadn't expected to see Pete sitting in the café.：really 对应原句 a real surprise 的强调；see sb doing 看到某人正在做某事。",
+      "type_note": "原句以名词化结构 Seeing... was a surprise 表达'意外'，改写句用 EXPECTED 与 really 对应 a real surprise，考查过去完成时。",
+      "strategy": "key word transformations 先判时态：句中有明确的过去事件（seeing Pete），再往前推一层就用过去完成时。",
+      "pitfall": "误用现在完成时 haven't expected——'看到'是过去的事，'没料到'发生在它之前，必须用过去完成时；也不能漏掉 to see。",
+      "solve_steps": [
+        "对比两句：原句'看到Pete在咖啡馆真是意外'；改写句已有 I really ______ Pete sitting in the café，缺谓语部分，须含 EXPECTED。",
+        "确定时态：'当时真没想到'——'想'发生在'看到'之前、过去的过去 → 过去完成时 hadn't expected。",
+        "补全结构：expect to do sth → I really hadn't expected to see Pete...。词数：hadn't expected to see（3词+关键词）符合2-5词限制。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "过去完成时表'未曾料到'",
+        "rule": "hadn't expected / hadn't thought + to do 或 that 从句，表示'原本没料到'，即想法先于过去事实。",
+        "explanation": "本题'没想到'发生在'看见'之前：看见是过去，没想到是过去的过去，所以用 had done。",
+        "example": "I hadn't expected to enjoy the film, but it was brilliant."
+      },
+      "logic_links": [],
+      "question_no": 25,
+      "sort_order": 1,
+      "option_set_code": null,
+      "question_type_label": "Part 4 · 过去完成时表'未曾料到'"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 26
+    },
+    "data": {
+      "section_code": "P4",
+      "stem": "My aunt said we could stay at her house for a few nights during the holidays.\nPUT\nMy aunt said she could {{26}} at her house for a few nights during the holidays.",
+      "analysis": "My aunt said she could put us up at her house：said 后宾语从句，could put us up 与原句 we could stay 互换视角（we stay ↔ she puts us up）。",
+      "type_note": "stay at her house（在她家过夜）需要用含 PUT 的短语动词改写，考查 put up 的'留宿'义。",
+      "strategy": "短语动词带代词宾语时代词居中：put us up / turn it down / pick me up。",
+      "pitfall": "填 put up us——代词作宾语时必须放在动词与小副词之间（put us up）；也不能只写 put up（漏掉 us，句意缺'我们'）。",
+      "solve_steps": [
+        "找同义对应：stay at her house for a few nights＝'在她家小住几晚'→'留宿我们'。",
+        "put up sb＝put sb up 意为'留宿；安排住宿'，是 put up 的熟词生义（不是'搭建'或'张贴'）。",
+        "确定词序与词数：宾语是代词 us，必须放中间 → put us up，共3词，符合要求。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "put up 的多义",
+        "rule": "put up：①搭建（put up a tent）②张贴（put up a poster）③留宿（put sb up）④提高（put up prices）。",
+        "explanation": "本题主语是人、宾语是人、语境是'住几天'，取义③留宿。",
+        "example": "We can put you up for the weekend if you don't mind the sofa."
+      },
+      "logic_links": [],
+      "question_no": 26,
+      "sort_order": 2,
+      "option_set_code": null,
+      "question_type_label": "Part 4 · 短语动词（熟词生义）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 27
+    },
+    "data": {
+      "section_code": "P4",
+      "stem": "Anne says she doesn't want to make the effort to tidy her room, even though it's a mess!\nBOTHERED\nAnne says she {{27}} to tidy her room, even though it's a mess!",
+      "analysis": "she can't be bothered to tidy her room：'懒得收拾房间'，even though it's a mess 补充反差，口语色彩浓。",
+      "type_note": "doesn't want to make the effort（懒得费神）对应含 BOTHERED 的固定表达 can't be bothered to do。",
+      "strategy": "同义替换中'不想费神做'直接映射 can't be bothered to do；BOTHERED 已是 -ed 形式，提示前面要加 be。",
+      "pitfall": "填 isn't bothered to tidy（漏 can't 语气弱且不对应'不想费神'）或填 is not bothered（词形对但表达不地道）；固定短语要整体记忆。",
+      "solve_steps": [
+        "找同义对应：doesn't want to make the effort to tidy＝'不想费神去收拾'。",
+        "固定表达 can't be bothered to do sth＝'懒得做某事'，形态是情态动词 + be bothered（bother 此处为形容词化的过去分词用法）。",
+        "确定形式：says 后从句用一般现在时 → can't be bothered，共3词。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "can't be bothered (to do)",
+        "rule": "can't be bothered to do sth＝懒得做某事，bothered 相当于表语，结构上像被动但语义是状态。",
+        "explanation": "bother 作动词是'费心；打扰'，be bothered 即'被费心的事缠上'→'懒得、犯不上'。",
+        "example": "I couldn't be bothered to cook, so I ordered takeaway."
+      },
+      "logic_links": [],
+      "question_no": 27,
+      "sort_order": 3,
+      "option_set_code": null,
+      "question_type_label": "Part 4 · 固定短语（情态+被动形）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 28
+    },
+    "data": {
+      "section_code": "P4",
+      "stem": "Could you look after my little brother for a minute, please?\nEYE\nCould you {{28}} my little brother for a minute, please?",
+      "analysis": "Could you keep an eye on my little brother for a minute?：礼貌请求句型 Could you... 与原句一致，仅替换'照看'的表达。",
+      "type_note": "look after（照看）与含 EYE 的习语 keep an eye on 同义，考习语的整体记忆。",
+      "strategy": "身体部位类习语是 Part 4 高频：keep an eye on（照看）、keep an eye out for（留意）、give a hand（帮忙）。",
+      "pitfall": "漏掉冠词 an（keep eye on 不成立）或写成 keep an eye at；习语中的冠词不能省。",
+      "solve_steps": [
+        "找同义对应：look after my little brother＝'照看一下我弟弟'。",
+        "习语：keep an eye on sb/sth＝'照看；留意'——用'眼'的意象表达'看护'。",
+        "定形：Could you keep an eye on my little brother...，共4词（keep an eye on），符合2-5词。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "eye 类习语",
+        "rule": "keep an eye on = 照看；keep an eye out (for) = 留意等待出现；catch one's eye = 引人注目。",
+        "explanation": "本题主语请求他人'看一会儿孩子'，取 keep an eye on。",
+        "example": "Could you keep an eye on my bag while I buy tickets?"
+      },
+      "logic_links": [],
+      "question_no": 28,
+      "sort_order": 4,
+      "option_set_code": null,
+      "question_type_label": "Part 4 · 习语同义替换"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 29
+    },
+    "data": {
+      "section_code": "P4",
+      "stem": "Jo's mother told her that it wasn't a good idea to eat so many biscuits before lunch!\nDISCOURAGE\nJo's mother tried {{29}} so many biscuits before lunch!",
+      "analysis": "Jo's mother tried to discourage Jo/her from eating so many biscuits：tried to 说明'劝'的动作，discourage from eating 对应'别说吃太多'。",
+      "type_note": "原句 told her... wasn't a good idea to eat 改写为含 DISCOURAGE 的结构，考查 discourage sb from doing 及 try to do。",
+      "strategy": "encourage sb to do ↔ discourage sb from doing：一对反义句型，介词方向不同（to do / from doing）。",
+      "pitfall": "介词误用 to（discourage sb to do 不成立，必须 from doing）；或忘了 tried 后接 to do，写成 discouraged Jo from...（时态、词形都变了）。",
+      "solve_steps": [
+        "找同义对应：告诉女儿'饭前吃太多饼干不是好主意'＝'试图劝阻她别吃'。",
+        "句型：discourage sb from doing sth（劝阻某人做某事），前面套 tried（试图劝阻，未必成功）→ tried to discourage...",
+        "补全成分：宾语用 Jo 或 her（改写句主语是 Jo's mother，用 her 更自然）；介词 from 后接动名词 eating / having。注意 tried 已给出，所填部分从 to 开始。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "discourage sb from doing",
+        "rule": "discourage sb from doing sth＝劝阻某人做某事；反义 encourage sb to do sth。",
+        "explanation": "discourage 已含否定义（使泄气/劝阻），后面动作前要加 from，这与 prevent/stop sb from doing 同构。",
+        "example": "Her parents tried to discourage her from becoming a dancer, but she persisted."
+      },
+      "logic_links": [],
+      "question_no": 29,
+      "sort_order": 5,
+      "option_set_code": null,
+      "question_type_label": "Part 4 · 动词句型（discourage sb from doing）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 30
+    },
+    "data": {
+      "section_code": "P4",
+      "stem": "The teacher didn't think about the fact that it might rain when she planned the school trip.\nACCOUNT\nThe teacher failed {{30}} the fact that it might rain when she planned the school trip.",
+      "analysis": "The teacher failed to take account of the fact that...：fail to do 传达'该做而没做'，与 didn't think about 语义相当。",
+      "type_note": "didn't think about（没有考虑到）改写为 failed + 含 ACCOUNT 的短语，考查 take account of / take into account。",
+      "strategy": "'考虑'类短语成对记：take account of = take into account = consider；注意 account 前有没有 into 决定 of 的有无。",
+      "pitfall": "两种合法语序是 take account of 和 take into account（into account 后置）；误写 take into account of 属于两式杂糅。另注意 failed 后必须接 to do。",
+      "solve_steps": [
+        "找同义对应：didn't think about the fact＝'没考虑到这一事实'；failed to do＝'没能做'。",
+        "固定短语：take account of sth / take sth into account＝'考虑到'；fail to take account of... 即'没能考虑……'。",
+        "定形：failed ______________ → to take account of / to take into account（动词 take 接 to do 形式跟在 failed 后），词数符合要求。"
+      ],
+      "distractors": {},
+      "knowledge": {
+        "title": "take (sth) into account",
+        "rule": "take account of sth / take sth into account＝考虑到；两种形式不可混搭成 take into account of。",
+        "explanation": "into account 版本把宾语提到短语中间（take the weather into account）；account of 版本宾语后置（take account of the weather）。",
+        "example": "When planning a trip, you should take the weather into account."
+      },
+      "logic_links": [],
+      "question_no": 30,
+      "sort_order": 6,
+      "option_set_code": null,
+      "question_type_label": "Part 4 · 短语动词（take...into account）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 31
+    },
+    "data": {
+      "section_code": "P5",
+      "stem": "Charlotte says she wrote her first novel when she was only 13 because",
+      "analysis": "答案句 That had never occurred to me – I couldn't understand why I'd be expected to put something on hold...：never occurred（从没想过搁置）→ 延迟不可想象 → B。",
+      "type_note": "题干问 13 岁动笔的原因，答案必须来自 Charlotte 本人的话语（引号内），不能混入旁人的评价。",
+      "strategy": "因果题的答案几乎总在人物引语里；把选项逐一与引语做同义比对，警惕常识型、对比型的'合理但无据'选项。",
+      "pitfall": "误选 C：文中没有任何'证明年龄不是障碍'的表意，这是把常识强加给原文；也不能选 D——老师的'期待'是30-40岁再写，与13岁动笔相反。",
+      "solve_steps": [
+        "定位：第一段 Charlotte 的原话。关键句在结尾：'I couldn't understand why I'd be expected to put something on hold that I had a chance of being good at.'（我不明白为什么有把握做好的事还要搁置）。",
+        "理解逻辑：'put something on hold'＝搁置、推迟。她说自己'无法理解推迟'，即在她看来'延迟根本不是一个选项'。",
+        "对照选项：B 'she found it impossible to imagine that delaying was an option'（她无法想象'推迟'竟是个选项）正是该句的同义转述。选 B。"
+      ],
+      "distractors": {
+        "A": "'最容易的成功之路'无中生有，原文只说写书是 challenge（挑战），与 easiest 相反。",
+        "C": "'决心证明年龄不是障碍'是主观添加，Charlotte 从未提及年龄与成功的关系。",
+        "D": "老师'期待'她30或40岁才写（she'd meant I'd probably do it when I was 30 or 40），与她13岁动笔相反，方向完全颠倒。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 31,
+      "sort_order": 1,
+      "option_set_code": "question-31",
+      "question_type_label": "Part 5 · 细节推断（因果原因）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 32
+    },
+    "data": {
+      "section_code": "P5",
+      "stem": "What does the writer say about Charlotte in the second paragraph?",
+      "analysis": "prevents any overconfidence she could be forgiven for feeling：双重让步——以她的成就，自负'情有可原'（could be forgiven），但 steadiness 挡住了它 → 谦逊。",
+      "type_note": "题干限定'第二段的作者（采访者）所讲'，需从采访者对 Charlotte 的外貌与性格描写中提取评价。",
+      "strategy": "人物描写题抓 but/also 后的落点：'spirited..., but also a steadiness'——转折之后才是作者真正的评价重心。",
+      "pitfall": "误选 C：'过分自信'与 prevents any overconfidence 意思恰好相反；A、D 是建议类表述，而采访者只是描写，并未提出任何'应该'的建议。",
+      "solve_steps": [
+        "定位第二段人物评价句：'She's her own person: spirited, with an alert face and a lively intelligence, but also a steadiness that prevents any overconfidence she could be forgiven for feeling.'",
+        "关键点：a steadiness（一份沉稳）prevents（压住了）any overconfidence she could be forgiven for feeling——'她本可以自负也情有可原，但沉稳让她没有'。",
+        "对照选项：B 'She is more modest than might be expected'（她比人们预想的更谦逊）正是'本可自负却沉稳不傲'的转述。选 B。"
+      ],
+      "distractors": {
+        "A": "文中说她 needs neither parental nor professional support（既不需要父母也不需要专业人士帮忙），与'多听取建议'相反。",
+        "C": "prevents any overconfidence 明确说她压制了自负，'过度自信'与原文相反。",
+        "D": "'应被给予更多独立'无据；文中她本就 her own person（独立有主见），不存在'被限制独立'的表述。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 32,
+      "sort_order": 2,
+      "option_set_code": "question-32",
+      "question_type_label": "Part 5 · 人物描写推断"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 33
+    },
+    "data": {
+      "section_code": "P5",
+      "stem": "What does Charlotte feel about the characters in teenage fiction?",
+      "analysis": "三类人物均围绕'欠缺'（acceptable-to-society 的局外人曾不合群、naive 无知、awkward 不擅社交），加上'aren't inadequate'的否定反问，指向'缺乏自信/自我认知'。",
+      "type_note": "问 Charlotte 对青少年小说人物类型的看法，答案在她的三类人物描述及其后的评论中。",
+      "strategy": "观点归纳题要找到'覆盖三类'的公共特征；单类特征（天真、笨拙）只能局部对应选项，不能直接选。",
+      "pitfall": "误选 B：'不可信的品质'听起来像'不真实'，但 Charlotte 不满的是人物类型单一、都是'欠缺者'，不是'虚假'；D 与她观点相反——她恰恰认为读者难以在这些人物身上找到共鸣。",
+      "solve_steps": [
+        "定位第四段：三类人物——outsider（被社会接纳的局外人）、naive（天真的）、awkward / isn't socially skilled（笨拙不擅社交）。",
+        "看她的评论：'There aren't many stories out there about characters who aren't inadequate in some way.'（很少有哪个人物不欠缺些什么）；'teenagers can't possibly know who they are... it can undermine their self-belief'（这类形象削弱自信）。",
+        "归纳：三类人物的共同点是'欠缺/不自知/不稳'→ A 'They are people who lack confidence or self-awareness'（缺乏自信或自我认知）。选 A。"
+      ],
+      "distractors": {
+        "B": "Charlotte 批评的是类型单一且都'欠缺'，不是人物'不可信'；原文无 believability 之论。",
+        "C": "她明确说 I don't think it's intentional（作家并非故意），'对年轻人毫无兴趣'更属无据。",
+        "D": "她抱怨的正是读者（青少年）被这类形象影响自信，'容易产生共鸣'与原文相反。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 33,
+      "sort_order": 3,
+      "option_set_code": "question-33",
+      "question_type_label": "Part 5 · 观点态度（人物引语归纳）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 34
+    },
+    "data": {
+      "section_code": "P5",
+      "stem": "What does 'that' refer to in line 58?",
+      "analysis": "that＝the overall impression（teenagers can't possibly know who they are...）：一种由作家传递的关于'青少年是什么样'的假设，灌输会削弱自信。",
+      "type_note": "代词指代题：that 的对象通常在紧邻的上文；需找到'被作家灌输给青少年的东西'。",
+      "strategy": "指代题三步：找代词句→回读前句→把候选内容代入'is being pushed on them'检验搭配。",
+      "pitfall": "指代题在代词前两三行内找名词性内容，再验证'能否被 push on them'：能被灌输的只能是观点/假设，不能是批评或现实。",
+      "solve_steps": [
+        "定位 line 58：'And when that is being pushed on them by writers, it can undermine their self-belief.'——that 被'作家们灌输（pushed on them）'。",
+        "看紧邻上文：'The overall impression teenagers can get from some writers... is teenagers can't possibly know who they are because they're not experienced enough to know the truth.'——'青少年不可能认识自己'这一整体印象。",
+        "对照选项：这个'印象'不是对青少年行为的批评（A），不是现实生活（B），也不是'提供给青少年考虑的另一种观点'（C），而是一种'关于青少年天性的假设'→ D。选 D。"
+      ],
+      "distractors": {
+        "A": "那是'对青少年行为的批评'——原文是关于'青少年能否认识自己'的印象，并非对行为的批评。",
+        "B": "'日常生活的严酷现实'与'被作家灌输'搭配不当，现实无法被'push on'。",
+        "C": "'供青少年考虑的替代观点'方向反了：这个印象是被强加的，不是供他们选择的。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 34,
+      "sort_order": 4,
+      "option_set_code": "question-34",
+      "question_type_label": "Part 5 · 代词指代"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 35
+    },
+    "data": {
+      "section_code": "P5",
+      "stem": "What was Charlotte's attitude to the famous writers she read?",
+      "analysis": "you might suppose she'd be indebted to, but in fact they almost put her off writing entirely：but 转折推翻'受益'预设；is this seriously what I have to be doing → 难度认知 → C。",
+      "type_note": "第五段先扬后抑：你以为她受益（indebted），实际 nearly put her off——转折之后才是真态度。",
+      "strategy": "态度题认准 but / in fact 之后的分句；'suppose 的内容'通常就是要被推翻的干扰项。",
+      "pitfall": "误选 A：'很高兴他们写我感兴趣的话题'只对了一半（她确实爱读），但题目问 attitude 到的'后果'——转折后是'几乎放弃写作'，A 忽略了转折；B 的'predictable'是 How Not to Write a Novel 讲的原则，与那些奇幻作家无关。",
+      "solve_steps": [
+        "定位第五段：'they almost put her off writing entirely'＋引语：'is this seriously what I have to be doing to write a good book and am I really up to it?'（要写出好书，真得做到这种程度吗？我真的够格吗？）",
+        "理解：读到那些深刻的作品，她意识到'像他们那样写'的标准极高、非常难，几乎被吓退。",
+        "对照选项：C 'She became aware of how challenging it would be to write in a similar way'（她意识到以类似方式写作有多难）＝is this what I have to be doing... am I really up to it 的转述。选 C。"
+      ],
+      "distractors": {
+        "A": "'高兴他们写她感兴趣的话题'是转折前的表面事实，不是题目要的完整态度；转折后她被吓退。",
+        "B": "'情节可预测令人失望'来自那本写作指南的论述，不是她对奇幻作家的态度。",
+        "D": "'意识到他们激发了想象力'与原文相反：这些书让她怀疑自己、几乎搁笔。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 35,
+      "sort_order": 5,
+      "option_set_code": "question-35",
+      "question_type_label": "Part 5 · 态度与影响（转折结构）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 36
+    },
+    "data": {
+      "section_code": "P5",
+      "stem": "How does she feel about her experience of writing?",
+      "analysis": "sink or swim according to their talents＋I don't take things for granted：承认成功非必然、未来靠自己——C 的'接受成功未必延续'是这两个短语的同义归纳。",
+      "type_note": "问对写作经历的总体感受，答案在末段引语的结论句：sink or swim / don't take things for granted。",
+      "strategy": "结尾态度题抓结论句的双重信号：承认运气（不冒功）＋强调实力（sink or swim）→ 推出'清醒、不自满'。",
+      "pitfall": "误选 A：'恼火别人只谈她的幸运'——她确实谈了幸运（acknowledges her good fortune），但语气是坦然承认而非恼火；B '后悔依赖他人'无据，她只说'起步后靠自己'，并无'后悔'；D '怀疑别人不识她的才华'无据。",
+      "solve_steps": [
+        "定位末段引语：'Every aspiring writer needs support and a lucky break, but after that you're on your own. Ultimately writers sink or swim according to their talents so I don't take things for granted.'",
+        "理解：她承认有运气成分（lucky break），也承认之后全靠自己、成败取决于才华——因此'不把成功视作理所当然'，即清醒地接受'早熟的成功未必延续'。",
+        "对照选项：C 'She accepts that her early success may not continue'（她接受早期的成功未必持续）＝don't take things for granted + sink or swim 的概括。选 C。"
+      ],
+      "distractors": {
+        "A": "她坦然承认好运（She acknowledges her good fortune），没有'恼火'的情绪。",
+        "B": "'后悔可能得依赖他人'无据；恰恰相反，她说'之后你就全靠自己了'。",
+        "D": "'怀疑人们不识才华'无据；全文她对媒体、家人和自己的评价都清醒而平和。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 36,
+      "sort_order": 6,
+      "option_set_code": "question-36",
+      "question_type_label": "Part 5 · 结尾态度推断"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 37
+    },
+    "data": {
+      "section_code": "P6",
+      "stem": "{{37}}",
+      "analysis": "E 句中 this part of the country 呼应第1段 northern Scandinavia；several hours before the sun comes up 呼应 the very long nights；空后的 for example 把'起床难'具体化为'上学路上睡着'。",
+      "type_note": "空后句以 for example 展开，说明空格必须是'总述性'句子；空前讲'黑夜打乱睡眠规律'，空格要具体化这种'困难'。",
+      "strategy": "段中空先看空后的 for example / such as：出现举例词时，空格必为总述句，去选项里找'范围最大'的那句。",
+      "pitfall": "误选 A：A 讲'身体延迟醒来的信号'是第39空的科学机制，放在这里无法被 for example 举例；A 与'学生上学路上睡着'之间没有总分关系。",
+      "solve_steps": [
+        "看空后：'It is not unusual, for example, for some students to fall asleep on the journey to school.'——for example 说明前一句必须是总起句。",
+        "看空前：'睡眠规律被漫漫长夜打乱，就会出现这些症状'——空格应具体描述'长夜里人们有多难'。",
+        "锁定 E：'这个国家的许多人坦言，在太阳升起前几个小时就要挣扎着起床准备一天，这有多难。'——正是对'长夜困难'的总述，且'许多人承认'与'学生路上睡着'构成总分例证关系。选 E。"
+      ],
+      "distractors": {
+        "A": "讲光照与生物钟的机制，属于第4段科学解释层，与'举例说明起床难'不符。",
+        "B": "'坐在明亮的房间里有助于应对'是利好信息，而本空需要'困难'的描述。",
+        "G": "'因此似乎没有损失'是第7段决策逻辑，与本空语境无关。",
+        "C": "总结'氛围积极'是第38空的答案，与本空'举例说明起床之难'的语境无关。",
+        "D": "19世纪校舍采光的历史证据，服务于第41空'支持变革'的证据链。",
+        "F": "'并非人人热衷改造'是第40空用来统领校长反对声音的转折句。"
+      },
+      "knowledge": null,
+      "logic_links": [
+        {
+          "color": "amber",
+          "label": "总分例证",
+          "explanation": "E 总述'起床难'，空后用 for example 落到'上学路上睡着'。",
+          "endpoints": [
+            {
+              "paragraph_id": "P6-p2",
+              "quote": "It is not unusual, for example, for some students to fall asleep on the journey to school"
+            },
+            {
+              "option": "E",
+              "quote": "Many in this part of the country freely admit how difficult it is to get ready for the day ahead"
+            }
+          ]
+        }
+      ],
+      "question_no": 37,
+      "sort_order": 1,
+      "option_set_code": "shared",
+      "question_type_label": "Part 6 · 例证衔接（总分结构）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 38
+    },
+    "data": {
+      "section_code": "P6",
+      "stem": "{{38}}",
+      "analysis": "C 句 In fact 修正'错觉'（太阳没出来，但教室里阳光般明亮），there 回指 Dragonskolan；a much more positive atmosphere 概括前文的所有细节。",
+      "type_note": "本空位于第3段段尾，整段描写新灯带来的变化，空格应为该段的收束或效果总结，同时 there 需要有所指。",
+      "strategy": "段尾空先判断是'总结'还是'递进'；含 there / these days 等回指词的选项优先验证指代落点。",
+      "pitfall": "误选 B：B 也积极，但 What's more 要求前文有并列的第1点，且'brightly lit room'是泛指人们，不是总结学校氛围；C 的 there 有着落点。",
+      "solve_steps": [
+        "看段内：第3段全是积极描写——'像走进阳光''惊讶地发现太阳没升起来'。空格应延续这段的积极效果。",
+        "锁定 C：'In fact, there's a much more positive atmosphere there these days.'（事实上，如今那里的氛围积极多了。）——there 指代 Dragonskolan 的教室，总结全段效果。",
+        "验证排除：A/B/D/E/F/G 的指代或语气都无法承接'学生望窗外'的细节描写；In fact 与上文'惊讶'形成'看似阳光出来了——其实是灯光'的呼应。选 C。"
+      ],
+      "distractors": {
+        "B": "What's more 缺少并列对象；cope with this 的 this 无所指。",
+        "D": "讲19世纪的设计传统，属于第41空的证据链。",
+        "E": "讲起床难，是第37空的内容。",
+        "A": "'that stimulus'必须承接口语机制句 Light tells the brain，属于第39空的衔接链。",
+        "F": "'研究少、并非人人热衷'是第40空统领校长反对的内容，与本段积极描写矛盾。",
+        "G": "'因此没有损失'承接'无证据表明有害'，是第42空的推理句。"
+      },
+      "knowledge": null,
+      "logic_links": [
+        {
+          "color": "teal",
+          "label": "回指总结",
+          "explanation": "C 的 there 回指 Dragonskolan 教室，总结第3段'阳光般明亮'的描写。",
+          "endpoints": [
+            {
+              "paragraph_id": "P6-p3",
+              "quote": "stepping through the door in the morning is like walking into bright sunshine"
+            },
+            {
+              "option": "C",
+              "quote": "In fact, there's a much more positive atmosphere there these days."
+            }
+          ]
+        }
+      ],
+      "question_no": 38,
+      "sort_order": 2,
+      "option_set_code": "shared",
+      "question_type_label": "Part 6 · 段尾总结（所指回归）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 39
+    },
+    "data": {
+      "section_code": "P6",
+      "stem": "{{39}}",
+      "analysis": "Light tells the brain → that stimulus（复现）；Without that stimulus → the lack of light（空后复现）。A 是前后都咬合的'链条题'标准答案。",
+      "type_note": "空格后紧接着讲'光照不足的影响'，空格须承接'光照→大脑'的机制句；选项中 that stimulus 必须在前文有所指。",
+      "strategy": "含 that / this / such 的选项先做指代配对：在原文找到它指代的词，再决定放哪一空。",
+      "pitfall": "指代词 that 是金线索：A 中的 that stimulus 必须在前文找到所指（光对大脑的作用）；B 的 this、C 的 there 都找不到如此精确的对应。",
+      "solve_steps": [
+        "看空前：'光照告诉大脑停止分泌褪黑素（让你困的激素）'——光就是一种'刺激'（stimulus）。",
+        "锁定 A：'Without that stimulus（没有那种刺激），身体每天会推迟几分钟发出'该醒了'的信号。'——that stimulus 复现前句 Light tells the brain，严丝合缝。",
+        "看空后衔接：A 说'缺光的后果'，后文'菲格罗博士认为冬季缺光的影响会累积、打乱生物钟'——正是同一话题的延续与展开。选 A。"
+      ],
+      "distractors": {
+        "B": "'坐在明亮房间里'与'缺光的生理机制'不搭，且 this 无所指。",
+        "C": "总结学校氛围，与科学机制段落无关。",
+        "F": "'研究少、校长不积极'是第40空的话题。",
+        "D": "历史证据用于第41空，说明'光照曾是重要考量'，与生理机制无关。",
+        "E": "'起床难'的总述句，应由第37空后的 for example 举例展开，不属于机制段。",
+        "G": "'没有损失'是第42空的决策推理，与褪黑素机制无关。"
+      },
+      "knowledge": null,
+      "logic_links": [
+        {
+          "color": "blue",
+          "label": "词汇复现",
+          "explanation": "A 的 that stimulus 复现前句的光照机制；Without that stimulus 又被空后 the lack of light 呼应。",
+          "endpoints": [
+            {
+              "paragraph_id": "P6-p4",
+              "quote": "Light tells the brain to halt production of melatonin"
+            },
+            {
+              "option": "A",
+              "quote": "Without that stimulus, the body delays, by a few minutes every day, the signal that it's time to wake up."
+            }
+          ]
+        }
+      ],
+      "question_no": 39,
+      "sort_order": 3,
+      "option_set_code": "shared",
+      "question_type_label": "Part 6 · 词汇复现衔接（that stimulus）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 40
+    },
+    "data": {
+      "section_code": "P6",
+      "stem": "{{40}}",
+      "analysis": "F 的三重衔接：However（转折前段利好）→ little research（呼应第7段 no measurable evidence）→ not all of them are keen（统領本段反对声音）。",
+      "type_note": "空格位于第5段段首，需统领全段'校长们反对'的内容；F 中 not all of them 的 them 指代前文人物。",
+      "strategy": "段首空找统领句：像 However... not all of them are keen 这类'既转折又带指代'的选项，先验证 them 指谁再定位。",
+      "pitfall": "误选 G：G 的 Therefore 是'因此没有损失'，逻辑上只能出现在'无证据表明有害'之后（第42空），放在段首无法衔接'校长反对'。",
+      "solve_steps": [
+        "看空后：校长们 objected（反对），理由是学生躁动＋经费不足——段首需要一个'引出反对声音'的句子。",
+        "锁定 F：'然而，尽管理论看似简单，学校照明影响的研究却很少，所以并非所有人都急于改造照明系统。'——However 承接第4段的'好处'论述并转折；not all of them are keen to change 恰好引出校长们的反对。",
+        "验证指代：them 指前文的主张者/学校相关人员；Despite the apparent simplicity of the theory 回指第4段的科学理论。选 F。"
+      ],
+      "distractors": {
+        "A": "科学机制句，与'反对声音'无关。",
+        "D": "历史证据，是第41空'支持变革'阵营的论据，与'反对'矛盾。",
+        "E": "起床困难，话题属于第37空。",
+        "B": "'明亮房间有助应对'是利好信息，与校长们反对（objected）的立场矛盾。",
+        "C": "'氛围积极'总结第3段的学校现场，与本段反对话题无关。",
+        "G": "'没有损失'是第42空的推理，放段首无法统领反对声音。"
+      },
+      "knowledge": null,
+      "logic_links": [
+        {
+          "color": "violet",
+          "label": "转折统领",
+          "explanation": "F 的 not all of them are keen 统领本段校长们的反对（objected）。",
+          "endpoints": [
+            {
+              "paragraph_id": "P6-p5",
+              "quote": "they objected, saying that pupils would become restless"
+            },
+            {
+              "option": "F",
+              "quote": "so not all of them are keen to change their lighting systems."
+            }
+          ]
+        }
+      ],
+      "question_no": 40,
+      "sort_order": 4,
+      "option_set_code": "shared",
+      "question_type_label": "Part 6 · 转折衔接与代词指代（them）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 41
+    },
+    "data": {
+      "section_code": "P6",
+      "stem": "{{41}}",
+      "analysis": "point to other evidence → D（历史证据）→ the significance of this（回指 D）。第6段整体是'反方反对→正方证据→忽视证据'的辩论结构。",
+      "type_note": "空前说'变革派引用其他证据'，空后说'设计者忽视了这一点（this）的重要性'——空格必须是那条'证据'。",
+      "strategy": "空前出现 evidence / case 时，空格内容必须是具体证据；空后的 this 指代也能反向锁定答案。",
+      "pitfall": "误选 B：B 也是'支持光照'的信息，但它是利益推测（it seems），不是'证据'（evidence）；且空后 this 需要一个'事实'作指代，B 无法提供。",
+      "solve_steps": [
+        "看空前：'其他证据支持变革'——空格内容应是具体的证据。",
+        "锁定 D：'光照曾是校舍规划中的重要考量，早在19世纪末的书里就有关于教室采光重要性的论述。'——正是支持'重视光照'的历史证据。",
+        "验证空后：Designers may have ignored the significance of this——this 指代 D 中'光照是重要考量'这一事实，'设计者忽视'与之完美呼应。选 D。"
+      ],
+      "distractors": {
+        "B": "'似乎有帮助'是推测而非证据，且 this 无法与空后形成指代闭环。",
+        "F": "讲'研究少'，是反方（反对变革）的立场，与空格位置'支持变革'相反。",
+        "G": "'没有损失'是决策结论，放这里会破坏'证据'语境。",
+        "A": "生理机制句与'设计者忽视采光'的证据链无关。",
+        "C": "'氛围积极'是第38空对学校现场的总结。",
+        "E": "'起床难'是第37空的总述句。"
+      },
+      "knowledge": null,
+      "logic_links": [
+        {
+          "color": "amber",
+          "label": "证据与指代",
+          "explanation": "D 提供'光照曾是重要考量'的历史证据，空后 the significance of this 回指 D。",
+          "endpoints": [
+            {
+              "paragraph_id": "P6-p6",
+              "quote": "Designers may have ignored the significance of this"
+            },
+            {
+              "option": "D",
+              "quote": "Light was once a vital consideration in the planning of school buildings"
+            }
+          ]
+        }
+      ],
+      "question_no": 41,
+      "sort_order": 5,
+      "option_set_code": "shared",
+      "question_type_label": "Part 6 · 证据链与指代（this 的落点）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 42
+    },
+    "data": {
+      "section_code": "P6",
+      "stem": "{{42}}",
+      "analysis": "no evidence of harm（前提）→ Therefore nothing to lose（结论）→ So Andersson decided to go ahead（行动）：三个环节层层递进，G 是唯一能同时衔接前后因果的选项。",
+      "type_note": "空前是'没有证据表明有害'，空后是'于是校长决定安装'——空格必须完成'没坏处→没损失'的推理。",
+      "strategy": "空前是'没有坏处/无证据'、空后是 So / decided to 时，中间大概率是 Therefore 类推理句——先搭因果链再选。",
+      "pitfall": "误选 B：'What's more 看起来还有帮助'看似能衔接'没坏处'，但它破坏了与空后 So 的因果强度；本题考的是'无证据→无损失→决定'的推理链，B 是旁支信息。",
+      "solve_steps": [
+        "看空前：'同样地，没有证据表明这些灯造成了任何伤害。'——好处待证实，坏处无证据。",
+        "锁定 G：'Therefore, it seemed on the face of it that there was nothing to lose.'（因此，表面上看来装它们并无损失。）——Therefore 承接'无害'，nothing to lose 推出'可以装'。",
+        "看空后：'So Andersson decided to go ahead...'——So 与 Therefore 构成'无害→无损失→决定装'的双重因果链，逻辑闭合。选 G。"
+      ],
+      "distractors": {
+        "B": "递进'好处'会与'无证据支持好处'（前文）矛盾，也无法推导出'无损失'。",
+        "C": "'氛围积极'是第38空内容，与决策逻辑无关。",
+        "E": "起床难，属于第37空。",
+        "A": "机制句与'无害→无损失→决定安装'的因果链无关。",
+        "D": "历史证据属于第41空的证据链。",
+        "F": "'研究少、并非人人热衷'是第40空的转折统领句。"
+      },
+      "knowledge": null,
+      "logic_links": [
+        {
+          "color": "teal",
+          "label": "因果推理",
+          "explanation": "G 的 Therefore 承接'无证据表明有害'，推出'没有损失'，空后 So 顺势决策。",
+          "endpoints": [
+            {
+              "paragraph_id": "P6-p7",
+              "quote": "there was no evidence that they actually caused any harm"
+            },
+            {
+              "option": "G",
+              "quote": "Therefore, it seemed on the face of it that there was nothing to lose."
+            }
+          ]
+        }
+      ],
+      "question_no": 42,
+      "sort_order": 6,
+      "option_set_code": "shared",
+      "question_type_label": "Part 6 · 因果推理（Therefore）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 43
+    },
+    "data": {
+      "section_code": "P7",
+      "stem": "Which review mentions that the song was the best the band released?",
+      "analysis": "a fantastic debut＋hard to improve on, and they never did：首支即巅峰，即'乐队发行过的最好的歌'。",
+      "type_note": "关键词 the best the band released（乐队最好的作品）需要找评价性最高级表述。",
+      "strategy": "匹配题先在题干划'最高级/比较'词（the best），再回文找同向的最高级表达。",
+      "pitfall": "A 评论的 phenomenal success 形容的是'销量/成功'而非'作品质量之最'；D 的 one of his finest songs 是'创作者最佳之一'且更宽泛，C 的 hard to improve on 是'全乐队所有作品中最好'的明确表述。",
+      "solve_steps": [
+        "抓题干关键词：the best the band released——'乐队发行过的最好的歌'。",
+        "扫读各评论的评价句：C 评论结尾 'It was a fantastic debut... It was a track that was hard to improve on, and they never did.'（惊艳出道；难以超越，也从未被超越）。",
+        "'难以超越＝乐队作品之最'，与 C 评论中 it's still unique 呼应。选 C。"
+      ],
+      "distractors": {
+        "A": "phenomenal success 指市场成功，未与乐队其他作品比较。",
+        "B": "对 Hard Shell 的评价以批评为主（too polished / too lightweight）。",
+        "E": "评价高（marvellous），但只说它'启发其他男团'，未定位为乐队最佳。",
+        "D": "D 的评价是 one of his finest songs（创作者个人最佳之一），范围限于个人，未点明'乐队发行作品之最'。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 43,
+      "sort_order": 1,
+      "option_set_code": "shared",
+      "question_type_label": "Part 7 · 同义替换（the best released ↔ a fantastic debut / hard to improve on）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 44
+    },
+    "data": {
+      "section_code": "P7",
+      "stem": "Which review says the song's lyrics are surprisingly effective when performed?",
+      "analysis": "more impressive than you might think just reading about it＝'实际听比纸面读更震撼'，对应 surprisingly effective when performed。",
+      "type_note": "两个关键词叠加：lyrics（歌词）＋ when performed（实际演唱时效果），缺一不可。",
+      "strategy": "双关键词匹配：两个条件同时满足才选；只有一个词对应时继续排除。",
+      "pitfall": "只看到 lyrics 就选 D；D 缺少'演唱效果出人意料'的比较（more impressive than you might think just reading about it）。",
+      "solve_steps": [
+        "锁定关键词：lyrics + performed（演唱时）。A 评论同时含两者：'The lyrics are cleverly written... This is more impressive than you might think just reading about it, because each band member takes a line in turn.'",
+        "理解：歌词设计（顶针格）写在纸上不起眼，但由成员轮流接唱'比读起来更打动人'——正是'演唱时出奇地有效'。",
+        "对照排除：B 说 lack the memorable lyrics（歌词不好）；D 说歌词动人但没有'演唱时'的对比。选 A。"
+      ],
+      "distractors": {
+        "B": "歌词被批评为缺乏记忆点，方向相反。",
+        "D": "歌词动人（something touching about the lyrics），但没有'唱出来才惊人'的语义。",
+        "E": "评论重点是音效与人声，未谈歌词。",
+        "C": "C 评论谈题材（romance）与法庭转折，未涉及歌词的演唱效果。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 44,
+      "sort_order": 2,
+      "option_set_code": "shared",
+      "question_type_label": "Part 7 · 细节对应（歌词＋演唱表现）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 45
+    },
+    "data": {
+      "section_code": "P7",
+      "stem": "Which review says some instruments cannot be clearly heard?",
+      "analysis": "but 转折后的 virtually impossible to detect them：常规乐器被电子音效淹没，与题干完全同义。",
+      "type_note": "题干是否定式（cannot be clearly heard），要在文中找同义否定表达。",
+      "strategy": "否定式题干要主动找否定/半否定词：impossible, virtually, hardly, fail to。",
+      "pitfall": "B 评论罗列了大量乐器（synthesizers, strings, horns），但没有'听不见'的表述；不要把'乐器多'当成'听不清'。",
+      "solve_steps": [
+        "抓关键词：some instruments cannot be clearly heard（有些乐器听不清）。",
+        "定位 E 评论：'The three Slog members play conventional guitars and drums, but it's virtually impossible to detect them over the unusual electronic sounds of the backing track.'",
+        "impossible to detect them（几乎听不出它们）＝ cannot be clearly heard；them 指吉他与鼓（instruments）。选 E。"
+      ],
+      "distractors": {
+        "A": "键盘'扮演核心角色'，是听得见的。",
+        "C": "手风琴是点睛之笔，被强调而非被淹没。",
+        "D": "和声温柔流畅，没有听不清的问题。",
+        "B": "B 虽罗列多种乐器（合成器、弦乐、铜管），但都在正常演奏，没有'听不清'的表述。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 45,
+      "sort_order": 3,
+      "option_set_code": "shared",
+      "question_type_label": "Part 7 · 否定含义同义转换（cannot be heard ↔ impossible to detect）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 46
+    },
+    "data": {
+      "section_code": "P7",
+      "stem": "Which review says the song has wide appeal despite its style?",
+      "analysis": "wouldn't normally admit to liking a soft-pop love song → 却成了 guilty pleasure：让步逻辑完整复刻 despite its style。",
+      "type_note": "题干含让步结构：尽管风格如何，仍广受欢迎。找'风格不讨喜＋广受欢迎'共存的评论。",
+      "strategy": "despite 类题干的本质是'让步+结果'两个成分都要在文中出现。",
+      "pitfall": "A 评论的 phenomenal success 是'成功'但不含'风格让步'；B 是反面（不受欢迎）；注意 despite 的让步方向。",
+      "solve_steps": [
+        "抓关键词：wide appeal（吸引力广）＋ despite its style（尽管其风格）。",
+        "定位 D 评论：'It's become a classic guilty pleasure for many people who wouldn't normally admit to liking a soft-pop love song – but why feel guilty?'",
+        "'连平日羞于承认喜欢软流行情歌的人都爱听'＝风格（soft-pop）本不受待见，但吸引力极广。选 D。"
+      ],
+      "distractors": {
+        "A": "'成功'来自风格新颖的加分，无'风格减分仍受欢迎'的让步。",
+        "C": "ununique 不存在；C 强调独特性而非'越过风格障碍的吸引力'。",
+        "E": "'启发男团'是行业影响，不是大众吸引力。",
+        "B": "B 的结论是不受欢迎（hasn't been a hit），与'广受欢迎'方向相反。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 46,
+      "sort_order": 4,
+      "option_set_code": "shared",
+      "question_type_label": "Part 7 · 让步逻辑（wide appeal despite its style）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 47
+    },
+    "data": {
+      "section_code": "P7",
+      "stem": "Which review suggests the track deserved to have been appreciated more?",
+      "analysis": "hasn't been a hit（事实：不受欢迎）＋ should have been（反事实：本应受欢迎）：遗憾语气对应题干的 deserved。",
+      "type_note": "题干是'本应更受欢迎'——虚拟/遗憾语气，找 should have been 类表达。",
+      "strategy": "虚拟/遗憾语气（should have done, deserved to）常与 but/though 从句的'事实相反'共现，找这种组合。",
+      "pitfall": "误选 A：phenomenal success 是'已经大获成功'，不存在'本应更受欢迎'的遗憾；should have been 的'未实现'意味是本题钥匙。",
+      "solve_steps": [
+        "抓关键词：deserved to have been appreciated more（本应获得更多欣赏）。",
+        "定位 B 评论末句：'It hasn't been a hit, though many in the industry feel it should have been.'（没成为热单，尽管业内许多人觉得它本应成为。）",
+        "should have been＝本应如此而未如此，与 deserved to have been appreciated more 同义。选 B。"
+      ],
+      "distractors": {
+        "A": "已经 phenomenal success，无遗憾可言。",
+        "C": "fantastic debut＋从未被超越，是现实的高度认可。",
+        "D": "已成 classic，被广泛喜爱。",
+        "E": "E 给予 marvellous 的现时好评，没有'本应更受欢迎'的遗憾语气。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 47,
+      "sort_order": 5,
+      "option_set_code": "shared",
+      "question_type_label": "Part 7 · 虚拟语气同义（deserved to be ↔ should have been）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 48
+    },
+    "data": {
+      "section_code": "P7",
+      "stem": "Which review says that the track has not lost any of its originality?",
+      "analysis": "four years later, it's still unique, as different from the usual boy-band style as accordions are from electronic synthesizers：用具体比喻支撑'依然独特'。",
+      "type_note": "'未失去原创性'是'依然独特'的否定转写，需保持时间维度（多年后依然）。",
+      "strategy": "完成时/持续性表述（has not lost, still）要匹配原文的 still / years later 等时间信号。",
+      "pitfall": "误选 E：experimental 描述'实验性风格'，但没有'时间流逝仍保持'的维度；题干的 has not lost 要求'持续至今'。",
+      "solve_steps": [
+        "抓关键词：has not lost any of its originality（至今没有失去原创性）——含时间维度。",
+        "定位 C 评论：'four years later, it's still unique'（四年后依然独一无二）。",
+        "still unique ＝ 至今原创、毫无磨损；时间词 four years later 与 has not lost 呼应。选 C。"
+      ],
+      "distractors": {
+        "A": "wildly creative 形容'跳出风格就显创意'的逻辑，未涉时间。",
+        "B": "新制作人带来 different sound，是'改变'而非'保持'。",
+        "E": "experimental 是风格标签，无时间维度。",
+        "D": "D 强调词曲天赋与主题共情，没有'依然独特'的时间维度。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 48,
+      "sort_order": 6,
+      "option_set_code": "shared",
+      "question_type_label": "Part 7 · 否定同义（not lost originality ↔ still unique）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 49
+    },
+    "data": {
+      "section_code": "P7",
+      "stem": "Which review mentions an opportunity for everyone in the band to display their singing ability?",
+      "analysis": "each band member takes a line in turn → showcase for excellent voices：轮流接唱的歌词设计成为全员唱功的展示窗口。",
+      "type_note": "两个要素：everyone in the band（每位成员）＋ display singing ability（展示唱功）。",
+      "strategy": "全员/个人类匹配题紧盯范围词：each / everyone ↔ some / one / lead singer。",
+      "pitfall": "误选 D：harmonies from some of the other band members 只是'部分成员唱和声'，不满足 everyone；'some of'与'each'是高频陷阱对。",
+      "solve_steps": [
+        "抓关键词：everyone + display their singing ability。",
+        "定位 A 评论：'each band member takes a line in turn. It's a showcase for The Warts' excellent voices'——每人轮流唱一句＝给每个人展示唱功的机会；showcase（展示台）对应 display。",
+        "showcase for... excellent voices 完整覆盖'全员的唱功展示'。选 A。"
+      ],
+      "distractors": {
+        "B": "Ned Laing leads on vocals＋Grant Berry 独奏——个人展示，不是全员。",
+        "D": "some of the other band members 唱和声，人数不全。",
+        "E": "只有主唱 Mo Aramba 的嗓音被重点描述。",
+        "C": "C 未描写成员轮流演唱或全员唱功展示，只有作品整体评价。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 49,
+      "sort_order": 7,
+      "option_set_code": "shared",
+      "question_type_label": "Part 7 · 细节对应（轮流展示唱功）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 50
+    },
+    "data": {
+      "section_code": "P7",
+      "stem": "Which review mentions the influence someone outside the band had on its music?",
+      "analysis": "a new producer was brought in（外因）→ gave them a completely different sound（音乐改变）→ a string of recent hits（结果）：完整因果链。",
+      "type_note": "关键词 outside the band（乐队外的人）＋ influence on its music（对音乐的影响）。",
+      "strategy": "'影响'题找'人 + 改变了声音/风格/方向'的句式；brought in / invited 等词提示外部人员。",
+      "pitfall": "误选 C：Dealt 组建时'为与别人竞争'，是动机而非外部人员影响音乐；B 的 producer 才是'人＋影响'双要素齐备。",
+      "solve_steps": [
+        "抓关键词：someone outside the band + influenced its music。",
+        "定位 B 评论开头：'until three years ago, when a new producer was brought in who gave them a completely different sound.'",
+        "新制作人是'乐队外的人'（brought in 外聘），他'给了乐队完全不同的声音'＝对音乐的直接影响。选 B。"
+      ],
+      "distractors": {
+        "A": "成功归因于'风格跳出套路'，没有外部人物。",
+        "D": "Blane 是乐队成员自己写自己编，非外部影响。",
+        "E": "没有外部人员参与创作的表述。",
+        "C": "C 的'组团为竞争'是乐队动机，不是外部人员对音乐的影响。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 50,
+      "sort_order": 8,
+      "option_set_code": "shared",
+      "question_type_label": "Part 7 · 因果链对应（外部人员的影响）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 51
+    },
+    "data": {
+      "section_code": "P7",
+      "stem": "Which review says that the song is easy to relate to?",
+      "analysis": "themes that everyone will have experienced：以'普遍经历'直接锁定共情——题干 easy to relate to 的标准同义转换。",
+      "type_note": "easy to relate to＝'容易共情/有共鸣'，需找'人人经历过'类表述。",
+      "strategy": "relate to 类表达的同义链：themes everyone has experienced / touching / we've all been there。",
+      "pitfall": "误选 C：romance is familiar 也'熟悉'，但 C 的落点是'题材熟悉却有别出心裁的转折'（a clever twist），不是强调共鸣。",
+      "solve_steps": [
+        "抓关键词：easy to relate to（听者容易代入共鸣）。",
+        "定位 D 评论末句：'they deal with themes that everyone will have experienced at some time in their lives.'",
+        "'主题人人经历过'＝自然容易共情，还有 something touching about the lyrics（歌词动人）佐证。选 D。"
+      ],
+      "distractors": {
+        "A": "歌词的巧思在形式（顶针接唱），与共鸣无关。",
+        "C": "题材熟悉但重点是'twist'——法庭背景的巧思。",
+        "E": "强调技术与音色，不谈主题共鸣。",
+        "B": "B 批评歌词缺乏记忆点（lacks the memorable lyrics），与'容易共情'相反。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 51,
+      "sort_order": 9,
+      "option_set_code": "shared",
+      "question_type_label": "Part 7 · 习语同义（easy to relate to ↔ themes everyone will have experienced）"
+    }
+  },
+  {
+    "table_name": "question",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 52
+    },
+    "data": {
+      "section_code": "P7",
+      "stem": "Which review admires a voice that is not what it seems?",
+      "analysis": "more those of a thirty-year-old, than of a boy of seventeen：以年龄反差点出'嗓音不似其人'，remarkable（remarkably mature）即 admires。",
+      "type_note": "'声音与外表/年龄不符'：找'比实际年龄成熟'类描写。",
+      "strategy": "'not what it seems'的实质是反差（年龄/形象 vs 声音/实力），扫读时圈出 more...than... 的比较结构。",
+      "pitfall": "误选 D：gentle lead vocals 只形容'温柔'，没有'与表象不符'；D 的 Say what you like about Blane 也只是口语让步，与声音反差无关。",
+      "solve_steps": [
+        "抓关键词：a voice that is not what it seems（不像看上去/实际情况的声音）。",
+        "定位 E 评论：'lead singer Mo Aramba's remarkable vocals – more those of a thirty-year-old, than of a boy of seventeen.'",
+        "17岁男孩却有一副30岁人的嗓音——声音与真实年龄不符，remarkable 表达赞叹。选 E。"
+      ],
+      "distractors": {
+        "A": "嗓音评价是 excellent voices / outstanding，但无'与表象不符'。",
+        "B": "Ned Laing leads on vocals，无反差描写。",
+        "D": "gentle vocals 是风格描述，无反差。",
+        "C": "C 赞赏的是编曲与法庭转折的设计，未写嗓音与年龄的反差。"
+      },
+      "knowledge": null,
+      "logic_links": [],
+      "question_no": 52,
+      "sort_order": 10,
+      "option_set_code": "shared",
+      "question_type_label": "Part 7 · 表达理解（not what it seems ↔ more those of a thirty-year-old）"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 1
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 1,
+      "raw_answer": "C",
+      "display_text": "C",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P1; question 1"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 2
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 2,
+      "raw_answer": "B",
+      "display_text": "B",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P1; question 2"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 3
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 3,
+      "raw_answer": "D",
+      "display_text": "D",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P1; question 3"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 4
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 4,
+      "raw_answer": "A",
+      "display_text": "A",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P1; question 4"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 5
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 5,
+      "raw_answer": "D",
+      "display_text": "D",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P1; question 5"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 6
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 6,
+      "raw_answer": "C",
+      "display_text": "C",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P1; question 6"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 7
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 7,
+      "raw_answer": "D",
+      "display_text": "D",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P1; question 7"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 8
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 8,
+      "raw_answer": "B",
+      "display_text": "B",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P1; question 8"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 9
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 9,
+      "raw_answer": "If",
+      "display_text": "If",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P2; question 9"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 10
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 10,
+      "raw_answer": "out",
+      "display_text": "out",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P2; question 10"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 11
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 11,
+      "raw_answer": "What",
+      "display_text": "What",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P2; question 11"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 12
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 12,
+      "raw_answer": "made",
+      "display_text": "made",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P2; question 12"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 13
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 13,
+      "raw_answer": "of",
+      "display_text": "of",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P2; question 13"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 14
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 14,
+      "raw_answer": "is",
+      "display_text": "is",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P2; question 14"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 15
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 15,
+      "raw_answer": "who/that",
+      "display_text": "who/that",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P2; question 15"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 16
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 16,
+      "raw_answer": "up",
+      "display_text": "up",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P2; question 16"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 17
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 17,
+      "raw_answer": "impressive",
+      "display_text": "impressive",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P3; question 17"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 18
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 18,
+      "raw_answer": "popularity",
+      "display_text": "popularity",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P3; question 18"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 19
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 19,
+      "raw_answer": "relief",
+      "display_text": "relief",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P3; question 19"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 20
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 20,
+      "raw_answer": "inexperienced",
+      "display_text": "inexperienced",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P3; question 20"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 21
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 21,
+      "raw_answer": "hopeless",
+      "display_text": "hopeless",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P3; question 21"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 22
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 22,
+      "raw_answer": "surroundings",
+      "display_text": "surroundings",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P3; question 22"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 23
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 23,
+      "raw_answer": "memorable",
+      "display_text": "memorable",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P3; question 23"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 24
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 24,
+      "raw_answer": "passionate",
+      "display_text": "passionate",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P3; question 24"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 25
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 25,
+      "raw_answer": "hadn’t / had not EXPECTED | to see",
+      "display_text": "hadn’t / had not EXPECTED | to see",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P4; question 25"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 26
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 26,
+      "raw_answer": "PUT us | up",
+      "display_text": "PUT us | up",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P4; question 26"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 27
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 27,
+      "raw_answer": "cannot/can’t | be BOTHERED",
+      "display_text": "cannot/can’t | be BOTHERED",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P4; question 27"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 28
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 28,
+      "raw_answer": "keep | an EYE on",
+      "display_text": "keep | an EYE on",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P4; question 28"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 29
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 29,
+      "raw_answer": "to DISCOURAGE Jo/her | from eating/having",
+      "display_text": "to DISCOURAGE Jo/her | from eating/having",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P4; question 29"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 30
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 30,
+      "raw_answer": "to take | ACCOUNT of/into ACCOUNT",
+      "display_text": "to take | ACCOUNT of/into ACCOUNT",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P4; question 30"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 31
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 31,
+      "raw_answer": "B",
+      "display_text": "B",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P5; question 31"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 32
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 32,
+      "raw_answer": "B",
+      "display_text": "B",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P5; question 32"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 33
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 33,
+      "raw_answer": "A",
+      "display_text": "A",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P5; question 33"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 34
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 34,
+      "raw_answer": "D",
+      "display_text": "D",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P5; question 34"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 35
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 35,
+      "raw_answer": "C",
+      "display_text": "C",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P5; question 35"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 36
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 36,
+      "raw_answer": "C",
+      "display_text": "C",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P5; question 36"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 37
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 37,
+      "raw_answer": "E",
+      "display_text": "E",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P6; question 37"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 38
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 38,
+      "raw_answer": "C",
+      "display_text": "C",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P6; question 38"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 39
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 39,
+      "raw_answer": "A",
+      "display_text": "A",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P6; question 39"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 40
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 40,
+      "raw_answer": "F",
+      "display_text": "F",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P6; question 40"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 41
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 41,
+      "raw_answer": "D",
+      "display_text": "D",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P6; question 41"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 42
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 42,
+      "raw_answer": "G",
+      "display_text": "G",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P6; question 42"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 43
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 43,
+      "raw_answer": "C",
+      "display_text": "C",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P7; question 43"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 44
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 44,
+      "raw_answer": "A",
+      "display_text": "A",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P7; question 44"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 45
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 45,
+      "raw_answer": "E",
+      "display_text": "E",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P7; question 45"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 46
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 46,
+      "raw_answer": "D",
+      "display_text": "D",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P7; question 46"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 47
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 47,
+      "raw_answer": "B",
+      "display_text": "B",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P7; question 47"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 48
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 48,
+      "raw_answer": "C",
+      "display_text": "C",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P7; question 48"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 49
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 49,
+      "raw_answer": "A",
+      "display_text": "A",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P7; question 49"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 50
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 50,
+      "raw_answer": "B",
+      "display_text": "B",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P7; question 50"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 51
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 51,
+      "raw_answer": "D",
+      "display_text": "D",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P7; question 51"
+    }
+  },
+  {
+    "table_name": "question_answer",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 52
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 52,
+      "raw_answer": "E",
+      "display_text": "E",
+      "accepted_answers": null,
+      "answer_status": "official",
+      "answer_source": "F03-T1.pdf; PDF page 1; printed page 120; P7; question 52"
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 1,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 1,
+      "paragraph_source_key": "P1-p1",
+      "quote": "and left to",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 1,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 1,
+      "paragraph_source_key": "P1-p1",
+      "quote": "for two minutes, after which the tea is ready to be served",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 2,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 2,
+      "paragraph_source_key": "P1-p2",
+      "quote": "a range of experiments, the scientists",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 3,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 3,
+      "paragraph_source_key": "P1-p2",
+      "quote": "to the conclusion that the",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 4,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 4,
+      "paragraph_source_key": "P1-p2",
+      "quote": "to making a teapot that wouldn't melt was to use dark chocolate",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 5,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 5,
+      "paragraph_source_key": "P1-p3",
+      "quote": "wondered whether they might",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 5,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 5,
+      "paragraph_source_key": "P1-p3",
+      "quote": "end up with chocolate tea",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 6,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 6,
+      "paragraph_source_key": "P1-p3",
+      "quote": "that the water was poured in carefully, the",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 7,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 7,
+      "paragraph_source_key": "P1-p3",
+      "quote": "majority of it wouldn't be affected",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 8,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 8,
+      "paragraph_source_key": "P1-p3",
+      "quote": "it was lovely with a",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P1",
+      "question_no": 8,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P1",
+      "question_no": 8,
+      "paragraph_source_key": "P1-p3",
+      "quote": "taste of chocolate",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 9,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 9,
+      "paragraph_source_key": "P2-p1",
+      "quote": "so, you'll know that once you figure",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 10,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 10,
+      "paragraph_source_key": "P2-p1",
+      "quote": "once you figure",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 10,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 10,
+      "paragraph_source_key": "P2-p1",
+      "quote": "how to do it and get good at it",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 11,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 11,
+      "paragraph_source_key": "P2-p2",
+      "quote": "surprised the researchers is that getting things wrong",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 12,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 12,
+      "paragraph_source_key": "P2-p2",
+      "quote": "even when mistakes are",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 13,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 13,
+      "paragraph_source_key": "P2-p2",
+      "quote": "the brain keeps a record",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 13,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 13,
+      "paragraph_source_key": "P2-p2",
+      "quote": "errors and draws on them",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 14,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 14,
+      "paragraph_source_key": "P2-p2",
+      "quote": "whenever a new skill",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 14,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 14,
+      "paragraph_source_key": "P2-p2",
+      "quote": "being learnt. This ensures that mistakes aren't repeated",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 15,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 15,
+      "paragraph_source_key": "P2-p2",
+      "quote": "probably explains why people",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 15,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 15,
+      "paragraph_source_key": "P2-p2",
+      "quote": "master one sport or instrument can pick",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 16,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 16,
+      "paragraph_source_key": "P2-p2",
+      "quote": "master one sport or instrument can pick",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P2",
+      "question_no": 16,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P2",
+      "question_no": 16,
+      "paragraph_source_key": "P2-p2",
+      "quote": "others with relative ease",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 17,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 17,
+      "paragraph_source_key": "P3-p1",
+      "quote": "when you see it on TV, and apparently it's been increasing in",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 18,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 18,
+      "paragraph_source_key": "P3-p1",
+      "quote": "it's been increasing in",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 18,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 18,
+      "paragraph_source_key": "P3-p1",
+      "quote": "over the past few years",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 19,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 19,
+      "paragraph_source_key": "P3-p2",
+      "quote": "to discover I wasn't the only beginner",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 20,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 20,
+      "paragraph_source_key": "P3-p2",
+      "quote": "everyone else was also very",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 20,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 20,
+      "paragraph_source_key": "P3-p2",
+      "quote": "like me. At first we were all pretty",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 21,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 21,
+      "paragraph_source_key": "P3-p2",
+      "quote": "and some of us even fell in the water, but we learnt quickly",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 22,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 22,
+      "paragraph_source_key": "P3-p3",
+      "quote": "were so beautiful and relaxing that I was really reluctant",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 23,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 23,
+      "paragraph_source_key": "P3-p3",
+      "quote": "day. I signed up for a one-week course without a moment's hesitation",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P3",
+      "question_no": 24,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P3",
+      "question_no": 24,
+      "paragraph_source_key": "P3-p3",
+      "quote": "about kayaking as my sister",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 25,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 25,
+      "paragraph_source_key": "P4-p0",
+      "quote": "complete the second sentence so that it has a similar meaning to the first sentence",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 26,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 26,
+      "paragraph_source_key": "P4-p0",
+      "quote": "using the word given. Do not change the word given.",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 27,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 27,
+      "paragraph_source_key": "P4-p0",
+      "quote": "You must use between two and five words, including the word given.",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 28,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 28,
+      "paragraph_source_key": "P4-p0",
+      "quote": "complete the second sentence so that it has a similar meaning to the first sentence",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 29,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 29,
+      "paragraph_source_key": "P4-p0",
+      "quote": "Do not change the word given. You must use between two and five words, including the word given.",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P4",
+      "question_no": 30,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P4",
+      "question_no": 30,
+      "paragraph_source_key": "P4-p0",
+      "quote": "using the word given. Do not change the word given.",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 31,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 31,
+      "paragraph_source_key": "P5-p1",
+      "quote": "I couldn't understand why I'd be expected to put something on hold that I had a chance of being good at",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 32,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 32,
+      "paragraph_source_key": "P5-p2",
+      "quote": "but also a steadiness that prevents any overconfidence she could be forgiven for feeling",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 33,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 33,
+      "paragraph_source_key": "P5-p4",
+      "quote": "There aren't many stories out there about characters who aren't inadequate in some way",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 33,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 33,
+      "paragraph_source_key": "P5-p4",
+      "quote": "it can undermine their self-belief",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 34,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 34,
+      "paragraph_source_key": "P5-p4",
+      "quote": "is teenagers can't possibly know who they are because they're not experienced enough to know the truth. And when that is being pushed on them by writers",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 35,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 35,
+      "paragraph_source_key": "P5-p5",
+      "quote": "but in fact they almost put her off writing entirely",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 35,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 35,
+      "paragraph_source_key": "P5-p5",
+      "quote": "is this seriously what I have to be doing to write a good book and am I really up to it?",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P5",
+      "question_no": 36,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P5",
+      "question_no": 36,
+      "paragraph_source_key": "P5-p6",
+      "quote": "Ultimately writers sink or swim according to their talents so I don't take things for granted",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 37,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 37,
+      "paragraph_source_key": "P6-p2",
+      "quote": "It is not unusual, for example, for some students to fall asleep on the journey to school",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 37,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 37,
+      "paragraph_source_key": "P6-p1",
+      "quote": "In northern Scandinavia the long dark winters can be difficult",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 38,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 38,
+      "paragraph_source_key": "P6-p3",
+      "quote": "stepping through the door in the morning is like walking into bright sunshine",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 38,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 38,
+      "paragraph_source_key": "P6-p3",
+      "quote": "surprised to see that the sun hasn't come up yet",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 39,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 39,
+      "paragraph_source_key": "P6-p4",
+      "quote": "Light tells the brain to halt production of melatonin",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 39,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 39,
+      "paragraph_source_key": "P6-p4",
+      "quote": "the effects of the lack of light can slowly build up",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 40,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 40,
+      "paragraph_source_key": "P6-p5",
+      "quote": "they objected, saying that pupils would become restless",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 40,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 40,
+      "paragraph_source_key": "P6-p4",
+      "quote": "Exposure to light of the correct wavelength and intensity helps the body",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 41,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 41,
+      "paragraph_source_key": "P6-p6",
+      "quote": "point to other evidence to support their case",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 41,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 41,
+      "paragraph_source_key": "P6-p6",
+      "quote": "Designers may have ignored the significance of this",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 42,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 42,
+      "paragraph_source_key": "P6-p7",
+      "quote": "there was no evidence that they actually caused any harm",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P6",
+      "question_no": 42,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P6",
+      "question_no": 42,
+      "paragraph_source_key": "P6-p7",
+      "quote": "So Andersson decided to go ahead with installing them hoping for better academic performance",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 43,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 43,
+      "paragraph_source_key": "P7-C",
+      "quote": "It was a fantastic debut",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 43,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 43,
+      "paragraph_source_key": "P7-C",
+      "quote": "It was a track that was hard to improve on, and they never did.",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 44,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 44,
+      "paragraph_source_key": "P7-A",
+      "quote": "This is more impressive than you might think just reading about it",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 44,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 44,
+      "paragraph_source_key": "P7-A",
+      "quote": "because each band member takes a line in turn",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 45,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 45,
+      "paragraph_source_key": "P7-E",
+      "quote": "but it's virtually impossible to detect them over the unusual electronic sounds of the backing track",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 46,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 46,
+      "paragraph_source_key": "P7-D",
+      "quote": "a classic guilty pleasure for many people who wouldn't normally admit to liking a soft-pop love song",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 47,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 47,
+      "paragraph_source_key": "P7-B",
+      "quote": "It hasn't been a hit, though many in the industry feel it should have been",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 48,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 48,
+      "paragraph_source_key": "P7-C",
+      "quote": "four years later, it's still unique",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 49,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 49,
+      "paragraph_source_key": "P7-A",
+      "quote": "because each band member takes a line in turn",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 49,
+      "sort_order": 2
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 49,
+      "paragraph_source_key": "P7-A",
+      "quote": "It's a showcase for The Warts' excellent voices",
+      "sort_order": 2
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 50,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 50,
+      "paragraph_source_key": "P7-B",
+      "quote": "when a new producer was brought in who gave them a completely different sound",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 51,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 51,
+      "paragraph_source_key": "P7-D",
+      "quote": "they deal with themes that everyone will have experienced at some time in their lives",
+      "sort_order": 1
+    }
+  },
+  {
+    "table_name": "question_evidence",
+    "row_key": {
+      "section_code": "P7",
+      "question_no": 52,
+      "sort_order": 1
+    },
+    "data": {
+      "section_code": "P7",
+      "question_no": 52,
+      "paragraph_source_key": "P7-E",
+      "quote": "more those of a thirty-year-old, than of a boy of seventeen",
+      "sort_order": 1
+    }
+  }
+]

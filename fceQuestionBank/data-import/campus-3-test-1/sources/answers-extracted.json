@@ -1,0 +1,28 @@
+{
+  "source": "E:\\PersonalDocument\\project\\questionBankWebsite\\题目\\FCE题目\\FCE-ANSWERS\\校园版\\F03-T1.pdf",
+  "sha256": "fc3492b3ea90d20bf0af6c77cdf2610b81517f9d9015b50c50fd5315eea1128b",
+  "role": "answers",
+  "total_pages": 12,
+  "selected_pages": [
+    1
+  ],
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "text": "",
+      "width_points": 827.52002,
+      "height_points": 577.91998,
+      "needs_visual_or_ocr": true,
+      "visually_verified": false,
+      "rendered_image": "answers-pages/page-001.png"
+    }
+  ],
+  "notes": [
+    "Page numbers are 1-based PDF indices, not printed page numbers.",
+    "Short/empty text must be read visually or with OCR; it does not mean no questions.",
+    "The scan heuristic is not OCR quality validation; all imported text needs verification.",
+    "Rendering does not mark a page verified or transcribe answers.",
+    "Only explicitly selected files are read; no sibling PDFs are opened."
+  ]
+}
