@@ -39,6 +39,7 @@ class FlywayConfigTests {
     }
 
     @Test
+    // 测试目的：验证 Flyway 只初始化一次，并识别当前全部 12 个迁移脚本及其命名规则。
     void explicitConfigurationInitializesFlywayOnceWithApplicationNamingRules() {
         runner().run(context -> {
             assertThat(context).hasNotFailed().hasSingleBean(Flyway.class)
@@ -50,11 +51,12 @@ class FlywayConfigTests {
             assertThat(config.getSqlMigrationSuffixes()).containsExactly(".sql");
             assertThat(config.isValidateMigrationNaming()).isTrue();
             assertThat(config.isFailOnMissingLocations()).isTrue();
-            assertThat(context.getResources("classpath*:db/migration/*.sql")).hasSize(10);
+            assertThat(context.getResources("classpath*:db/migration/*.sql")).hasSize(12);
         });
     }
 
     @Test
+    // 测试目的：验证显式禁用 Flyway 时不会触发迁移。
     void disabledFlywayDoesNotRunMigration() {
         runner().withPropertyValues("spring.flyway.enabled=false").run(context -> {
             assertThat(context).hasNotFailed().doesNotHaveBean(Flyway.class);
@@ -63,6 +65,7 @@ class FlywayConfigTests {
     }
 
     @Test
+    // 测试目的：验证迁移策略调用 migrate 一次，并将失败向启动层传播。
     void migrationStrategyCallsMigrateOnceAndPropagatesFailure() {
         var calls = new AtomicInteger();
         var strategy = new FlywayConfig().flywayMigrationStrategy();

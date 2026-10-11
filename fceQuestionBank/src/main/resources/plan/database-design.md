@@ -234,7 +234,7 @@ Flyway 结构迁移只执行一次，不修改已经应用的迁移。后续数�
 
 ## 6. 后续读取接口边界
 
-后续服务需提供目录、按 slug 读取试卷、按 Part 读取题目及解析的能力；本期不新增控制器或接口实现，也不承诺尚未实现的 API 地址。
+读取服务现已提供目录、按 slug 读取试卷、按 Part 读取题目及解析的能力：`GET /api/v1/catalog`、`GET /api/v1/papers/{slug}`、`GET /api/v1/papers/{slug}/sections/{code}`。详细契约与测试边界见 [读取 API 说明](../../../../docs/read-api.md)。
 
 读取结果区分数据库 id 与原 question_no/source_key。为兼容旧前端，可把共用选项组重新展开为每题 options，并将引用还原为源段落标识。数据库去重不要求旧前端同步改写所有渲染逻辑。
 
